@@ -3,7 +3,9 @@ title: Introduction
 type: docs
 ---
 
-# El principio
+![X1V45282-Enhanced-SR.jpg](/images/X1V45282-Enhanced-SR.jpg)
+
+# Primera parte
 
 {{% columns %}}
 ## Viaje
@@ -17,9 +19,8 @@ Un viaje que había empezado muchos años atrás comenzó a tomar forma física 
 ## Sibila
 
 En el 2010, en un taxi, escuché fragmentos del 
-"El Cant de la Sibil-La: Mallorca / València, 1400-1560". Sentí fascinación. 
-
-Cuatro años después  
+"El Cant de la Sibil-La: Mallorca / València, 1400-1560". Sentí fascinación, especialmente por la tradición del canto 
+en Mallorca, tierra de mis ancestros y donde iría a vivir 4 años después.
 
 El segundo día de la residencia en Lazio visté Tívoli y descubrí que allí había un templo a la Sibila Tiburtina.
 
@@ -28,20 +29,13 @@ Interpreté esto como una señal del camino que unía a los dos territorios y a 
 {{% /columns %}}
 
 
-## Arte y magia, 
+## Arte y magia
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+> "El origen del arte no es el resultado de una necesidad estética, como generalmente se cree, sino de una necesidad de dominación mágica."
+>
+> -- <cite> Física y metafísica de la pintura, Louis Cattiaux </cite>
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
 
-## Locis suis novi cum suoque decidit eadem
+## Resultados de esta etapa
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+

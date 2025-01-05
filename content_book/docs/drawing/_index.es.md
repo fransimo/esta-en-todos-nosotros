@@ -9,8 +9,7 @@ bookHidden: false
 
 Los dibujos automáticos son una manera de reflexionar desde mi adolescencia. Están aquí como documentación del proceso.
 
-### 2024-10-21
-
+## 2024-10-21
 
 ![](IMG_0179.jpeg)
 
@@ -26,7 +25,7 @@ Los dibujos automáticos son una manera de reflexionar desde mi adolescencia. Es
 
 ![](IMG_0190.jpeg)
 
-### 2024-10-28
+## 2024-10-28
 
 ![](IMG_0760.jpeg)
 
@@ -47,10 +46,10 @@ Los dibujos automáticos son una manera de reflexionar desde mi adolescencia. Es
 ![](IMG_0772.jpeg)
 
 ![](IMG_0773.jpeg)
-### 2024-11-04
+## 2024-11-04
 
 ![](IMG_1494.jpeg)
-### 2024-11-10
+## 2024-11-10
 
 ![](IMG_1496.jpeg)
 

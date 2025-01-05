@@ -13,7 +13,10 @@ title: "Metodología"
 
 # Introducción
 
-Este documento resume el estado de la investigación sobre _arte y magia_ realizada en el marco de la residencia de L'Aquila Reale en Civitella di Licenza, Roma, Italia, desde el 16 de septiembre del 2024 al 16 de enero del 2025.
+Este documento resume el estado de la investigación sobre _arte y magia_ realizada en el marco 
+de una residencia en Civitella di Licenza, Roma, Italia, desde el 16 de septiembre del 2024 al 17 de enero del 2025 
+parte del programa [Residency action de Culture Moves Europe](https://culture.ec.europa.eu/creative-europe/creative-europe-culture-strand/culture-moves-europe).
+
 
 # Declaración
 

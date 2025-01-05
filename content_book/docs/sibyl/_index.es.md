@@ -1,8 +1,8 @@
 ---
-weight: 1
+weight: 2
 bookFlatSection: false
 title: "Sibila"
-bookHidden: true
+bookHidden: false
 ---
 
 # Sibila

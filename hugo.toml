@@ -27,31 +27,28 @@ enableGitInfo = true
 [languages.en]
   languageName = 'English'
   contentDir = 'content_book'
-  weight = 3
+  weight = 1
 
 [languages.es]
   languageName = 'Español'
   title = 'Está en todos nosotros'
   contentDir = 'content_book'
-  weight = 1
+  weight = 2
 
 [languages.it]
   languageName = 'Italiano'
   contentDir = 'content_book'
   title = 'È dentro di tutti noi'
-  weight = 2
+  weight = 3
 
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
+  name = "Fran Simó"
+  url = "https://fransimo.info/"
   weight = 10
 
-[[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/themes/hugo-book/"
-  weight = 20
+
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
@@ -78,7 +75,7 @@ enableGitInfo = true
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  BookRepo = 'https://github.com/fransimo/esta-en-todos-nosotros'
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.

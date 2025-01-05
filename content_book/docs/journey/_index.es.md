@@ -1,8 +1,8 @@
 ---
-weight: 2
+weight: 5
 bookFlatSection: false
 title: "Viaje"
-bookHidden: true
+bookHidden: false
 ---
 
 # Viaje

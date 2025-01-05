@@ -47,7 +47,7 @@ Los saltos binarios han sido intentos de mezclar la informática en todo el proc
 
 Los libros y los fanzines, físcos y electrónicos me permiten contar historias de forma que puedan ser "leidas" más allá de un espacio expositivo.
 
-Aquí puedes descargar la versión [PDF](/static/fanzine/Esta_en_todos_nosotros.pdf) o [EPUB](/static/fanzine/Esta_en_todos_nosotros.epub).
+Aquí puedes descargar la versión [PDF](/fanzine/Esta_en_todos_nosotros.pdf) o [EPUB](/fanzine/Esta_en_todos_nosotros.epub).
 
 ### Pequeña guía para hablar con los árboles y otros seres
 

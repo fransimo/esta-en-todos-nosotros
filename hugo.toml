@@ -27,19 +27,19 @@ enableGitInfo = true
 [languages.en]
   languageName = 'English'
   contentDir = 'content_book'
-  weight = 1
+  weight = 3
 
 [languages.es]
   languageName = 'Español'
   title = 'Está en todos nosotros'
   contentDir = 'content_book'
-  weight = 2
+  weight = 1
 
 [languages.it]
   languageName = 'Italiano'
   contentDir = 'content_book'
   title = 'È dentro di tutti noi'
-  weight = 3
+  weight = 2
 
 [menu]
 # [[menu.before]]

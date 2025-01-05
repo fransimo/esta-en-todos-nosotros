@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://example.com/'
-title = 'Hugo Book'
+baseURL = 'https://esta-en-todos-nosotros.fransimo.info/'
+title = 'It is within all of us'
 theme = 'hugo-book'
 
 # Book configuration
@@ -20,21 +20,25 @@ enableGitInfo = true
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
+
+
+
 [languages]
 [languages.en]
   languageName = 'English'
   contentDir = 'content_book'
   weight = 1
 
-[languages.zh]
-  languageName = 'Chinese'
-  contentDir = 'content.zh'
+[languages.es]
+  languageName = 'Español'
+  title = 'Está en todos nosotros'
+  contentDir = 'content_book'
   weight = 2
 
-[languages.he]
-  languageName = 'Hebrew'
-  contentDir = 'content.he'
-  languageDirection = 'rtl'
+[languages.it]
+  languageName = 'Italiano'
+  contentDir = 'content_book'
+  title = 'È dentro di tutti noi'
   weight = 3
 
 [menu]

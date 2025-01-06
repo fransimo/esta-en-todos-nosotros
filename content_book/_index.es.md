@@ -34,7 +34,7 @@ mi búsqueda.
 Sacerdotisas de Apolo, mujeres que hablan en nombre de Dios usando el trance, la meditación y 
 los estados alterados de conciencia para hacer un puente entre el inframundo y el mundo de la luz, 
 entre lo invisible y lo visible, las sibilas estaban conectadas con mi camino espiritual y con una
-verdad intuida desde hacía muchos años.
+verdad profunda que siempre había sentido.
 
 El libro _En los oscuros lugares del saber_, de Peter Kingsley, sería otra de las pistas que me ayudaría a empezar a unir 
 los puntos y me daría aún más guías para seguir viajando.
@@ -94,7 +94,7 @@ interés. [Puedes leer una pequeña guía de meditación en este enlace](/docs/t
 
 # Conclusiones y preguntas 
 
-Mi arte siempre ha sido mágico. No había que unir nada. Quedan cosas por explorar, puertas que abrir, miedos que 
+Descubrí que mi arte siempre ha sido mágico. No había que unir nada. Quedan cosas por explorar, puertas que abrir, miedos que 
 atravesar, sombras que reconocer para poder ser mejor canal, ser más, vivir más desde el corazón y 
 menos desde el miedo. El arte será una más de las consecuencias. 
 

@@ -4,21 +4,14 @@ bookFlatSection: false
 title: "Metodología"
 ---
 
-# Metodología
-
- "La verdad es sencilla, de una hermosa sencillez: si queremos crecer, convertirnos en verdaderos hombres y mujeres, tenemos que enfrentarnos a la muerte antes de morir. Tenemos que descubrir lo que es para poder escabullirnos entre bastidores y desaparecer."
-[En los oscuros lugares del saber],[Peter Kingsley]
-
----
-
-# Introducción
+# Contexto
 
 Este documento resume el estado de la investigación sobre _arte y magia_ realizada en el marco 
 de una residencia en Civitella di Licenza, Roma, Italia, desde el 16 de septiembre del 2024 al 17 de enero del 2025 
 parte del programa [Residency action de Culture Moves Europe](https://culture.ec.europa.eu/creative-europe/creative-europe-culture-strand/culture-moves-europe).
 
 
-# Declaración
+# Declaración al inicio de la primera parte
 
 Mi investigación artística explora la relación entre el arte y la magia, con la Sibila como nexo entre Mallorca, Tívoli y los flujos de agua (ninfas y náyades). Investigo figuras de sanación pre-hipocrática y chamánica, así como artistas 'medium' como Hilma af Klint, Leonora Carrington y Remedios Varo.
 
@@ -30,10 +23,9 @@ ___
 
 # Experimentación
 
-
 En mi camino hay una constante, cada día sé menos y experimento más. Hasta ahora, la vía para saber menos es aprender más. Aprender más desde el cuerpo, la mente, la intuición y la meditación.
 
-"Todo ocurre en el cuerpo”
+"Todo ocurre en el cuerpo".
 
 ## Metodología
 
@@ -65,68 +57,10 @@ La Sibila tiene su sección propia [aquí](/docs/sibyl).
 
 ## Conversaciones con los árboles
 
-En [Pequeña guía para hablar con los árboles](/docs/talking_with_the_trees) y otros seres se explica el proceso para entrar en meditación y comunicación con la red de vida del bosque.
+En [Pequeña guía para hablar con los árboles](/docs/talking_with_the_trees) y otros seres se explica el 
+proceso para entrar en meditación y comunicación con la red de vida del bosque.
 
-Abajo se detallan las sesiones.
-
-### 2024-10-12
-
-¿Para qué he venido aquí?
-
-Veo la imagen de la portada de un libro de biodinámica craneosacral. Interpretación del momento: Dios me ha traído para que lea sobré biodinámica.
-
-
-¿Cómo lo puedo plasmar artísticamente?
-
-Veo la panza de una mujer atractiva con piel blanca y suave. No veo a la mujer, solo la panza y el ombligo... parece una foto blanco de negro tomando en la intimidad.
-
-
-La forma artística es el ombligo del mundo ¿Ónfalo?. También se cruza el círculo con un punto dentro y más tarde recuerdo el trabajo de [Ilaria](https://ilaria-gallese.myportfolio.com/manifesto-creativo) y el logo de Pau Lluc.
-
-
-¿Está bien trabajar con el libro Las voces de nuestros ancestros?
-
-Percepción: OK.
-
-### 2024-11-10
-
-Por el vídeo sé que buscaba distintas formas de entrar en el campo del árbol. No recuerdo ninguna pregunta.
-
-### 2024-11-11
-
-Pido claridad... mi oración de siempre. Pregunto por la expresión fotográfica del lugar y veo "la foto". Que ya en ese momento entiendo que es la única necesaria.
-
-Propongo a una amiga hacer preguntas para ella.. En las respuestas siempre hay dolor físico. En las mías no.
-
-Durante las capturas fotográficas tengo un fuerte golpe emocional y rompo a llorar y a gritar. Lo interpreto como el momento de liberación de los problemas anteriores por la publicación de la fotografía de Rosella.
-### 2024-11-12
-
-Dolor de cabeza. Algo no está yendo bien y no lo entiendo.
-
-### 2024-11-17
-
-Pido claridad para los problemas de relaciones de la residencia. No hay imágenes pero me tranquilizo.
-
-### 2024-11-24
-
-
-Pido claridad para el rumbo en todos los aspectos.
-
-En la conversación entro en mucho dolor y lloro mucho. Queda claro que tengo que soltar todo. Veo que muchos vínculos ya no existen. Simplemente la conexión con algunas personas ya no está ahí. La desconexión fue muy evidente el día 20-11, al volver de Roma.
-
-Al “caer” rompo las gafas. Más tarde durante el día sigo rompiendo cosas, tropezándome, viendo como se me caen las cosas de las manos...
-
-La meditación acaba tranquila, con claridad.
-
-### 2024-11-26
-
-Sesión guiándo a Tamara. Yo no pregunto nada. Solo guío.
-
-### 2024-11-28
-
-Pido claridad para explicar el proceso.
-
-Tamara estaba cerca y me contó que ella vió un templo en Irlanda (Newgrange) al que pudo ir en el solsticio de invierno. Entiendo esto como una posible pista.
+[Aquí se detallan las sesiones](/es/tags/hablando-con-los-árboles/).
 
 
 ## El Susurro de las Ninfas (lo pequeño contiene un universo)
@@ -188,26 +122,26 @@ Los dibujos automáticos tienen [su propia sección aquí](/docs/drawing).
 
 ## Leyendo
 
--[En los oscuros lugares del saber],[Peter Kingsley]
--[Psicomagia],[Alejandro Jodorowsky]
--[Voices of our Ancestors],[Dhyani Ywahoo]
+- En los oscuros lugares del saber, Peter Kingsley
+- Psicomagia, Alejandro Jodorowsky
+- Voices of our Ancestors, Dhyani Ywahoo
 
 ## Por leer
 
--[Física y metafísica de la pintura],[Louis Cattiaux]
--[Androginia],[Elémire Zolla]
--[Seguir con el problema. Generar parentesco en el Chthuluceno],[Donna J. Haraway]
+- Física y metafísica de la pintura, Louis Cattiaux
+- Androginia, Elémire Zolla
+- Seguir con el problema. Generar parentesco en el Chthuluceno, Donna J. Haraway
 
 # Artistas
 
--[Hilma af Klint]
--[Leonora Carrignton]
--[Remedios Varo]
--[Louis Cattiaux]
--[Emma Kunz]
--[Mikalojus Konstantinas Čiurlionis]
--[Mapi Rivera]
--[Maria Arnal]
+- Hilma af Klint
+- Leonora Carrignton
+- Remedios Varo
+- Louis Cattiaux
+- Emma Kunz
+- Mikalojus Konstantinas Čiurlionis
+- Mapi Rivera
+- Maria Arnal
 
 Pendiente: Agregar nuevos / actuales... ver documentación Mapi
 
@@ -224,15 +158,15 @@ He reunido todas las “pistas” en un mapa. Creo que la investigación tiene q
 En la [web](https://www.google.com/maps/d/edit?mid=1N9lbW-JlA8tJtXUqbPD6LnPmdEML85I&usp=sharing)
 
 - Puntos amarillos: son templos o posibles lugares de culto u origen de las sibilas más conocidas.
-- Puntos violetas: lugares mencionados en el libro [En los oscuros lugares del saber].
-- Puntos grises: lugares relacionados con el culto a [Dionisio] o que la intuición me ha marcado como destino.
+- Puntos violetas: lugares mencionados en el libro En los oscuros lugares del saber.
+- Puntos grises: lugares relacionados con el culto a Dionisio o que la intuición me ha marcado como destino.
 
 
 ## Preguntas abiertas
 
 ¿Cómo conectar en la obra todas las partes: fotografía, informática (new media) y magia?
 
-Si ¿“El arte es mágico o no es.”?  La exposición como un ritual? Cómo convertir una obra en mágica... ? Cuánta fuerza ha de tener para transportarte sin artificios. 
+Si ¿“El arte es mágico o no es.”? La exposición como un ritual? Cómo convertir una obra en mágica... ? Cuánta fuerza ha de tener para transportarte sin artificios. 
 
 
 

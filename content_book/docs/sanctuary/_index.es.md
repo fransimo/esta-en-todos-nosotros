@@ -21,7 +21,12 @@ Este viaje, entre el cielo y la tierra, es el mismo viaje de las Sibilas entre A
 
 El viaje tiene como objetivo entrar en la oscuridad: el lugar donde nace el sol y donde va a descansar. Es el lugar donde reside todo el conocimiento que espera ser iluminado. Los chamanes van allí a aprender, y la sabiduría que encuentran tiene el poder de sanar.
 
+# Fotografía
 ![El susurro de las ninfas](/images/X1V45282-Enhanced-SR.jpg)
+
+# Video
+
+{{< youtube VyhtDy2UCUk >}}
 
 ## Otras imágenes del "santuario"
 

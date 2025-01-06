@@ -28,8 +28,10 @@ Interpreté esto como una señal: la [Sibila](/docs/sibyl) me guiaría en el cam
 
 {{% /columns %}}
 
+## Arte y mágia
 
-## Resultados de esta etapa
+
+# Resultados de esta etapa
 
 En esta web reúno los apuntes del viaje. La primera parte es la etapa de septiembre del 2024 a enero del 2025 en Italia.
 
@@ -39,17 +41,23 @@ La lectura: Los oscuros lugares del saber de Peter Kingsley.
 Los saltos binarios han sido intentos de mezclar la informática en todo el proceso.
 
 
-### El susurro de las ninfas
+## El susurro de las ninfas
+
+### Fotografía
 
 ![El susurro de las ninfas](/images/X1V45282-Enhanced-SR.jpg)
 
-### Fanzine
+### Video
+
+{{< youtube VyhtDy2UCUk >}}
+
+## Fanzine
 
 Los libros y los fanzines, físcos y electrónicos me permiten contar historias de forma que puedan ser "leidas" más allá de un espacio expositivo.
 
 Aquí puedes descargar la versión [PDF](/fanzine/Esta_en_todos_nosotros.pdf) o [EPUB](/fanzine/Esta_en_todos_nosotros.epub).
 
-### Pequeña guía para hablar con los árboles y otros seres
+## Pequeña guía para hablar con los árboles y otros seres
 
 Al comentar que parte de la metodología de investigación era "hablar con los árboles" algunas personas.
 [Puedes leerla en este enlace](/docs/talking_with_the_trees).

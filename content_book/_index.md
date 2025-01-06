@@ -87,7 +87,7 @@ Zine. A5. 32 pages.
 
 The zine combines photography, drawings, maps, and important phrases from Kingsley's book.
 
-You can download the [PDF version](/fanzine/Esta_en_todos_nosotros.pdf) or the [EPUB version](/fanzine/Esta_en_todos_nosotros.epub).
+You can download the [PDF version](/fanzine/Esta_en_todos_nosotros_en.pdf) or the [EPUB version](/fanzine/It_is_within_all_of_us.epub).
 
 ### A Small Guide to Talking with Trees and Other Beings
 

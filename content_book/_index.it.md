@@ -85,7 +85,7 @@ Fanzine. A5. 32 pagine.
 
 La fanzine unisce fotografia, disegni, mappe, frasi importanti tratte dal libro di Kingsley.
 
-Puoi scaricare la versione [PDF](/fanzine/Esta_en_todos_nosotros.pdf) o [EPUB](/fanzine/Esta_en_todos_nosotros.epub).
+Puoi scaricare la versione [PDF](/fanzine/Esta_en_todos_nosotros_it.pdf) o [EPUB](/fanzine/E_dentro_di_tutti_noi.epub).
 
 ### Piccola guida per parlare con gli alberi e altri esseri
 

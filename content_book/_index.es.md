@@ -63,18 +63,32 @@ Como cierre de etapa en la residencia se decidió hacer un Open Studio para el q
 
 ![El susurro de las ninfas](/images/X1V45282-Enhanced-SR.jpg)
 
+````
+Digital print. 1,60m x 90 cm
+````
+
 ### El susurro de las ninfas - Video
 
 {{< youtube VyhtDy2UCUk >}}
 
-### Fanzine
+````
+Video 4k. 5' 31"
+````
+
+### Está en todos nosotros 10.09.24 / 17.01.25
+
+````
+Fanzine. A5. 32 páginas.
+````
 
 El fanzine une la fotografía, los dibujos, mapas, frases importantes del libro de Kingsley.
 
 Aquí puedes descargar la versión [PDF](/fanzine/Esta_en_todos_nosotros.pdf) o [EPUB](/fanzine/Esta_en_todos_nosotros.epub).
 
 ### Pequeña guía para hablar con los árboles y otros seres
-
+````
+Fanzine, A5, 12 páginas
+````
 Al comentar que parte de la metodología de investigación era "hablar con los árboles" algunas personas mostraron 
 interés. [Puedes leer una pequeña guía de meditación en este enlace](/docs/talking_with_the_trees).
 

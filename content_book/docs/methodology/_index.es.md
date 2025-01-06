@@ -70,47 +70,7 @@ El Susurro de las Ninfas tiene [su propia sección aquí](/docs/sanctuary).
 
 ## Saltos binarios
 
-### Rumbos en los mapas
-
-Si la Sibila es una flecha y la investigación estudia un viaje ¿por qué no dibujar mapas?
-
-Hace tiempo, momentos antes de aterrizar en Palma, vi un triángulo entre las montañas. Intuí que debía ir al centro pero que también era una flecha que apuntaba hacia algún lugar hacia el norte.
-
-Usando la misma idea quise ver cómo se proyectaba una línea entre el Santuario de LLuc y el templo de la Sibila de Tívoli.
-
-También está el "pin" en Eritrea (actual Ildırı, Turquía).
-
-Sin conclusiones pero seguiré experimentando. La proyección del rumbo no acaba de funcionar bien.
-
-
-![](Screenshot_2024-11-13_at_16.43.58.png)
-
-### Análisis estadístico de imágenes
-
-Imagen de referencia
-
-![](20241112_1017_X1V45305_fransimo.jpg)
-
-Stack de 7 imágenes con variaciones de exposición. [Skewness](https://en.wikipedia.org/wiki/Skewness) o [asimetría estadística](https://es.wikipedia.org/wiki/Asimetr%C3%ADa_estad%C3%ADstica).
-
-![](20241112_1021_X1V45302_fransimo.jpg)
-
-Las mismas imágenes combinadas con diferentes operaciones.
-
-![](20241112_1021_X1V45302_fransimo_layers.jpg)
-
-## Firma, círculo, identidad
-
-La visión en la primera conversación con el árbol fue una mujer en la cama en intimidad, sin rostro. La mirada se enfoca al ombligo. Lo vinculé con el Ónfalo como obligo y representado con un círculo con un punto dentro. Ese día, más tarde lo relacioné con la Monada, Pau e Ilaria.
-
-El 13 de noviembre veo también la relación con mis firmas y mis logos. Ambas firmas tienen un círculo principal y un punto en el exterior abajo a la derecha. Los logos ya llevan el punto en el centro.
-
-Nota: [Pau Lluc](https://pau-lluc.xyz/) es mi seudónimo de masajista.
-
-
-| Fran Simó - Legal | Fran Simó - vagabundo | Pau Lluc         | Unity Labs                  |
-| ----------------- | --------------------- | ---------------- | --------------------------- |
-| ![](IMG_1603.png) | ![](IMG_1604.png)     | ![](PauLluc.png) | ![](Sri_Yantra_2_500px.png) |
+los saltos binarios tienen [su sección aquí](/docs/binary_links).
 
 
 ## Dibujos automáticos
@@ -147,11 +107,14 @@ Pendiente: Agregar nuevos / actuales... ver documentación Mapi
 
 # Siguientes pasos
 
-Esta investigación es un viaje. La residencia ha supuesto dejar mi trabajo y mi casa para intentar una nueva forma de vida. Estos 4 primeros meses en Italia son solo el primer paso. Mi intención es poder continuar investigando y dando forma artística, ritual, canalizadora y sanadora a este proceso.
+Esta investigación es un viaje. La residencia ha supuesto dejar mi trabajo y mi casa para intentar una 
+nueva forma de vida. Estos 4 primeros meses en Italia son solo el primer paso. Mi intención es poder continuar 
+investigando y dando forma artística, ritual, canalizadora y sanadora a este proceso.
 
 ## Mapa 
 
-He reunido todas las “pistas” en un mapa. Creo que la investigación tiene que seguir en movimiento. Leer es importante, pero para entender creo que he de caminar por aquellos lugares donde la tradición vivió.
+He reunido todas las “pistas” en un mapa. Creo que la investigación tiene que seguir en movimiento. 
+Leer es importante, pero para entender creo que he de caminar por aquellos lugares donde la tradición vivió.
 
 ![](mapa_está_en_todos_nosotros_2.jpeg)
 
@@ -160,15 +123,6 @@ En la [web](https://www.google.com/maps/d/edit?mid=1N9lbW-JlA8tJtXUqbPD6LnPmdEML
 - Puntos amarillos: son templos o posibles lugares de culto u origen de las sibilas más conocidas.
 - Puntos violetas: lugares mencionados en el libro En los oscuros lugares del saber.
 - Puntos grises: lugares relacionados con el culto a Dionisio o que la intuición me ha marcado como destino.
-
-
-## Preguntas abiertas
-
-¿Cómo conectar en la obra todas las partes: fotografía, informática (new media) y magia?
-
-Si ¿“El arte es mágico o no es.”? La exposición como un ritual? Cómo convertir una obra en mágica... ? Cuánta fuerza ha de tener para transportarte sin artificios. 
-
-
 
 
 

@@ -16,6 +16,8 @@ El viaje más largo está frente al espejo.
 
 Ciertos paisajes te transportan en el tiempo, y en tus traumas.
 
+Viajar ligero, _con la maleta más pequeña_, implicó dejar un trabajo estable, una casa y una relación. 
+
 ## ¿A dónde vas?
 
 Todos escuchamos "caminante no hay camino, se hace camino al andar"... pero yo creo que sí hay un destino, un lugar 

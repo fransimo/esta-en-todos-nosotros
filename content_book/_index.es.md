@@ -78,11 +78,19 @@ Aquí puedes descargar la versión [PDF](/fanzine/Esta_en_todos_nosotros.pdf) o 
 Al comentar que parte de la metodología de investigación era "hablar con los árboles" algunas personas mostraron 
 interés. [Puedes leer una pequeña guía de meditación en este enlace](/docs/talking_with_the_trees).
 
-# Conclusión
+# Conclusiones y preguntas 
 
-Mi arte siempre ha sido mágico. No había que unir nada. Sí quedan cosas por explorar, puertas que abrir, miedos que 
-atravesar para poder ser mejor canal, ser más, vivir más desde el corazón y menos desde el miedo. 
+Mi arte siempre ha sido mágico. No había que unir nada. Quedan cosas por explorar, puertas que abrir, miedos que 
+atravesar, sombras que reconocer para poder ser mejor canal, ser más, vivir más desde el corazón y 
+menos desde el miedo. El arte será una más de las consecuencias. 
+
+Ahora uso meditaciones dirigidas a escuchar el sonido original, pero no sé qué escucharé.
 
 Parte del camino es profundizar en los orígenes de la tradición, para eso seguiré viajando. Algunas cosas solo ocurren 
 en un espacio/tiempo al que llegas con una intención.
 
+¿Es realmente importante que el tema de mi obra esté vinculado a la mágia o la mágia es parte de mí?
+
+Si hablo de mágia, ¿tengo que hacerlo explícitamente? 
+
+Lo iremos descubriendo :)

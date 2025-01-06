@@ -98,7 +98,11 @@ Mi arte siempre ha sido mágico. No había que unir nada. Quedan cosas por explo
 atravesar, sombras que reconocer para poder ser mejor canal, ser más, vivir más desde el corazón y 
 menos desde el miedo. El arte será una más de las consecuencias. 
 
-Ahora uso meditaciones dirigidas a escuchar el sonido original, pero no sé qué escucharé.
+Ahora uso meditaciones dirigidas a escuchar el sonido original y a los árboles, no sé qué escucharé. Antes ya
+meditaba al andar dejándome guiar por la intuición. Desde niño usaba el dibujo automático para meditar, no sabía bien 
+qué hacía, pero sí que lo entendería en el futuro.
+Mi conciencia del acto artístico ha cambiado, tengo más herramientas, enunciar la mágia la potencia. Habrá que ver 
+qué pasa (Alan Moore ya "me" advirtió).
 
 Parte del camino es profundizar en los orígenes de la tradición, para eso seguiré viajando. Algunas cosas solo ocurren 
 en un espacio/tiempo al que llegas con una intención.

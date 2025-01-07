@@ -33,15 +33,15 @@ En mi camino hay una constante, cada día sé menos y experimento más. Hasta ah
 	- Hacia la quietud dinámica (en términos biodinámica craneosacral) 
 	- Conversaciones con los árboles:
 		- Entrar en contacto (físico y campo) en estado de quietud.
-		- Formular preguntas.
-	- Las respuestas son imágenes.
+		- Formular preguntas. 
+        - Las respuestas son imágenes.
 	- Dibujo automático.
 	- Fotografía (guiada por los árboles, meditativa, intuitiva). 
     - Caminar.
 - Lectura.
 - Saltos "binarios"
 	- Discusiones con chatGPT
-	- Sobre las interpretaciones que hace de lo que dibujo 2024-10-21 Dibujos chatGPT
+	- Sobre las interpretaciones que hace de lo que dibujo [2024-10-21 Dibujos chatGPT](/posts/chatGPT/2024-10-21/)
 	- Código para dibujar en los mapas los rumbos. 
 	- Tratamiento estadísticos de las imágenes de las ninfas.
 - Integración y sistematización Organización de notas

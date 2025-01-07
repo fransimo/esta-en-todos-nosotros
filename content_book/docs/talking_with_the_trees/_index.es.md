@@ -138,7 +138,7 @@ Los riesgos de la meditación a dos son:
 - Confundir la conexión profunda con el enamoramiento. Se entra en contacto con el amor, pero no el amor de pareja. No quiere decir que, de estas conexiones, no pueda surgir una relación, pero hay una diferencia. Si la meditación se realiza con conciencia, las personas entran en contacto con el amor puro, que no pide nada a cambio, que no espera nada, que simplemente _es_. Este contacto puede confundirse.
 - No escucharse a uno mismo y acabar haciéndose daño por no poner un límite.
 
-#### _Definimos límites_
+#### Definimos límites
 
 Es esencial saber decir "no" de una forma amable, clara y consistente. Si esta práctica se realiza sin instructor, es importante que haya confianza en la otra persona, quien sabrá respetar y comunicar los límites. Sobrepasar un límite hace daño a ambas partes.
 
@@ -156,7 +156,7 @@ Si se abre la posibilidad del tacto, es fundamental:
 
 Con o sin tacto, es recomendable definir un límite de tiempo.
 
-#### _Meditación sin contacto_
+#### Meditación sin contacto
 
 Nos sentamos uno frente al otro, ya sea en una silla o en el suelo. Se realiza un saludo amable para abrir la comunicación y se definen los límites. Uno de esos límites es la distancia; debéis encontrar la distancia que resulte relajada para ambos.
 

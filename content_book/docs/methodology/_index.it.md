@@ -124,8 +124,7 @@ a ricercare e dare una forma artistica, rituale, canalizzatrice e curativa a que
 
 Ho raccolto tutte le "piste" in una mappa. Credo che la ricerca debba rimanere in movimento. Leggere è importante, ma per capire credo che debba camminare nei luoghi dove la tradizione ha vissuto.
 
-
-![](mapa_está_en_todos_nosotros_2.jpeg)
+![](mapa_esta_en_todos_nosotros_2.jpeg)
 
 Mappa sul [web](https://www.google.com/maps/d/edit?mid=1N9lbW-JlA8tJtXUqbPD6LnPmdEML85I&usp=sharing)
 

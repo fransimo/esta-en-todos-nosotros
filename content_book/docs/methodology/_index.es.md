@@ -116,7 +116,7 @@ investigando y dando forma artística, ritual, canalizadora y sanadora a este pr
 He reunido todas las “pistas” en un mapa. Creo que la investigación tiene que seguir en movimiento. 
 Leer es importante, pero para entender creo que he de caminar por aquellos lugares donde la tradición vivió.
 
-![](mapa_está_en_todos_nosotros_2.jpeg)
+![](mapa_esta_en_todos_nosotros_2.jpeg)
 
 En la [web](https://www.google.com/maps/d/edit?mid=1N9lbW-JlA8tJtXUqbPD6LnPmdEML85I&usp=sharing)
 

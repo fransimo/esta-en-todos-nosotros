@@ -39,15 +39,15 @@ El viaje tiene como objetivo entrar en la oscuridad: el lugar donde nace el sol 
 donde reside todo el conocimiento que espera ser iluminado. Los chamanes van allí a aprender, y la sabiduría que
 encuentran tiene el poder de sanar.
 
-# Fotografía
+## Fotografía
 
 ![El susurro de las ninfas](/images/X1V45282-Enhanced-SR.jpg)
 
-# Video
+## Video
 
-{{< youtube VyhtDy2UCUk >}}
+{{< youtube id=VyhtDy2UCUk autoplay=false loop=true mute=false allowFullScreen=true >}}
 
-# Otras imágenes del "santuario"
+## Otras imágenes del "santuario"
 
 ![](20241104_1238_X1V44656_fransimo_1.jpeg)
 

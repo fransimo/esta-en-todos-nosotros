@@ -38,15 +38,15 @@ Il viaggio ha come obiettivo entrare nell'oscurità: il luogo dove nasce il sole
 risiede tutta la conoscenza che aspetta di essere illuminata. Gli sciamani vanno lì per imparare, e la saggezza che
 trovano ha il potere di guarire.
 
-# Fotografia
+## Fotografia
 
 ![Il Sussurro delle Ninfe](/images/X1V45282-Enhanced-SR.jpg)
 
-# Video
+## Video
 
-{{< youtube VyhtDy2UCUk >}}
+{{< youtube id=VyhtDy2UCUk autoplay=false loop=true mute=false allowFullScreen=true >}}
 
-# Oltre immagini del "santuario"
+## Oltre immagini del "santuario"
 
 ![](20241104_1238_X1V44656_fransimo_1.jpeg)
 

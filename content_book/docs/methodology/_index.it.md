@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: false
-title: "Metodología"
+title: "Metodologia"
 ---
 
 # Contesto
@@ -65,7 +65,7 @@ La Sibilla ha la sua sezione dedicata [qui](/docs/sibyl).
 
 Nella [Piccola guida per parlare con gli alberi](/docs/talking_with_the_trees) e altri esseri si spiega il processo per entrare in meditazione e comunicazione con la rete di vita del bosco.
 
-[Qui vengono dettagliate le sessioni](/es/tags/hablando-con-los-árboles/).
+[Qui vengono dettagliate le sessioni](/it/tags/Conversazioni-con-gli-alberi/).
 
 
 ## Il Sussurro delle Ninfe (il piccolo contiene un universo)

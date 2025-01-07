@@ -7,5 +7,8 @@ bookHidden: false
 
 # Fotografías
 
+> Nota: Página en borrador
+> 
+
 
 

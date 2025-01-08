@@ -59,36 +59,39 @@ La meditación tomó forma en [conversaciones con los árboles](/docs/talking_wi
 ## Obras 
 Como cierre de etapa en la residencia se decidió hacer un Open Studio para el que he producido algunas obras.
 
-### El susurro de las ninfas - Fotografía
+### El susurro de las ninfas
+
+El texto que describe _El susurro de las ninfas_ se puede [leer aquí](/docs/sanctuary).
+
+#### Fotografía
 
 ![El susurro de las ninfas](/images/X1V45282-Enhanced-SR.jpg)
 
-````
-Digital print. 1,60m x 90 cm
-````
 
-### El susurro de las ninfas - Video
+> Digital print. 1,60m x 90 cm
 
-{{< youtube VyhtDy2UCUk >}}
 
-````
-Video 4k. 5' 31"
-````
+#### Video
+
+{{< youtube id=VyhtDy2UCUk autoplay=false loop=true mute=false allowFullScreen=true >}}
+
+> Video 4k. 5' 31"
+
 
 ### Está en todos nosotros 10.09.24 / 17.01.25
 
-````
-Fanzine. A5. 32 páginas.
-````
+> Fanzine. A5. 32 páginas.
+
 
 El fanzine une la fotografía, los dibujos, mapas, frases importantes del libro de Kingsley.
 
 Aquí puedes descargar la versión [PDF](/fanzine/Esta_en_todos_nosotros_es.pdf) o [EPUB](/fanzine/Esta_en_todos_nosotros.epub).
 
 ### Pequeña guía para hablar con los árboles y otros seres
-````
-Fanzine, A5, 12 páginas
-````
+
+> Fanzine, A5, 12 páginas
+
+
 Al comentar que parte de la metodología de investigación era "hablar con los árboles" algunas personas mostraron 
 interés. [Puedes leer una pequeña guía de meditación en este enlace](/docs/talking_with_the_trees).
 

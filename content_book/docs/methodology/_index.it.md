@@ -134,3 +134,4 @@ Mappa sul [web](https://www.google.com/maps/d/edit?mid=1N9lbW-JlA8tJtXUqbPD6LnPm
 
 
 
+> Tradotto in italiano da chatGPT

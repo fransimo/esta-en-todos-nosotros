@@ -19,3 +19,6 @@ Nota: [Pau Lluc](https://pau-lluc.xyz/) è il mio pseudonimo di massaggiatore.
 |-------------------|-------------------|------------------|-----------------------------|
 | ![](IMG_1603.png) | ![](IMG_1604.png) | ![](PauLluc.png) | ![](Sri_Yantra_2_500px.png) |
 
+
+
+> Tradotto in italiano da chatGPT

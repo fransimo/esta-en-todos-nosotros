@@ -65,3 +65,4 @@ I disegni automatici sono un modo di riflettere fin dall'adolescenza. Sono qui c
 
 
 
+> Tradotto in italiano da chatGPT

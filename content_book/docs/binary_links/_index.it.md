@@ -52,3 +52,5 @@ Riusciva a fare domande che mi erano difficili da rispondere.
 
 La conversazione [può essere letta qui](/posts/chatGPT/2024-10-21/).
 
+> Tradotto in italiano da chatGPT
+

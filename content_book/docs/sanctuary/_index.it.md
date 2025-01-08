@@ -69,3 +69,5 @@ trovano ha il potere di guarire.
 ![](20241112_1038_X1V45328-Enhanced-NR_fransimo-2.jpeg)
 
 ![](20241112_1038_X1V45328-Enhanced-NR_fransimo.jpeg)
+
+> Tradotto in italiano da chatGPT

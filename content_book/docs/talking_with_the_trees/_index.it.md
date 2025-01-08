@@ -216,3 +216,5 @@ Lascia che i corpi danzino senza cercare nulla, senza andare da nessuna parte, s
   - Mantra di bilanciamento.  
 - [Dark Dance](https://open.spotify.com/playlist/0mB87XM4YDii5G3JUP9NPq?si=b5de09537a0540de)  
   - Per esplorare luoghi più oscuri.
+
+> Tradotto in italiano da chatGPT

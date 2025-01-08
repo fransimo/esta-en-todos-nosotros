@@ -19,3 +19,4 @@ La mia ricerca nasce dal bisogno di connettermi in modo profondo e simbolico con
 
 La Sibilla e il bosco mi sussurrano una direzione, un cammino che transita tra il naturale e l’ancestrale, attraverso l’acqua e gli alberi. Un percorso che si disegna sulle mappe: da Maiorca, dove il suo canto risuona ancora, mi ha portato vicino a Tivoli e al suo bosco. Sembra puntare verso Creta e la Turchia. Creta, come possibile origine del culto di Dioniso, e la Turchia, l’Anatolia, per la sua relazione con la Sibilla Eritrea.
 
+> Tradotto in italiano da chatGPT

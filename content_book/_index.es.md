@@ -12,7 +12,7 @@ El 29 de abril del 2024 recibí una invitación para formar parte del programa [
 
 Un [viaje](/docs/journey) que había empezado muchos años atrás en mi búsqueda espiritual comenzó a tomar forma física en su aspecto artístico.
 
-En 2012 había unido la fotografía y la tecnología en mi expresión artística. Ahora intentaría también unir la mágia. 
+En 2012 había unido la fotografía y la tecnología en mi expresión artística. Ahora intentaría también unir la magia. 
 
 <--->
 
@@ -22,14 +22,14 @@ En el 2010, en un taxi, escuché fragmentos del
 ["El Cant de la Sibil-La: Mallorca / València, 1400-1560"](https://open.spotify.com/album/225ndLEKqu767DbpRzKsia?si=2gp0nXf-SCKSPgQCK-rHNw). 
 Sentí fascinación, especialmente por la tradición del canto en Mallorca, tierra de mis ancestros, donde iría a vivir 4 años después.
 
-El segundo día de la residencia visté Tívoli y descubrí que allí había un templo a la Sibila Tiburtina.
+El segundo día de la residencia visité Tívoli y descubrí que allí había un templo a la Sibila Tiburtina.
 
 Interpreté esto como una señal: la [Sibila](/docs/sibyl) me guiaría en el camino. Unía a los dos territorios y
 mi búsqueda.  
 
 {{% /columns %}}
 
-## Arte y mágia
+## Arte y magia
 
 Sacerdotisas de Apolo, mujeres que hablan en nombre de Dios usando el trance, la meditación y 
 los estados alterados de conciencia para hacer un puente entre el inframundo y el mundo de la luz, 
@@ -42,7 +42,7 @@ los puntos y me daría aún más guías para seguir viajando.
 Desde el principio de mi camino en la espiritualidad y la magia, siempre sentía un susurro: "no viene de la India... 
 no viene de Japón... no es Celta... ni del Tibet... ni de una tribu americana... está en todos nosotros".
 
-La tradición mágica siempre ha existido en nosotros. Y siempre volverá a surgir. No importa cuantas veces nos cacen 
+La tradición mágica siempre ha existido en nosotros. Y siempre volverá a surgir. No importa cuántas veces nos cacen 
 como brujas, volverá a surgir porque es inherente a ser humanos.
 
 Viene de nuestro corazón, de las estrellas, del sonido original que resuena en todo.
@@ -68,7 +68,7 @@ El texto que describe _El susurro de las ninfas_ se puede [leer aquí](/docs/san
 ![El susurro de las ninfas](/images/X1V45282-Enhanced-SR.jpg)
 
 
-> Digital print. 1,60m x 90 cm
+> Digital print. 1,60 m x 90 cm
 
 
 #### Video
@@ -104,14 +104,14 @@ menos desde el miedo. El arte será una más de las consecuencias.
 Ahora uso meditaciones dirigidas a escuchar el sonido original y a los árboles, no sé qué escucharé. Antes ya
 meditaba al andar dejándome guiar por la intuición. Desde niño usaba el dibujo automático para meditar, no sabía bien 
 qué hacía, pero sí que lo entendería en el futuro.
-Mi conciencia del acto artístico ha cambiado, tengo más herramientas, enunciar la mágia la potencia. Habrá que ver 
+Mi conciencia del acto artístico ha cambiado, tengo más herramientas, enunciar la magia la potencia. Habrá que ver 
 qué pasa (Alan Moore ya "me" advirtió).
 
 Parte del camino es profundizar en los orígenes de la tradición, para eso seguiré viajando. Algunas cosas solo ocurren 
 en un espacio/tiempo al que llegas con una intención.
 
-¿Es realmente importante que el tema de mi obra esté vinculado a la mágia o la mágia es parte de mí?
+¿Es realmente importante que el tema de mi obra esté vinculado a la magia o la magia es parte de mí?
 
-Si hablo de mágia, ¿tengo que hacerlo explícitamente? 
+Si hablo de magia, ¿tengo que hacerlo explícitamente? 
 
 Lo iremos descubriendo :)

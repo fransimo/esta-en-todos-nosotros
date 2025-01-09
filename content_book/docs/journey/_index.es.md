@@ -4,11 +4,11 @@ bookFlatSection: false
 title: "Viaje"
 bookHidden: false
 ---
+> Página en borrador. Notas sobre ideas a desarrollar.
+>
+>
 
 # El viaje en clave mística
-
-> Nota: Página en borrador
->
 
 El viaje más largo está frente al espejo.
 
@@ -45,12 +45,11 @@ Viajar ligero, _con la maleta más pequeña_, implicó dejar un trabajo estable,
 ## ¿A dónde vas?
 
 Todos escuchamos "caminante no hay camino, se hace camino al andar"... creo que sí hay un destino, un lugar
-a dónde ir. Uno para cada uno de nosotros en cada momento porque cuando llegas aparece otro. Nuestra libertad es la de
+a donde ir. Uno para cada uno de nosotros en cada momento porque cuando llegas aparece otro. Nuestra libertad es la de
 escoger cómo llegar ahí, es decir, no hay camino pero sí destino, uno que se transforma con el tiempo.
 
 Puedes dar muchas vueltas para llegar, puedes incluso decidir no ir, pero eso tiene un costo. No ir implica que te
-pierdes
-el misterio que desvelaría ese lugar.
+pierdes el misterio que desvelaría ese lugar.
 
 El lugar puede ser físico o no. El viaje no implica un desplazamiento, pero sí tiene una consecuencia.
 Al volver, si vuelves, ya no eres el mismo. Quieras o no, ir a ese lugar que deseas o del que te escondes
@@ -59,7 +58,7 @@ te transforma y viajar alli tiende a ser inevitable. "Resistirse es futil" ;-)
 De pequeño solía decir "lo mejor de viajar es volver". Pero, si viajas, nunca vuelves, ni eres el mismo, ni vez a tu
 lugar igual. De niño no lo hubiera sabido explicar pero lo entendía. Viajar ejercita el "ver con nuevos ojos".
 
-Mi búsqueda, es la búsqueda de Dios. No el Dios de la iglesia. Para mi Dios está dentro de mi, en ti y en todo, porque
+Mi búsqueda es la búsqueda de Dios. No el Dios de la iglesia. Para mi Dios está dentro de mi, en ti y en todo, porque
 somos uno, siempre, y todo lo demás es ilusión. Es una verdad que está dentro de mí desde que tengo memoria pero aún no
 es una vivencia. Algo así como saber, sin lugar a dudas, que las llaves están en la habitación y no encontrarlas.
 
@@ -122,6 +121,19 @@ nos están interesados en el lugar, sus gentes, su cultura o su historia. Por es
 destinos haya un McDonalds o un Zara.
 
 ### Think globally, act locally.
+
+Cómo vendemos viajes, cómo viajamos y a dónde tiene una parte que se puede abordar globalmente, pero cómo afecta a un 
+territorio y qué necesita ese lugar para estar en equilibrio es algo local.
+
+
+# El viaje, el turismo, la tecnología, la IA y la pandemia
+
+El turismo de masas está muy vinculado a Internet. La generación del mito del destino, del viaje en sí mismo,  
+la capacidad de obtener información de los destinos, la expansión de los medios de pago digitales,
+los sistemas de reservas, tanto de movilidad, alojamiento y servicios facilitan y potencian la industria del turismo
+de una forma que era muy difícil de imaginar hace 25 años.
+
+Entre feeds de influencers y resultados de búsqueda filtraos y ordenados por algoritmos...
 
 # El viaje pausado
 

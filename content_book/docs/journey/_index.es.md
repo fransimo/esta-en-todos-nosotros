@@ -137,6 +137,7 @@ Entre feeds de influencers y resultados de búsqueda filtraos y ordenados por al
 
 # El viaje pausado
 
-.
+¿Sería posible la combinación de un viaje en libertad, sin aglomeraciones, accesible a todos, que no destruya destinos
+y que ayude a los corazones a crecer?
 
 

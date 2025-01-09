@@ -23,7 +23,7 @@ magia.
 ## Sibilla
 
 Nel 2010, in un taxi, ho ascoltato frammenti del
-["El Cant de la Sibil-La: Mallorca / València, 1400-1560"](https://open.spotify.com/album/225ndLEKqu767DbpRzKsia?si=2gp0nXf-SCKSPgQCK-rHNw).
+["El Cant de la Sibil·La: Mallorca / València, 1400-1560"](https://open.spotify.com/album/225ndLEKqu767DbpRzKsia?si=2gp0nXf-SCKSPgQCK-rHNw).
 Ho provato una profonda fascinazione, soprattutto per la tradizione del canto a Maiorca, terra dei miei antenati, dove
 sarei andato a vivere 4 anni dopo.
 

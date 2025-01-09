@@ -19,7 +19,7 @@ In 2012, I had combined photography and technology in my artistic expression. No
 ## Sibyl
 
 In 2010, in a taxi, I heard fragments of 
-["El Cant de la Sibil-La: Mallorca / València, 1400-1560"](https://open.spotify.com/album/225ndLEKqu767DbpRzKsia?si=2gp0nXf-SCKSPgQCK-rHNw). 
+["El Cant de la Sibil·La: Mallorca / València, 1400-1560"](https://open.spotify.com/album/225ndLEKqu767DbpRzKsia?si=2gp0nXf-SCKSPgQCK-rHNw). 
 I felt fascinated, especially by the tradition of the chant in Mallorca, the land of my ancestors, where I would move to live four years later.
 
 On the second day of the residency, I visited Tivoli and discovered that there was a temple dedicated to the Tiburtine Sibyl.

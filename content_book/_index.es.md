@@ -19,7 +19,7 @@ En 2012 había unido la fotografía y la tecnología en mi expresión artística
 ## Sibila
 
 En el 2010, en un taxi, escuché fragmentos del 
-["El Cant de la Sibil-La: Mallorca / València, 1400-1560"](https://open.spotify.com/album/225ndLEKqu767DbpRzKsia?si=2gp0nXf-SCKSPgQCK-rHNw). 
+["El Cant de la Sibil·La: Mallorca / València, 1400-1560"](https://open.spotify.com/album/225ndLEKqu767DbpRzKsia?si=2gp0nXf-SCKSPgQCK-rHNw). 
 Sentí fascinación, especialmente por la tradición del canto en Mallorca, tierra de mis ancestros, donde iría a vivir 4 años después.
 
 El segundo día de la residencia visité Tívoli y descubrí que allí había un templo a la Sibila Tiburtina.

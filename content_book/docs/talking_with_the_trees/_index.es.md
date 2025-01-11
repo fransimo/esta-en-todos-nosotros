@@ -6,7 +6,9 @@ title: "Pequeña guía para hablar con los árboles y otros seres"
 
 # Pequeña guía para hablar con los árboles y otros seres
 
-La meditación es la única ~~r~~evolución posible.
+<div style="text-align: center">
+La <span style="background-color: lime">meditación</span> es la única <s>r</s><span style="background-color: lime">evolución</span> posible.
+</div>
 
 No se puede sentir un beso en un verso: nunca será un beso. El mejor poeta podrá evocar un recuerdo. Si no has besado antes serán palabras vacías.
 

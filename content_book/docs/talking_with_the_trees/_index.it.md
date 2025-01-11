@@ -5,7 +5,10 @@ title: "Piccola guida per parlare con gli alberi e altri esseri"
 ---
 # Piccola guida per parlare con gli alberi e altri esseri
 
-La meditazione è l'unica ~~r~~ivoluzione possibile.
+
+<div style="text-align: center">
+La <span style="background-color: lime">meditazione</span> è l'unica <s>r</s><span style="background-color: lime">ivoluzione</span> possibile.
+</div>
 
 Non si può sentire un bacio in un verso: non sarà mai un bacio. Il miglior poeta potrà evocare un ricordo. Se non hai baciato prima, saranno parole vuote.
 

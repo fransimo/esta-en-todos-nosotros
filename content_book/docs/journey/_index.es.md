@@ -7,7 +7,7 @@ bookHidden: false
 
 # El viaje en clave mística
 
-El viaje más largo está frente al espejo.
+<div style="text-align: right">El viaje más largo está frente al espejo.</div>
 
 ## ¿Cuándo empezó este viaje?
 
@@ -19,25 +19,29 @@ descubramos que ya sabíamos volar_ regresó a mi cabeza y no dejaba de repetirs
 la intención a dadme _Claridad, fuerza, coraje, amor y ecuanimidad para ver mi camino y realizar mi misión con
 sabiduría_?
 ¿Fue el 7 de febrero cuando en una sesión de biodinámica puse como intención "abrirme al amor"?
+¿Cuando escribí _[solo camina](https://susurros.fransimo.info/posts/2023/10/nueva_ribadesella/)_ después de hacer 400 km
+del Camino de Santiago?
 ¿O fue un año y medio antes cuando decidí formarme en masaje tántrico? Un proceso que me llevaría a sentir,
 primero "ya no sé quién soy", y poco después "ya no sé nada".
 ¿O el 10 de enero del 2017, aquel día que temblaba de fiebre en un hospital, haciendo trámites y que no podía dejar de
 regresar a mis 15 años?
 
-![IMG_3027_Screenshot.png](IMG_3027_Screenshot.png)
-
 Ese día, mi cuerpo gritaba "quiero vivir", la fiebre era la vida abriéndose camino. Alguien me dijo algo como: ciertos
 paisajes te transportan en el tiempo y en tus traumas. Ese día mi vida empezó a cambiar.
 
+![IMG_3027_Screenshot.png](IMG_3027_Screenshot.png)
+
 ¿Y por qué tantas preguntas? Porque de eso está hecho el camino. A veces la gente me dices cosas como "eres valiente"...
 la verdad es que no sé qué es eso. Un maestro me dijo una vez: "tú ya no tienes opción, si no sigues la llamada
-enfermarás", en realidad me dijo lo que estaba pensando... me he pasado la vida intentando aumentar la intuición, subir
+enfermarás", en realidad me dijo lo que estaba pensando o lo que quería oir... me he pasado la vida intentando aumentar
+la intuición, subir
 el volúmen a los susurros. Ahora que los oigo mejor, no me queda opción que seguirlos,
 aunque no los entienda, aunque me lleven a lugares que no imaginaba antes, aunque me enfrente a dejar todo atrás...
 
 ## ¿Cómo viajar?
 
-Viajar ligero, _con la maleta más pequeña_, implicó dejar un trabajo estable, una casa y una relación.
+¿Y cómo emprender un viaje así? _Con la maleta más pequeña_, soltando... dejando atrás todo lo que no te acompaña.
+Esta vez eso implicó dejar un trabajo estable, una casa y una relación.
 
 ## ¿A dónde vas?
 
@@ -53,7 +57,7 @@ Al volver, si vuelves, ya no eres el mismo. Quieras o no, ir a ese lugar que des
 te transforma y viajar alli tiende a ser inevitable. "Resistirse es futil" ;-)
 
 De pequeño solía decir "lo mejor de viajar es volver". Pero, si viajas, nunca vuelves, ni eres el mismo, ni vez a tu
-lugar igual. De niño no lo hubiera sabido explicar pero lo entendía. Viajar ejercita el "ver con nuevos ojos".
+lugar igual. De niño no lo hubiera sabido explicar, pero lo entendía. Viajar ejercita el "ver con nuevos ojos".
 
 Mi búsqueda es la búsqueda de Dios. No el Dios de la iglesia. Para mi Dios está dentro de mi, en ti y en todo, porque
 somos uno, siempre, y todo lo demás es ilusión. Es una verdad que está dentro de mí desde que tengo memoria pero aún no

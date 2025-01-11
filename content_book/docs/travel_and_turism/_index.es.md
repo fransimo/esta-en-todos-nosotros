@@ -2,7 +2,7 @@
 weight: 6
 bookFlatSection: false
 title: "Viaje y turismo"
-bookHidden: false
+bookHidden: true
 ---
 > Página en borrador. Notas sobre ideas a desarrollar.
 >

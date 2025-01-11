@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 7
 bookFlatSection: false
 title: "Fotografías"
 bookHidden: false

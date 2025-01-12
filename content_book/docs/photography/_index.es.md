@@ -2,7 +2,7 @@
 weight: 7
 bookFlatSection: false
 title: "Fotografías"
-bookHidden: false
+bookHidden: true
 ---
 
 # Fotografías

@@ -33,9 +33,7 @@ remedio que seguirlos, aunque no los entienda.
 
 ## ¿Cómo viajar?
 
-¿Y cómo emprender un viaje así? _Con la maleta más pequeña_, soltando... dejando atrás todo lo que no te acompaña.  
-Esta vez eso implicó dejar un trabajo estable, una casa y una relación. Escuchando el silencio, reconociendo a los
-guías.
+¿Y cómo emprender un viaje así? _Con la maleta más pequeña_, soltando... dejando atrás todo lo que no te acompaña. Esta vez eso implicó dejar un trabajo estable, una casa y una relación. Escuchando el silencio, reconociendo a los guías.
 
 ## ¿A dónde vas?
 

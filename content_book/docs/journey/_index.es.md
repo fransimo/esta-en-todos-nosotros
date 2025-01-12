@@ -13,17 +13,12 @@ bookHidden: false
 
 Al empezar la recopilación de fotografías e información para esta web, me hice la pregunta: ¿Cuándo empezó este viaje?
 
-¿El día que recibí la invitación? ¿El día que la frase _a veces nos quitan el suelo de debajo de los pies para que
-descubramos que ya sabíamos volar_ regresó a mi cabeza y no dejaba de repetirse?  
-¿Fue el 20 de abril, en Montserrat, en una sesión de [Juan Manuel Giordano](https://www.juanmanuelgiordano.com/) cuando dirigí
-la intención a darme _Claridad, fuerza, coraje, amor y ecuanimidad para ver mi camino y realizar mi misión con
-sabiduría_?  
-¿Fue el 7 de febrero cuando, en una sesión de biodinámica, puse como intención "abrirme al amor"?  
-¿Cuando escribí _[solo camina](https://susurros.fransimo.info/posts/2023/10/nueva_ribadesella/)_ después de hacer 400 km
-del Camino de Santiago?  
-¿O fue un año y medio antes, cuando decidí formarme en masaje tántrico? Un proceso que me llevaría a sentir,
-primero "ya no sé quién soy", y poco después "ya no sé nada".  
-¿O el 10 de enero del 2017, aquel día que temblaba de fiebre en un hospital, haciendo trámites y que no podía dejar de
+¿El día que recibí la invitación, o tal vez cuando aquella frase —a veces nos quitan el suelo de debajo de los pies para
+que descubramos que ya sabíamos volar— regresó una y otra vez a mi mente? ¿O fue durante la sesión
+de [Juan Manuel Giordano](https://www.juanmanuelgiordano.com/), cuando dirigí mi intención a encontrar _claridad, fuerza,
+coraje, amor y ecuanimidad_? ¿Fue el 7 de febrero cuando, en una sesión de biodinámica, puse como intención "abrirme al amor"? ¿Cuando escribí _[solo camina](https://susurros.fransimo.info/posts/2023/10/nueva_ribadesella/)_ después de hacer 400 km
+del Camino de Santiago? ¿O fue un año y medio antes, cuando decidí formarme en masaje tántrico? Un proceso que me llevaría a sentir,
+primero "ya no sé quién soy", y poco después "ya no sé nada". ¿O el 10 de enero del 2017, aquel día que temblaba de fiebre en un hospital, haciendo trámites y que no podía dejar de
 regresar a mis 15 años?
 
 Ese día, mi cuerpo gritaba "quiero vivir", la fiebre era la vida abriéndose camino. Alguien me dijo algo como: ciertos
@@ -31,12 +26,10 @@ paisajes te transportan en el tiempo y en tus traumas. Ese día mi vida empezó 
 
 ![IMG_3027_Screenshot.png](IMG_3027_Screenshot.png)
 
-¿Y por qué tantas preguntas? Porque de eso está hecho el camino. A veces la gente me dice cosas como "eres valiente"...  
-la verdad es que no sé qué es eso. Un maestro me dijo una vez: "tú ya no tienes opción, si no sigues la llamada
-enfermarás". En realidad, me dijo lo que estaba pensando o lo que quería oír... me he pasado la vida intentando aumentar
-la intuición, subir
-el volumen a los susurros. Ahora que los oigo mejor, no me queda opción más que seguirlos,  
-aunque no los entienda, aunque me lleven a lugares que no imaginaba antes, aunque me enfrente a dejar todo atrás...
+¿Y por qué tantas preguntas? Porque de eso está hecho el camino. A veces la gente me dice cosas como "eres
+valiente"... la verdad es que no sé qué es eso. Un maestro me dijo una vez: 'tú ya no tienes opción; si no sigues la llamada, enfermarás'. Y quizá tenía razón. He
+pasado años tratando de afinar mi intuición, de escuchar mejor esos susurros. Ahora que lo consigo, no me queda más
+remedio que seguirlos, aunque no los entienda.
 
 ## ¿Cómo viajar?
 
@@ -46,8 +39,7 @@ guías.
 
 ## ¿A dónde vas?
 
-Todos escuchamos "caminante no hay camino, se hace camino al andar"... creo que sí hay un destino, un lugar
-a donde ir. Uno para cada uno de nosotros en cada momento porque cuando llegas aparece otro. Nuestra libertad es la de
+Todos hemos escuchado: 'Caminante no hay camino, se hace camino al andar'. Sin embargo, creo que sí hay un destino, un lugar al que ir. Uno para cada uno de nosotros en cada momento porque cuando llegas aparece otro. Nuestra libertad es la de
 escoger cómo llegar ahí, es decir, no hay camino, pero sí destino. Uno que se transforma con el tiempo.
 
 Puedes dar muchas vueltas para llegar, puedes incluso decidir no ir, pero eso tiene un costo. No ir implica que te
@@ -64,4 +56,4 @@ Mi búsqueda es la búsqueda de Dios. No el Dios de la iglesia. Para mí, Dios e
 somos uno, siempre, y todo lo demás es ilusión. Es una verdad que está dentro de mí desde que tengo memoria, pero aún no
 es una vivencia. Algo así como saber, sin lugar a dudas, que las llaves están en la habitación y no encontrarlas.
 
-Es una búsqueda que "vuelve a casa".
+Es una búsqueda que vuelve a casa. Porque al final, el viaje más largo siempre está frente al espejo.

@@ -39,3 +39,5 @@ Da piccolo dicevo spesso: "la cosa migliore del viaggiare è tornare". Ma, se vi
 La mia ricerca è la ricerca di Dio. Non il Dio della chiesa. Per me, Dio è dentro di me, in te e in tutto, perché siamo uno, sempre, e tutto il resto è illusione. È una verità che è dentro di me da quando ho memoria, ma non è ancora un'esperienza vissuta. Qualcosa come sapere, senza alcun dubbio, che le chiavi sono nella stanza, ma non riuscire a trovarle.  
 
 È una ricerca che torna a casa. Perché, alla fine, il viaggio più lungo è sempre davanti allo specchio.  
+
+> Tradotto in italiano da chatGPT

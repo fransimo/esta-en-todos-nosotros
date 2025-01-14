@@ -17,4 +17,4 @@ Las sibilas, como mujeres profetisas, herederas de un linaje, que trabajaban en 
 
 Mi investigación surge de la necesidad de conectar de manera profunda y simbólica con la sabiduría que atraviesa los territorios y las culturas. 
 
-La Sibila y el bosque me susurran un rumbo, un rumbo que transita entre lo natural y lo ancestral, a través del agua y de los árboles. Un camino que se dibuja en los mapas: desde Mallorca, donde aún resuena su canto, me ha llevado cerca de Tívoli y su bosque. Parece que apunta hacia Creta y Turquía. Creta como posible origen del culto a Dionisio y Turquía, Anatolia, por su relación con la[Sibila de Eritrea].
+La Sibila y el bosque me susurran un rumbo, un rumbo que transita entre lo natural y lo ancestral, a través del agua y de los árboles. Un camino que se dibuja en los mapas: desde Mallorca, donde aún resuena su canto, me ha llevado cerca de Tívoli y su bosque. Parece que apunta hacia Creta y Turquía. Creta como posible origen del culto a Dionisio y Turquía, Anatolia, por su relación con la Sibila de Eritrea.

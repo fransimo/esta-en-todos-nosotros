@@ -123,6 +123,8 @@ accadrà (Alan Moore "me" l'aveva avvertito).
 Parte del percorso consiste nell'approfondire le origini della tradizione, per questo continuerò a viaggiare. Alcune
 cose accadono solo in un dato spazio/tempo in cui si arriva con una certa intenzione.
 
+![Esta_en_todos_nosotros_mapa.png](/map/Esta_en_todos_nosotros_mapa.png)
+
 È davvero importante che il tema della mia opera sia legato alla magia o la magia è parte di me?
 
 Se parlo di magia, devo farlo esplicitamente?

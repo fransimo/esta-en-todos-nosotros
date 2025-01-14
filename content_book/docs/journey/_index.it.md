@@ -27,6 +27,8 @@ E come intraprendere un viaggio simile? _Con la valigia più piccola_, lasciando
 
 ## Dove stai andando?
 
+![Esta_en_todos_nosotros_mapa.png](/map/Esta_en_todos_nosotros_mapa.png)
+
 Tutti abbiamo sentito: "Caminante, no hay camino, se hace camino al andar" (Viandante, non c'è cammino, il cammino si fa andando). Tuttavia, credo che una destinazione esista, un luogo verso cui andare. Uno per ognuno di noi in ogni momento, perché quando arrivi, ne appare un altro. La nostra libertà è scegliere come arrivarci, ossia, non c'è un cammino, ma c'è una meta. Una meta che si trasforma con il tempo.  
 
 Puoi fare molti giri per arrivarci, puoi persino decidere di non andarci, ma ha un costo. Non andare significa perdersi il mistero che quel luogo svelerebbe.  

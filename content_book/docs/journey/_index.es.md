@@ -37,6 +37,8 @@ remedio que seguirlos, aunque no los entienda.
 
 ## ¿A dónde vas?
 
+![Esta_en_todos_nosotros_mapa.png](/map/Esta_en_todos_nosotros_mapa.png)
+
 Todos hemos escuchado: 'Caminante no hay camino, se hace camino al andar'. Sin embargo, creo que sí hay un destino, un lugar al que ir. Uno para cada uno de nosotros en cada momento porque cuando llegas aparece otro. Nuestra libertad es la de
 escoger cómo llegar ahí, es decir, no hay camino, pero sí destino. Uno que se transforma con el tiempo.
 

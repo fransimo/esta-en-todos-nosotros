@@ -111,6 +111,8 @@ My awareness of the artistic act has changed. I have more tools, and verbalizing
 
 Part of the journey involves delving deeper into the origins of tradition. To do this, I will keep traveling. Some things only happen in a specific space/time that you reach with a clear intention.
 
+![Esta_en_todos_nosotros_mapa.png](/map/Esta_en_todos_nosotros_mapa.png)
+
 Is it truly important that the subject of my work is linked to magic, or is magic simply part of me?
 
 If I talk about magic, must I do it explicitly? 

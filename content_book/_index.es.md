@@ -110,6 +110,8 @@ qué pasa (Alan Moore ya "me" advirtió).
 Parte del camino es profundizar en los orígenes de la tradición, para eso seguiré viajando. Algunas cosas solo ocurren 
 en un espacio/tiempo al que llegas con una intención.
 
+![Esta_en_todos_nosotros_mapa.png](/map/Esta_en_todos_nosotros_mapa.png)
+
 ¿Es realmente importante que el tema de mi obra esté vinculado a la magia o la magia es parte de mí?
 
 Si hablo de magia, ¿tengo que hacerlo explícitamente? 

@@ -7,7 +7,7 @@ title: "A Little Guide to Talking with Trees and Other Beings"
 # A Little Guide to Talking with Trees and Other Beings
 
 <div style="text-align: center">
-<span style="background-color: lime">Meditation</span> is the only <s>r</s><span style="background-color: lime">evolution</span> possible.
+<span style="background-color: lime">Meditation</span> is the only possible <s>r</s><span style="background-color: lime">evolution</span>.
 </div>
 
 You cannot feel a kiss in a verse: it will never be a kiss. The best poet can evoke a memory. If you haven’t kissed before, they will just be empty words.

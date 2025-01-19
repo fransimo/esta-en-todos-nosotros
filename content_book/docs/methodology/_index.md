@@ -113,3 +113,5 @@ On the [web](https://www.google.com/maps/d/edit?mid=1N9lbW-JlA8tJtXUqbPD6LnPmdEM
 - Yellow points: Temples or possible places of worship or origin of the most famous sibyls.
 - Violet points: Places mentioned in _In the Dark Places of Wisdom_.
 - Gray points: Locations related to Dionysian worship or intuitively marked as destinations.
+
+> Translated into English by chatGPT

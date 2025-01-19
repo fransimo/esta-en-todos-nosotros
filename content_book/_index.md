@@ -119,3 +119,4 @@ If I talk about magic, must I do it explicitly?
 
 We’ll find out. :)
 
+> Translated into English by chatGPT

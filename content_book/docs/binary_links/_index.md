@@ -41,3 +41,5 @@ One of the tests involved asking chatGPT to interpret some drawings. The result 
 It managed to ask questions I found hard to answer.
 
 The conversation [can be read here](/posts/chatGPT/2024-10-21/).
+
+> Translated into English by chatGPT

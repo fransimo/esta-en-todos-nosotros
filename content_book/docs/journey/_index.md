@@ -41,3 +41,5 @@ As a child, I used to say, "The best part of traveling is coming back." But if y
 My search is the search for God. Not the God of the church. For me, God is within me, within you, and in everything, because we are one, always, and everything else is an illusion. It’s a truth I’ve held within me as long as I can remember, but it’s not yet an experience. Like knowing without a doubt that the keys are in the room but not being able to find them.
 
 It’s a search that always comes back home. Because in the end, the longest journey is always in front of the mirror.
+
+> Translated into English by chatGPT

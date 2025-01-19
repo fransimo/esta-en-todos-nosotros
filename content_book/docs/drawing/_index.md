@@ -64,3 +64,5 @@ Automatic drawings have been a way of reflecting since my teenage years. They ar
 ![](/drawings/IMG_1508.jpeg)
 
 ![](/drawings/IMG_1509.jpeg)
+
+> Translated into English by chatGPT

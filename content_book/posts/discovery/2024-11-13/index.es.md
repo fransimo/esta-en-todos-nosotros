@@ -1,5 +1,5 @@
 ---
-author: "Fran Simó"
+author: 'Fran Simó'
 date: 2024-11-13
 title: Firma, círculo, identidad
 tags: 

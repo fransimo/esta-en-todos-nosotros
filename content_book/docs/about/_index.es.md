@@ -10,21 +10,34 @@ bookToc: false
 
 {{% columns %}}
 
-Villa Carlos Paz, Córdoba, Argentina, 1973
+[Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info) | Tel: +34 655384230  
 
-Como artista new media explora la relación entre hombre y tecnología especialmente en el
-área de la inteligencia artificial (y su relación con el sentido de la conciencia), las
-posibilidades del hardware y software open sources, los bancos de datos abiertos y la
-información compartida por error.
+**Professional Profile**  
+Photographer and multidisciplinary artist exploring the relationship between humans and technology. His work examines themes of consciousness and life through AI, open data, and collaborative media. Based in Barcelona since 1998 and in Palma de Mallorca since 2014, he co-founded Barcelona Photobloggers and Caja Azul, curating exhibitions and projects with participatory methodologies.  
 
-Cofundador de: Barcelona Photobloggers, Caja Azul y function (”innocence”, 2019) Festival de Arte Digital y Electrónico
-de Mallorca.
+**Education**  
+- Software Engineering in Argentina and Spain.  
+- Artistic training through workshops with Javier Vallhonrat, Alberto García-Alix, and Marta Gili (Es Baluard Museum, Palma).  
 
-Ingeniero en Sistemas de Información.
+**Selected Exhibitions**  
+- *#Selfie_v2*, Loop Barcelona Festival, Barcelona, 2021.  
+- *Shared Folder and Code*, Casa Planas, Palma, 2019.  
+- *Capture Brooklyn*, The powerHouse Arena, NYC, 2010.  
 
+**Notable Projects**  
+- *Traces – 2013.12.07 – Barcelona*: Transmedia project exhibited at Tagomago Gallery, Barcelona.  
+- *Ubiquography*: Global exhibition across 7 countries, 640 authors, 2012.  
 
-Alumno de Les Clíniques d’Es Baluard(2015). Asistente a cursos de Javier Vallhonrat, Alberto García-Alix, Marta Gili,
-entre otros.
+**Awards**  
+- Finalist, DOCfield Dummy Award, Fundació Banc Sabadell, 2017.  
+- Lumen Prize Long List, 2017 & 2015.  
+
+**Skills**  
+Documentary photography, interactive art, curating, open-source software, social media management, and digital marketing for artists.  
+
+---  
+
+¿Es suficiente o necesitas ajustar algo más?
 
 <--->
 
@@ -39,7 +52,7 @@ entre otros.
 - [Linkedin](https://www.linkedin.com/in/fransimo/)
 
 
-# CV
+# Detailed CV
 
 {{% tabs %}}
 

@@ -35,9 +35,6 @@ Photographer and multidisciplinary artist exploring the relationship between hum
 **Skills**  
 Documentary photography, interactive art, curating, open-source software, social media management, and digital marketing for artists.  
 
----  
-
-¿Es suficiente o necesitas ajustar algo más?
 
 <--->
 

@@ -10,21 +10,29 @@ bookToc: false
 
 {{% columns %}}
 
-[Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info) | Tel: +34 655384230  
+[Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info) | Tel: +34 655384230
 
-Esta nueva etapa de mi viaje está centrada en la búsqueda de una conexión entre el arte, la sanación (la magia) y la tecnología, con la intención de integrar y expresar estas disciplinas de manera artística.
+This new stage of my journey is focused on the search for a connection between art, healing (magic), and technology,
+with the aim of integrating and expressing these disciplines in an artistic way.
 
-En el ámbito de la sanación, he explorado el Tantra, la canalización y diversas terapias de autoconocimiento, realizando desde 2019 una formación integral que abarca técnicas como la biodinámica craneosacral, el Reiki y la Tameana. Estas experiencias se complementan con talleres enfocados en la sanación sexual y el trabajo energético, contribuyendo significativamente al desarrollo de mi práctica como sanador.
+In the realm of healing, I have explored Tantra, channeling, and various self-awareness therapies, undertaking since
+2019 comprehensive training that encompasses techniques such as craniosacral biodynamics, Reiki, and Tameana. These
+experiences are complemented by workshops focused on sexual healing and energy work, significantly contributing to the
+development of my practice as a healer.
 
-En el arte, mis investigaciones abordan temas de identidad, memoria y transformación, explorados en múltiples exposiciones internacionales y proyectos colaborativos. Mi práctica artística utiliza medios diversos, que van desde la fotografía, los libros, los fanzines y el video, hasta proyectos transmedia.
+In art, my research addresses themes of live, identity, memory, and privacy, explored through multiple international
+exhibitions and collaborative projects. My artistic practice incorporates diverse media, ranging from photography,
+books, and zines to video and transmedia projects.
 
-Mi experiencia tecnológica aplicada al arte incluye la dirección de iniciativas que integran plataformas digitales innovadoras, como aplicaciones móviles y exhibiciones interactivas en tiempo real. Estos proyectos han promovido diálogos entre lo humano y lo virtual, conectando comunidades globales a través de imágenes y relatos compartidos.
+My technological experience applied to art includes leading initiatives that integrate innovative digital platforms,
+such as mobile applications and real-time interactive exhibitions. These projects have fostered dialogues between the
+human and the virtual, connecting global communities through shared images and narratives.
 
-En el ámbito profesional, he trabajado durante más de 26 años como ingeniero de software en multinacionales, liderando la implementación de soluciones tecnológicas a escala global con equipos internacionales en mercados altamente competitivos.
+In the professional sphere, I have worked for over 26 years as a software engineer in multinational companies, leading
+the implementation of global technological solutions with international teams in highly competitive markets.
 
-El eje de mi camino es profundizar y entrelazar estas disciplinas, creando un lenguaje único que busca evocar la sanación y la expansión de la conciencia a través del arte.
-
-
+The core of my journey is to deepen and intertwine these disciplines, creating a unique language that seeks to evoke
+healing and the expansion of consciousness through art.
 <--->
 
 {{< figure src="fran_simo.jpg" alt="Unity Labs" class="text-rigth" >}}
@@ -36,7 +44,6 @@ El eje de mi camino es profundizar y entrelazar estas disciplinas, creando un le
 - [Instagram](https://www.instagram.com/fransimo)
 - [Artist web](https://fransimo.info/), [statement](https://fransimo.info/es/statement/)
 - [Linkedin](https://www.linkedin.com/in/fransimo/)
-
 
 # Detailed CV
 
@@ -50,7 +57,8 @@ Training experiences since 2019 related to Tantra, healing, and self-awareness.
 
 ## Spanish Institute of Craniosacral Biodynamics (ongoing training) [+](https://biodinamicacraneosacral.org/)
 
-- 2024-10-19 and 20 - [Craniosacral Biodynamics Therapy](http://www.craniosacral-biodynamics.org/overview.html), Basic Level part 6.
+- 2024-10-19 and 20 - [Craniosacral Biodynamics Therapy](http://www.craniosacral-biodynamics.org/overview.html), Basic
+  Level part 6.
 - 2024-09-28 and 29 - Craniosacral Biodynamics Therapy, Basic Level part 5.
 - 2024-07-20 and 21 - Craniosacral Biodynamics Therapy, Basic Level part 4.
 - 2024-06-01 and 02 - Craniosacral Biodynamics Therapy, Basic Level part 3.
@@ -90,7 +98,8 @@ Training experiences since 2019 related to Tantra, healing, and self-awareness.
 
 ## Glòria and Miquel
 
-- 2021-06/2023-05 - Experiences with Glòria and Miquel are hard to categorize, but they have contributed to the development of _my inner shaman_.
+- 2021-06/2023-05 - Experiences with Glòria and Miquel are hard to categorize, but they have contributed to the
+  development of _my inner shaman_.
 
 ## Jesús Orellanoz [+](https://www.yogadva.com/)
 
@@ -121,7 +130,6 @@ Training experiences since 2019 related to Tantra, healing, and self-awareness.
 - 2019-02-23 - Tantra for Singles.
 - 2019-01-26 and 27 - Feminine Masculine.
 
-
 {{% /tab %}}
 
 {{% tab "Art" %}}
@@ -130,13 +138,21 @@ Training experiences since 2019 related to Tantra, healing, and self-awareness.
 
 ## Exhibitions
 
-- Group: [I dreamed about a human being](https://fransimo.info/blog/2012/09/13/i-dreamed-about-a-human-being/) @ “BIO-ECO-ARTE DIGITAL, NUEVAS
-CORRIENTES” As part of [ppt OPEN ART FESTIVAL 2022](https://museosdealicante.com/ppt-open-art-festival-2022/), Alicante, Spain, 2022.
-- Group: [#Selfie\_v2](https://fransimo.info/blog/2021/10/26/selfie_v2/) @[“The massacre of the body”](https://fundacion.ideograma.org/event/exposicion-la-masacre-del-cuerpo/), [ideoGrama Fundation](https://fundacion.ideograma.org/),  Barcelona, Spain, 2021. As part of [City Screen 2021](https://loop-barcelona.com/es/loop-festival-2021/city-screen-2021/) in [Loop Barcelona Festival](https://loop-barcelona.com/).
+- Group: [I dreamed about a human being](https://fransimo.info/blog/2012/09/13/i-dreamed-about-a-human-being/) @
+  “BIO-ECO-ARTE DIGITAL, NUEVAS
+  CORRIENTES” As part of [ppt OPEN ART FESTIVAL 2022](https://museosdealicante.com/ppt-open-art-festival-2022/),
+  Alicante, Spain, 2022.
+-
+Group: [#Selfie\_v2](https://fransimo.info/blog/2021/10/26/selfie_v2/) @[“The massacre of the body”](https://fundacion.ideograma.org/event/exposicion-la-masacre-del-cuerpo/), [ideoGrama Fundation](https://fundacion.ideograma.org/),
+Barcelona, Spain, 2021. As part
+of [City Screen 2021](https://loop-barcelona.com/es/loop-festival-2021/city-screen-2021/)
+in [Loop Barcelona Festival](https://loop-barcelona.com/).
 - Group: [Shared Folder](https://fransimo.info/blog/2016/05/07/shared-folder-red-box/)
   and [Code](https://fransimo.info/blog/2019/05/29/code-by-r-mutt/) @ [function(“innocence”, 2019)](http://2019.functionfest.com/en/function_home_eng/)
   digital and electronic art festival in Mallorca, Centre Cultural Casa Planas, Palma, Spain, 2019.
-- Group: [S’Arenal Summertime](https://fransimo.info/blog/2017/04/02/sarenal-summertime-2016/) @[Ciutat de Vacances](http://www.esbaluard.org/en/exposicion/ciutat-de-vacances-es-baluard-museu-dart-modern-i-contemporani-de-palma-2/), Museu Es Baluard, Palma, Spain, 2017.
+-
+Group: [S’Arenal Summertime](https://fransimo.info/blog/2017/04/02/sarenal-summertime-2016/) @[Ciutat de Vacances](http://www.esbaluard.org/en/exposicion/ciutat-de-vacances-es-baluard-museu-dart-modern-i-contemporani-de-palma-2/),
+Museu Es Baluard, Palma, Spain, 2017.
 - Group: I Encuentro Hispano-Japonés de la Universidad Carlos III de Madrid, Campus de Getafe, Spain, 2014.
 - Group: Calle 35 at “Miami Street Photography Festival”, Miami, USA, 2013.
 - Group: “Urban Landscape Photography Exhibition”, 1650 Gallery, Los Ángeles, USA, 2013
@@ -171,7 +187,8 @@ Some of my works were included in these books.
 ## Prizes
 
 - 2017 Finalist with Heaven at DOCfield Dummy Award Fundació Banc Sabadell
-- 2017 [Lumen Prize](https://lumenprize.com/) [Long list](https://www.evernote.com/shard/s11/client/snv?noteGuid=be7408bc-a2c4-4415-ad48-711e5300f240&noteKey=fe7aed069548d5545769e4ef6ecdbd2f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2Fbe7408bc-a2c4-4415-ad48-711e5300f240%2Ffe7aed069548d5545769e4ef6ecdbd2f&title=Longlist%2B2017%2B%257C%2BThe%2BLumen%2BPrize)
+-
+2017 [Lumen Prize](https://lumenprize.com/) [Long list](https://www.evernote.com/shard/s11/client/snv?noteGuid=be7408bc-a2c4-4415-ad48-711e5300f240&noteKey=fe7aed069548d5545769e4ef6ecdbd2f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2Fbe7408bc-a2c4-4415-ad48-711e5300f240%2Ffe7aed069548d5545769e4ef6ecdbd2f&title=Longlist%2B2017%2B%257C%2BThe%2BLumen%2BPrize)
 - 2015 Finalist with [Traces](http://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/)
   at [DOCfield Dummy Award Fundació Banc Sabadell](https://docfieldbarcelona.org/en/entrega-del-docfield-dummy-award-fundacio-banc-sabadell/)
 - 2015 [Lumen Prize](https://lumenprize.com/) Long list
@@ -202,8 +219,10 @@ professional photographers of Barcelona Area.
 - Exhibit: “Tan cerca, tan lejos” Centre Cultural Calisay, Arenys de Mar, and Centre Civic Pati Llimona, Barcelona, 21
   photographers, 40 pictures, 2010.
 -
+
 Exhibit: “[Al Detall](http://barcelonaphotobloggers.org/2009/04/07/al-detall-tercera-exposicion-colectiva-de-barcelona-photobloggers/)”
 Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
+
 - **Exhibit: “[elements](http://www.elements-barcelona.com/)” Maremagnum, Barcelona, 279 photographers, 1584 pictures,
   2008.**
 - Exhibit: “10è Fòrum Fotogràfic Can Basté”, Centre Civic Can Baste, Barcelona, 2008.
@@ -225,45 +244,45 @@ Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
 - Portfolio Reviewer: [VISIONAT DE PORTFOLIS, PICS 2013](http://patillimona.net/pics2013/)
 - Exhibit: [In Motion](http://www.marceloaurelio.com/en-movimiento/)
   by [Marcelo Aurelio](http://www.marceloaurelio.com/), Centre Civic Pati Llimona and Centre Civic Can Baste, Barcelona,
-  2012.
+    2012.
 
 ## Collaborations
 
 - As co-founder of [Caja Azul](http://caja-azul.org/) I’ve collaborated with all its debates.
-  - 2014 – Caja Azul 14va. edición: La influencia de National Geographic en la fotografía a color. Tino Soriano,
-    José Manuel Navia y Rafa Badia. La Fábrica. Madrid.
-  - 2014 – Caja Azul 13ra. edición: La influencia de National Geographic en la fotografía a color. Tino Soriano y
-    Rafa Badia. – Centre Civic Pati Llimona. Barcelona.
-  - 2013- Fotómetro – Termómetro fotográfico que refleja la visión del ciudadano sobre la actualidad. – Concepto,
-    diseño y comisariado. junto a Fran Simó, Godo Chillida, Silvia Omedes, David Lladó. – Circuit2013 Fotografía
-    Documental Barcelona.
-  - 2013 – Caja Azul 12va. edición: La fotografía como herramienta de intervención social. – Centre Civic Can
-    Basté. Antonio Amendola y Samuel Aranda. Barcelona.
-  - 2013 – Caja Azul 11ma. edición: La fotografía como objeto artístico. Fernando Peracho y Vicenç Boned. – Centre
-    Civic Pati Llimona. Barcelona.
-  - 2013 – Caja Azul 10ma. edición: Ritmos analógicos en tiempos digitales: Enric de Santos y Siqui Sánchez. –
-    Biblioteca de can Manyer. Vilassar de Dalt. Barcelona.
-  - 2013 – Caja Azul 9na. edición: Fotografiando la arquitectura del ser humano. Scott Conarroe, Claude Nori y
-    Tuca Vieira. Vila-real, Valencia.
-  - 2012 – Caja Azul 8va. edición: Fotoreporteras – Ofelia de Pablo y Consuelo Bautista – Centre Civic Pati
-    Llimona. Barcelona.
-  - 2012 – Caja Azul 7ta. edición: Fotografía de viajes. Tina Bagué, Toru Morimoto y Rafa Pérez. – Centre Civic
-    Pati Llimona. Barcelona.
-  - 2012 – Caja Azul 6ta. edición: Street photography. Txema Salvans y Marcelo Caballero. – Centre Civic Pati
-    Llimona. Barcelona.
-  - 2011 – Caja Azul 5ta. edición: La edición gráfica. Pepe Baeza y David Airob. – Centre Civic Pati Llimona.
-    Barcelona.
-  - 2011 – Fotoblogueando. La imagen de la semana de Barcelona Photobloggers. Maremagnum. Barcelona.
-  - 2011 – Enfocat al Gótico. Barcelona Photobloggers. Centre Civic Pati Llimona. Barcelona.
-  - 2011 – Caja Azul 4ta. edición: La obsesión fotográfica. Silvia Omedes, Rafa Badia y Fran Simó. – Fiesta de la
-    filosofia. Centre Civic Can Basté – Barcelona.
-  - 2010 – Caja Azul 3ta. edición: Fotoperiodistas en zonas de conflicto: situaciones y límites. Alfonso Moral y
-    Alberto Arce. – 11è Fòrum Fotogràfic Can Basté. Barcelona.
-  - 2010 – “Arrinconado” – Proyecto de arte colaborativo de Barcelona Photobloggers. Maremagnum, Barcelona.
-  - 2010 – Caja Azul 2da. edición: Ser fotoperiodista, una cuestión vital. Mattia Insolera y Bru Rovira. – Centre
-    Civic Pati Llimona. Barcelona.
-  - 2010 – Caja Azul 1ra. edición: Lectura fotográfica: Los procesos de valoración en fotografía. María Rosa Vila,
-    Rafa Badia, Paco Elvira, Manel Úbeda y Alfons Rodríguez. – IDEP. Barcelona.
+    - 2014 – Caja Azul 14va. edición: La influencia de National Geographic en la fotografía a color. Tino Soriano,
+      José Manuel Navia y Rafa Badia. La Fábrica. Madrid.
+    - 2014 – Caja Azul 13ra. edición: La influencia de National Geographic en la fotografía a color. Tino Soriano y
+      Rafa Badia. – Centre Civic Pati Llimona. Barcelona.
+    - 2013- Fotómetro – Termómetro fotográfico que refleja la visión del ciudadano sobre la actualidad. – Concepto,
+      diseño y comisariado. junto a Fran Simó, Godo Chillida, Silvia Omedes, David Lladó. – Circuit2013 Fotografía
+      Documental Barcelona.
+    - 2013 – Caja Azul 12va. edición: La fotografía como herramienta de intervención social. – Centre Civic Can
+      Basté. Antonio Amendola y Samuel Aranda. Barcelona.
+    - 2013 – Caja Azul 11ma. edición: La fotografía como objeto artístico. Fernando Peracho y Vicenç Boned. – Centre
+      Civic Pati Llimona. Barcelona.
+    - 2013 – Caja Azul 10ma. edición: Ritmos analógicos en tiempos digitales: Enric de Santos y Siqui Sánchez. –
+      Biblioteca de can Manyer. Vilassar de Dalt. Barcelona.
+    - 2013 – Caja Azul 9na. edición: Fotografiando la arquitectura del ser humano. Scott Conarroe, Claude Nori y
+      Tuca Vieira. Vila-real, Valencia.
+    - 2012 – Caja Azul 8va. edición: Fotoreporteras – Ofelia de Pablo y Consuelo Bautista – Centre Civic Pati
+      Llimona. Barcelona.
+    - 2012 – Caja Azul 7ta. edición: Fotografía de viajes. Tina Bagué, Toru Morimoto y Rafa Pérez. – Centre Civic
+      Pati Llimona. Barcelona.
+    - 2012 – Caja Azul 6ta. edición: Street photography. Txema Salvans y Marcelo Caballero. – Centre Civic Pati
+      Llimona. Barcelona.
+    - 2011 – Caja Azul 5ta. edición: La edición gráfica. Pepe Baeza y David Airob. – Centre Civic Pati Llimona.
+      Barcelona.
+    - 2011 – Fotoblogueando. La imagen de la semana de Barcelona Photobloggers. Maremagnum. Barcelona.
+    - 2011 – Enfocat al Gótico. Barcelona Photobloggers. Centre Civic Pati Llimona. Barcelona.
+    - 2011 – Caja Azul 4ta. edición: La obsesión fotográfica. Silvia Omedes, Rafa Badia y Fran Simó. – Fiesta de la
+      filosofia. Centre Civic Can Basté – Barcelona.
+    - 2010 – Caja Azul 3ta. edición: Fotoperiodistas en zonas de conflicto: situaciones y límites. Alfonso Moral y
+      Alberto Arce. – 11è Fòrum Fotogràfic Can Basté. Barcelona.
+    - 2010 – “Arrinconado” – Proyecto de arte colaborativo de Barcelona Photobloggers. Maremagnum, Barcelona.
+    - 2010 – Caja Azul 2da. edición: Ser fotoperiodista, una cuestión vital. Mattia Insolera y Bru Rovira. – Centre
+      Civic Pati Llimona. Barcelona.
+    - 2010 – Caja Azul 1ra. edición: Lectura fotográfica: Los procesos de valoración en fotografía. María Rosa Vila,
+      Rafa Badia, Paco Elvira, Manel Úbeda y Alfons Rodríguez. – IDEP. Barcelona.
 
 - “Branguilí va ser aquí, I tu?”
   and “[Barcelona 2000-2011](http://www.cccb.org/en/projecte_online-barcelona_2000_2011-39508)” software, social

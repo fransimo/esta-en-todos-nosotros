@@ -12,27 +12,23 @@ bookToc: false
 
 [Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info) | Tel: +34 655384230
 
-This new stage of my journey is focused on the search for a connection between art, healing (magic), and technology,
-with the aim of integrating and expressing these disciplines in an artistic way.
+This stage of my journey focuses on connecting art, healing (magic), and technology, integrating these disciplines to
+create meaningful artistic expressions.
 
-In the realm of healing, I have explored Tantra, channeling, and various self-awareness therapies, undertaking since
-2019 comprehensive training that encompasses techniques such as craniosacral biodynamics, Reiki, and Tameana. These
-experiences are complemented by workshops focused on sexual healing and energy work, significantly contributing to the
-development of my practice as a healer.
+Since 2019, I have explored healing practices like Tantra, channeling, craniosacral biodynamics, Reiki, and Tameana,
+alongside workshops on energy and sexual healing, forming a foundation for my work as a healer.
 
-In art, my research addresses themes of live, identity, memory, and privacy, explored through multiple international
-exhibitions and collaborative projects. My artistic practice incorporates diverse media, ranging from photography,
-books, and zines to video and transmedia projects.
+In art, my projects span themes of life, identity, memory, and privacy, using photography, video, books, fanzines, and 
+transmedia. _Art is plastic thought. A swing between ideas and aesthetics. The beauty of a piece is a chasm in the 
+walls of the cavern. If while creating it vibrates, the wave would find its chords and it will shake the world._
 
-My technological experience applied to art includes leading initiatives that integrate innovative digital platforms,
-such as mobile applications and real-time interactive exhibitions. These projects have fostered dialogues between the
-human and the virtual, connecting global communities through shared images and narratives.
+I also bring 26 years of experience as a software engineer in multinational companies, implementing global technological
+solutions and leading international teams. My technological work in art includes interactive exhibitions and digital
+platforms that foster connections between the human and the virtual.
 
-In the professional sphere, I have worked for over 26 years as a software engineer in multinational companies, leading
-the implementation of global technological solutions with international teams in highly competitive markets.
-
-The core of my journey is to deepen and intertwine these disciplines, creating a unique language that seeks to evoke
+The core of my journey is to deepen and intertwine these disciplines, creating a unique language that seeks to evoke 
 healing and the expansion of consciousness through art.
+
 <--->
 
 {{< figure src="fran_simo.jpg" alt="Unity Labs" class="text-rigth" >}}
@@ -143,16 +139,20 @@ Training experiences since 2019 related to Tantra, healing, and self-awareness.
   CORRIENTES” As part of [ppt OPEN ART FESTIVAL 2022](https://museosdealicante.com/ppt-open-art-festival-2022/),
   Alicante, Spain, 2022.
 -
+
 Group: [#Selfie\_v2](https://fransimo.info/blog/2021/10/26/selfie_v2/) @[“The massacre of the body”](https://fundacion.ideograma.org/event/exposicion-la-masacre-del-cuerpo/), [ideoGrama Fundation](https://fundacion.ideograma.org/),
 Barcelona, Spain, 2021. As part
 of [City Screen 2021](https://loop-barcelona.com/es/loop-festival-2021/city-screen-2021/)
 in [Loop Barcelona Festival](https://loop-barcelona.com/).
+
 - Group: [Shared Folder](https://fransimo.info/blog/2016/05/07/shared-folder-red-box/)
   and [Code](https://fransimo.info/blog/2019/05/29/code-by-r-mutt/) @ [function(“innocence”, 2019)](http://2019.functionfest.com/en/function_home_eng/)
   digital and electronic art festival in Mallorca, Centre Cultural Casa Planas, Palma, Spain, 2019.
 -
+
 Group: [S’Arenal Summertime](https://fransimo.info/blog/2017/04/02/sarenal-summertime-2016/) @[Ciutat de Vacances](http://www.esbaluard.org/en/exposicion/ciutat-de-vacances-es-baluard-museu-dart-modern-i-contemporani-de-palma-2/),
 Museu Es Baluard, Palma, Spain, 2017.
+
 - Group: I Encuentro Hispano-Japonés de la Universidad Carlos III de Madrid, Campus de Getafe, Spain, 2014.
 - Group: Calle 35 at “Miami Street Photography Festival”, Miami, USA, 2013.
 - Group: “Urban Landscape Photography Exhibition”, 1650 Gallery, Los Ángeles, USA, 2013
@@ -188,7 +188,9 @@ Some of my works were included in these books.
 
 - 2017 Finalist with Heaven at DOCfield Dummy Award Fundació Banc Sabadell
 -
+
 2017 [Lumen Prize](https://lumenprize.com/) [Long list](https://www.evernote.com/shard/s11/client/snv?noteGuid=be7408bc-a2c4-4415-ad48-711e5300f240&noteKey=fe7aed069548d5545769e4ef6ecdbd2f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2Fbe7408bc-a2c4-4415-ad48-711e5300f240%2Ffe7aed069548d5545769e4ef6ecdbd2f&title=Longlist%2B2017%2B%257C%2BThe%2BLumen%2BPrize)
+
 - 2015 Finalist with [Traces](http://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/)
   at [DOCfield Dummy Award Fundació Banc Sabadell](https://docfieldbarcelona.org/en/entrega-del-docfield-dummy-award-fundacio-banc-sabadell/)
 - 2015 [Lumen Prize](https://lumenprize.com/) Long list

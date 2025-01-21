@@ -43,10 +43,10 @@ enableGitInfo = true
 
 [menu]
 # [[menu.before]]
-[[menu.after]]
-  name = "Fran Simó"
-  url = "https://fransimo.info/"
-  weight = 10
+# [[menu.after]]
+#  name = "Fran Simó"
+#  url = "https://fransimo.info/"
+#  weight = 10
 
 
 

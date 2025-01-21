@@ -1,7 +1,7 @@
 ---
 weight: 200
 bookFlatSection: false
-title: "Acerca del autor"
+title: "About"
 bookHidden: false
 bookToc: false
 ---
@@ -112,9 +112,9 @@ Training experiences since 2019 related to Tantra, healing, and self-awareness.
 
 {{% /tab %}}
 
-{{% tab "Arte" %}}
+{{% tab "Art" %}}
 
-# Arte
+# Art
 
 ## Exhibitions
 
@@ -292,9 +292,9 @@ Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
 
 {{% /tab %}}
 
-{{% tab "Tecnología" %}}
+{{% tab "Tech" %}}
 
-# Tecnología
+# Tech
 
 ## Work Experience
 

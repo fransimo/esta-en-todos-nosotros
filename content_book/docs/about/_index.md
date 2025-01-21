@@ -12,6 +12,18 @@ bookToc: false
 
 [Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info) | Tel: +34 655384230  
 
+Esta nueva etapa de mi viaje está centrada en la búsqueda de una conexión entre el arte, la sanación (la magia) y la tecnología, con la intención de integrar y expresar estas disciplinas de manera artística.
+
+En el ámbito de la sanación, he explorado el Tantra, la canalización y diversas terapias de autoconocimiento, realizando desde 2019 una formación integral que abarca técnicas como la biodinámica craneosacral, el Reiki y la Tameana. Estas experiencias se complementan con talleres enfocados en la sanación sexual y el trabajo energético, contribuyendo significativamente al desarrollo de mi práctica como sanador.
+
+En el arte, mis investigaciones abordan temas de identidad, memoria y transformación, explorados en múltiples exposiciones internacionales y proyectos colaborativos. Mi práctica artística utiliza medios diversos, que van desde la fotografía, los libros, los fanzines y el video, hasta proyectos transmedia.
+
+Mi experiencia tecnológica aplicada al arte incluye la dirección de iniciativas que integran plataformas digitales innovadoras, como aplicaciones móviles y exhibiciones interactivas en tiempo real. Estos proyectos han promovido diálogos entre lo humano y lo virtual, conectando comunidades globales a través de imágenes y relatos compartidos.
+
+En el ámbito profesional, he trabajado durante más de 26 años como ingeniero de software en multinacionales, liderando la implementación de soluciones tecnológicas a escala global con equipos internacionales en mercados altamente competitivos.
+
+El eje de mi camino es profundizar y entrelazar estas disciplinas, creando un lenguaje único que busca evocar la sanación y la expansión de la conciencia a través del arte.
+
 
 <--->
 
@@ -471,5 +483,8 @@ Field(s) of study:
 {{% /tab %}}
 
 {{% /tabs %}}
+
+
+
 
 

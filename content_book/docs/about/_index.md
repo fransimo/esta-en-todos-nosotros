@@ -7,10 +7,11 @@ bookToc: false
 ---
 
 # Fran Simó
+Photography and New Media Art 
 
 {{% columns %}}
 
-[Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info) | Tel: +34 655384230
+[Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info) 
 
 This stage of my journey focuses on connecting art, healing (magic), and technology, integrating these disciplines to
 create meaningful artistic expressions.

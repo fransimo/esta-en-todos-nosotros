@@ -32,83 +32,83 @@ bookToc: false
 
 {{% tab "Tantra..." %}}
 
-# Tantra, canalización y sanación
+# Tantra, Channelling, and Healing
 
-Experiencias formativas desde el 2019 relacionadas con el Tantra, la sanación y el autoconocimiento.
+Training experiences since 2019 related to Tantra, healing, and self-awareness.
 
-## Instituto Español de Biodinámica Craneosacral (formación en curso) [+](https://biodinamicacraneosacral.org/)
+## Spanish Institute of Craniosacral Biodynamics (ongoing training) [+](https://biodinamicacraneosacral.org/)
 
-- 2024-10-19 y 20 - Biodinámica Craneosacral, Nivel Básico parte 6.
-- 2024-09-28 y 29 - Biodinámica Craneosacral, Nivel Básico parte 4.
-- 2024-07-20 y 21 - Biodinámica Craneosacral, Nivel Básico parte 4.
-- 2024-06-01 y 02 - Biodinámica Craneosacral, Nivel Básico parte 3.
-- 2024-04-13 y 14 - Biodinámica Craneosacral, Nivel Básico parte 2.
-- 2024-03-24 y 24 - Biodinámica Craneosacral, Nivel Básico parte 1.
+- 2024-10-19 and 20 - [Craniosacral Biodynamics Therapy](http://www.craniosacral-biodynamics.org/overview.html), Basic Level part 6.
+- 2024-09-28 and 29 - Craniosacral Biodynamics Therapy, Basic Level part 5.
+- 2024-07-20 and 21 - Craniosacral Biodynamics Therapy, Basic Level part 4.
+- 2024-06-01 and 02 - Craniosacral Biodynamics Therapy, Basic Level part 3.
+- 2024-04-13 and 14 - Craniosacral Biodynamics Therapy, Basic Level part 2.
+- 2024-03-23 and 24 - Craniosacral Biodynamics Therapy, Basic Level part 1.
 
 ## Angelica Alercia [+](https://www.instagram.com/angelica.alercia.ser/)
 
-- 2024-06-29 y 30 - Tameana (Pleiadian Healing): Salugh paki, Ma'at, Puja, H'ama y niños.
+- 2024-06-29 and 30 - Tameana (Pleiadian Healing): Salugh paki, Ma'at, Puja, H'ama, and children.
 
-## Krishnananda (Learning Love Institute [+](https://www.learningloveinstitute.com/about/?lang=es)) y Premamui [+](https://premamui.com/)
+## Krishnananda (Learning Love Institute [+](https://www.learningloveinstitute.com/about/?lang=es)) and Premamui [+](https://premamui.com/)
 
-- 2024-06-11 al 16 - Hombres descubriendo su espacio interior y propósito de vida
+- 2024-06-11 to 16 - Men Discovering their Inner Space and Life Purpose.
 
 ## Juan Manuel Giordano [+](https://www.juanmanuelgiordano.com/)
 
-- 2024-06 - Retiro en Montserrat.
-- 2024-04 - Retiro en Montserrat.
-- 2023-10 - Retiro en Montserrat.
+- 2024-06 - Retreat in Montserrat.
+- 2024-04 - Retreat in Montserrat.
+- 2023-10 - Retreat in Montserrat.
 
 ## Muditosan [+](https://www.laesenciadeltacto.com/muditosan/)
 
-- 2024-05-17 a 19 - La Esencia del Tacto.
-- 2023-03-17 a 19 - El cuerpo en su estado natural.
+- 2024-05-17 to 19 - The Essence of Touch.
+- 2023-03-17 to 19 - The Body in its Natural State.
 
 ## Astiko [+](https://tantrawithastiko.com/)
 
-- 2024-03-25 al 31 - Sexo en meditación: sexo que nutre, sexo que eleva.
+- 2024-03-25 to 31 - Sex in Meditation: Nurturing Sex, Elevating Sex.
 
 ## Verma Rodriguez [+](https://vermarodriguez.com/)
 
 - 2023-10 - Tantra Festival Mallorca!
-- **2022-12/2023-08 - Formación masaje tántrico y cura sexual.**
+- **2022-12/2023-08 - Training in Tantric Massage and Sexual Healing.**
 - 2022-08 - Tantra Festival Mallorca!
-- **2022-06-10 y 12 - Masaje Tántrico intermedio.**
-- 2021-12-31 y 01 - Fin de año.
+- **2022-06-10 to 12 - Intermediate Tantric Massage.**
+- 2021-12-31 and 01 - New Year's Celebration.
 
-## Glòria y Miquel
+## Glòria and Miquel
 
-- 2021-06/2023-05 - Las experiencias con Glòria y Miquel son difíciles de catalogar, pero se puede decir que han ayudado
-  a desarrollar _mi chamán_.
+- 2021-06/2023-05 - Experiences with Glòria and Miquel are hard to categorize, but they have contributed to the development of _my inner shaman_.
 
 ## Jesús Orellanoz [+](https://www.yogadva.com/)
 
-- **2023-03 - Primer nivel de Reiki (Usui Tibetano) (D40026)**
+- **2023-03 - First Level Reiki (Usui Tibetan) (D40026).**
 
 ## Alicia Amezcua [+](https://aliciaamezcua.com/)
 
-- **2020-02-15 y 16 - Masaje Tántrico nivel 1.**
+- **2020-02-15 and 16 - Tantric Massage Level 1.**
 
 ## Sarani Vilionyte [+](https://saranivilionyte.com/)
 
-- 2019-11-02 y 03 - No tuvo un tema específico, pero lo dirigió a “sanando el niño interior”.
+- 2019-11-02 and 03 - No specific theme, but focused on “healing the inner child.”
 
-## Sonia (Kala) Sellés [+](https://sexologiasensorial.com/) y Adrià Tebé (Amante Superior)
+## Sonia (Kala) Sellés [+](https://sexologiasensorial.com/) and Adrià Tebé (Superior Lover)
 
-- **2019-06-01 y 02 Módulo 3: Masaje Tántrico.**
-- 2019-05-04 y 05 Módulo 2: Encuentro Íntimo.
-- 2019-04-06 y 07 Modulo 1: Sanando nuestra sexualidad.
+- **2019-06-01 and 02 - Module 3: Tantric Massage.**
+- 2019-05-04 and 05 - Module 2: Intimate Encounter.
+- 2019-04-06 and 07 - Module 1: Healing our Sexuality.
 
 ## Adrià Tebé [+](https://www.instagram.com/adriatebe/)
 
-- 2020-02-01 y 02 - Tantra para Parejas.
-- 2019-12-14 y 14 - Encarnando a Shakti.
-- 2019-11-16 y 17 - Encarnando a Shiva.
-- 2019-10-19 y 20 - Amor Auténtico.
-- 2019-08-10 y 11 - Extasy Energy.
-- **2019-03-23 y 24 - Iniciación masaje Tántrico.**
-- 2019-02-23 - Tantra para Singles.
-- 2019-01-26 y 27 - Femenino Masculino.
+- 2020-02-01 and 02 - Tantra for Couples.
+- 2019-12-14 and 15 - Embodying Shakti.
+- 2019-11-16 and 17 - Embodying Shiva.
+- 2019-10-19 and 20 - Authentic Love.
+- 2019-08-10 and 11 - Ecstasy Energy.
+- **2019-03-23 and 24 - Introduction to Tantric Massage.**
+- 2019-02-23 - Tantra for Singles.
+- 2019-01-26 and 27 - Feminine Masculine.
+
 
 {{% /tab %}}
 

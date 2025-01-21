@@ -12,29 +12,6 @@ bookToc: false
 
 [Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info) | Tel: +34 655384230  
 
-**Professional Profile**  
-Photographer and multidisciplinary artist exploring the relationship between humans and technology. His work examines themes of consciousness and life through AI, open data, and collaborative media. Based in Barcelona since 1998 and in Palma de Mallorca since 2014, he co-founded Barcelona Photobloggers and Caja Azul, curating exhibitions and projects with participatory methodologies.  
-
-**Education**  
-- Software Engineering in Argentina and Spain.  
-- Artistic training through workshops with Javier Vallhonrat, Alberto García-Alix, and Marta Gili (Es Baluard Museum, Palma).  
-
-**Selected Exhibitions**  
-- *#Selfie_v2*, Loop Barcelona Festival, Barcelona, 2021.  
-- *Shared Folder and Code*, Casa Planas, Palma, 2019.  
-- *Capture Brooklyn*, The powerHouse Arena, NYC, 2010.  
-
-**Notable Projects**  
-- *Traces – 2013.12.07 – Barcelona*: Transmedia project exhibited at Tagomago Gallery, Barcelona.  
-- *Ubiquography*: Global exhibition across 7 countries, 640 authors, 2012.  
-
-**Awards**  
-- Finalist, DOCfield Dummy Award, Fundació Banc Sabadell, 2017.  
-- Lumen Prize Long List, 2017 & 2015.  
-
-**Skills**  
-Documentary photography, interactive art, curating, open-source software, social media management, and digital marketing for artists.  
-
 
 <--->
 
@@ -141,17 +118,13 @@ Experiencias formativas desde el 2019 relacionadas con el Tantra, la sanación y
 
 ## Exhibitions
 
--
-Group: [#Selfie\_v2](https://fransimo.info/blog/2021/10/26/selfie_v2/) @[“The massacre of the body”](https://fundacion.ideograma.org/event/exposicion-la-masacre-del-cuerpo/), [ideoGrama Fundation](https://fundacion.ideograma.org/),
-Barcelona, Spain, 2021. As part
-of [City Screen 2021](https://loop-barcelona.com/es/loop-festival-2021/city-screen-2021/)
-in [Loop Barcelona Festival](https://loop-barcelona.com/).
+- Group: [I dreamed about a human being](https://fransimo.info/blog/2012/09/13/i-dreamed-about-a-human-being/) @ “BIO-ECO-ARTE DIGITAL, NUEVAS
+CORRIENTES” As part of [ppt OPEN ART FESTIVAL 2022](https://museosdealicante.com/ppt-open-art-festival-2022/), Alicante, Spain, 2022.
+- Group: [#Selfie\_v2](https://fransimo.info/blog/2021/10/26/selfie_v2/) @[“The massacre of the body”](https://fundacion.ideograma.org/event/exposicion-la-masacre-del-cuerpo/), [ideoGrama Fundation](https://fundacion.ideograma.org/),  Barcelona, Spain, 2021. As part of [City Screen 2021](https://loop-barcelona.com/es/loop-festival-2021/city-screen-2021/) in [Loop Barcelona Festival](https://loop-barcelona.com/).
 - Group: [Shared Folder](https://fransimo.info/blog/2016/05/07/shared-folder-red-box/)
   and [Code](https://fransimo.info/blog/2019/05/29/code-by-r-mutt/) @ [function(“innocence”, 2019)](http://2019.functionfest.com/en/function_home_eng/)
   digital and electronic art festival in Mallorca, Centre Cultural Casa Planas, Palma, Spain, 2019.
--
-Group: [S’Arenal Summertime](https://fransimo.info/blog/2017/04/02/sarenal-summertime-2016/) @[Ciutat de Vacances](http://www.esbaluard.org/en/exposicion/ciutat-de-vacances-es-baluard-museu-dart-modern-i-contemporani-de-palma-2/),
-Museu Es Baluard, Palma, Spain, 2017.
+- Group: [S’Arenal Summertime](https://fransimo.info/blog/2017/04/02/sarenal-summertime-2016/) @[Ciutat de Vacances](http://www.esbaluard.org/en/exposicion/ciutat-de-vacances-es-baluard-museu-dart-modern-i-contemporani-de-palma-2/), Museu Es Baluard, Palma, Spain, 2017.
 - Group: I Encuentro Hispano-Japonés de la Universidad Carlos III de Madrid, Campus de Getafe, Spain, 2014.
 - Group: Calle 35 at “Miami Street Photography Festival”, Miami, USA, 2013.
 - Group: “Urban Landscape Photography Exhibition”, 1650 Gallery, Los Ángeles, USA, 2013
@@ -186,22 +159,21 @@ Some of my works were included in these books.
 ## Prizes
 
 - 2017 Finalist with Heaven at DOCfield Dummy Award Fundació Banc Sabadell
--
-2017 [Lumen Prize](https://lumenprize.com/) [Long list](https://www.evernote.com/shard/s11/client/snv?noteGuid=be7408bc-a2c4-4415-ad48-711e5300f240&noteKey=fe7aed069548d5545769e4ef6ecdbd2f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2Fbe7408bc-a2c4-4415-ad48-711e5300f240%2Ffe7aed069548d5545769e4ef6ecdbd2f&title=Longlist%2B2017%2B%257C%2BThe%2BLumen%2BPrize)
+- 2017 [Lumen Prize](https://lumenprize.com/) [Long list](https://www.evernote.com/shard/s11/client/snv?noteGuid=be7408bc-a2c4-4415-ad48-711e5300f240&noteKey=fe7aed069548d5545769e4ef6ecdbd2f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2Fbe7408bc-a2c4-4415-ad48-711e5300f240%2Ffe7aed069548d5545769e4ef6ecdbd2f&title=Longlist%2B2017%2B%257C%2BThe%2BLumen%2BPrize)
 - 2015 Finalist with [Traces](http://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/)
   at [DOCfield Dummy Award Fundació Banc Sabadell](https://docfieldbarcelona.org/en/entrega-del-docfield-dummy-award-fundacio-banc-sabadell/)
 - 2015 [Lumen Prize](https://lumenprize.com/) Long list
 
 ## Project direction for Barcelona Photobloggers
 
-Main artistic activity since 2006 to 2014 was create, organize, curate and promote participative and collaborative
+Main artistic activity since 2006 to 2014 was to create, organize, curate and promote participative and collaborative
 projects for [Barcelona Photobloggers](http://barcelonaphotobloggers.org/), an on-line social network of amateur and
 professional photographers of Barcelona Area.
 
-- **Transmedia
+- Transmedia
   project [“Traces – 2013.12.07 – Barcelona”](http://traces-barcelona.fransimo.info/). [App](https://itunes.apple.com/us/app/traces/id866756528?ls=1&mt=8),
   books, video and exhibit:[Tagomago Gallery](http://tagomago.com/).
-  Within [DocField>14](http://docfieldbarcelona.org/en/) Barcelona. 2014**
+  Within [DocField>14](http://docfieldbarcelona.org/en/) Barcelona. 2014
 - Exhibit: “La imagen de la semana II” Centre Civic Pati Llimona, Barcelona, 2014.
 - Mobile, real time, Barcelona exhibit: [fotometro.org](http://fotometro.org/), was an invitation to share your view of
   the crisis. It was shown simultaneously at 28 venues within the [Circuit 2013](http://circuitfotobarcelona.org/en/),
@@ -245,42 +217,41 @@ Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
 
 ## Collaborations
 
--
-    - As co-founder of [Caja Azul](http://caja-azul.org/) I’ve collaborated with all its debates.
-        - 2014 – Caja Azul 14va. edición: La influencia de National Geographic en la fotografía a color. Tino Soriano,
-          José Manuel Navia y Rafa Badia. La Fábrica. Madrid.
-        - 2014 – Caja Azul 13ra. edición: La influencia de National Geographic en la fotografía a color. Tino Soriano y
-          Rafa Badia. – Centre Civic Pati Llimona. Barcelona.
-        - 2013- Fotómetro – Termómetro fotográfico que refleja la visión del ciudadano sobre la actualidad. – Concepto,
-          diseño y comisariado. junto a Fran Simó, Godo Chillida, Silvia Omedes, David Lladó. – Circuit2013 Fotografía
-          Documental Barcelona.
-        - 2013 – Caja Azul 12va. edición: La fotografía como herramienta de intervención social. – Centre Civic Can
-          Basté. Antonio Amendola y Samuel Aranda. Barcelona.
-        - 2013 – Caja Azul 11ma. edición: La fotografía como objeto artístico. Fernando Peracho y Vicenç Boned. – Centre
-          Civic Pati Llimona. Barcelona.
-        - 2013 – Caja Azul 10ma. edición: Ritmos analógicos en tiempos digitales: Enric de Santos y Siqui Sánchez. –
-          Biblioteca de can Manyer. Vilassar de Dalt. Barcelona.
-        - 2013 – Caja Azul 9na. edición: Fotografiando la arquitectura del ser humano. Scott Conarroe, Claude Nori y
-          Tuca Vieira. Vila-real, Valencia.
-        - 2012 – Caja Azul 8va. edición: Fotoreporteras – Ofelia de Pablo y Consuelo Bautista – Centre Civic Pati
-          Llimona. Barcelona.
-        - 2012 – Caja Azul 7ta. edición: Fotografía de viajes. Tina Bagué, Toru Morimoto y Rafa Pérez. – Centre Civic
-          Pati Llimona. Barcelona.
-        - 2012 – Caja Azul 6ta. edición: Street photography. Txema Salvans y Marcelo Caballero. – Centre Civic Pati
-          Llimona. Barcelona.
-        - 2011 – Caja Azul 5ta. edición: La edición gráfica. Pepe Baeza y David Airob. – Centre Civic Pati Llimona.
-          Barcelona.
-        - 2011 – Fotoblogueando. La imagen de la semana de Barcelona Photobloggers. Maremagnum. Barcelona.
-        - 2011 – Enfocat al Gótico. Barcelona Photobloggers. Centre Civic Pati Llimona. Barcelona.
-        - 2011 – Caja Azul 4ta. edición: La obsesión fotográfica. Silvia Omedes, Rafa Badia y Fran Simó. – Fiesta de la
-          filosofia. Centre Civic Can Basté – Barcelona.
-        - 2010 – Caja Azul 3ta. edición: Fotoperiodistas en zonas de conflicto: situaciones y límites. Alfonso Moral y
-          Alberto Arce. – 11è Fòrum Fotogràfic Can Basté. Barcelona.
-        - 2010 – “Arrinconado” – Proyecto de arte colaborativo de Barcelona Photobloggers. Maremagnum, Barcelona.
-        - 2010 – Caja Azul 2da. edición: Ser fotoperiodista, una cuestión vital. Mattia Insolera y Bru Rovira. – Centre
-          Civic Pati Llimona. Barcelona.
-        - 2010 – Caja Azul 1ra. edición: Lectura fotográfica: Los procesos de valoración en fotografía. María Rosa Vila,
-          Rafa Badia, Paco Elvira, Manel Úbeda y Alfons Rodríguez. – IDEP. Barcelona.
+- As co-founder of [Caja Azul](http://caja-azul.org/) I’ve collaborated with all its debates.
+  - 2014 – Caja Azul 14va. edición: La influencia de National Geographic en la fotografía a color. Tino Soriano,
+    José Manuel Navia y Rafa Badia. La Fábrica. Madrid.
+  - 2014 – Caja Azul 13ra. edición: La influencia de National Geographic en la fotografía a color. Tino Soriano y
+    Rafa Badia. – Centre Civic Pati Llimona. Barcelona.
+  - 2013- Fotómetro – Termómetro fotográfico que refleja la visión del ciudadano sobre la actualidad. – Concepto,
+    diseño y comisariado. junto a Fran Simó, Godo Chillida, Silvia Omedes, David Lladó. – Circuit2013 Fotografía
+    Documental Barcelona.
+  - 2013 – Caja Azul 12va. edición: La fotografía como herramienta de intervención social. – Centre Civic Can
+    Basté. Antonio Amendola y Samuel Aranda. Barcelona.
+  - 2013 – Caja Azul 11ma. edición: La fotografía como objeto artístico. Fernando Peracho y Vicenç Boned. – Centre
+    Civic Pati Llimona. Barcelona.
+  - 2013 – Caja Azul 10ma. edición: Ritmos analógicos en tiempos digitales: Enric de Santos y Siqui Sánchez. –
+    Biblioteca de can Manyer. Vilassar de Dalt. Barcelona.
+  - 2013 – Caja Azul 9na. edición: Fotografiando la arquitectura del ser humano. Scott Conarroe, Claude Nori y
+    Tuca Vieira. Vila-real, Valencia.
+  - 2012 – Caja Azul 8va. edición: Fotoreporteras – Ofelia de Pablo y Consuelo Bautista – Centre Civic Pati
+    Llimona. Barcelona.
+  - 2012 – Caja Azul 7ta. edición: Fotografía de viajes. Tina Bagué, Toru Morimoto y Rafa Pérez. – Centre Civic
+    Pati Llimona. Barcelona.
+  - 2012 – Caja Azul 6ta. edición: Street photography. Txema Salvans y Marcelo Caballero. – Centre Civic Pati
+    Llimona. Barcelona.
+  - 2011 – Caja Azul 5ta. edición: La edición gráfica. Pepe Baeza y David Airob. – Centre Civic Pati Llimona.
+    Barcelona.
+  - 2011 – Fotoblogueando. La imagen de la semana de Barcelona Photobloggers. Maremagnum. Barcelona.
+  - 2011 – Enfocat al Gótico. Barcelona Photobloggers. Centre Civic Pati Llimona. Barcelona.
+  - 2011 – Caja Azul 4ta. edición: La obsesión fotográfica. Silvia Omedes, Rafa Badia y Fran Simó. – Fiesta de la
+    filosofia. Centre Civic Can Basté – Barcelona.
+  - 2010 – Caja Azul 3ta. edición: Fotoperiodistas en zonas de conflicto: situaciones y límites. Alfonso Moral y
+    Alberto Arce. – 11è Fòrum Fotogràfic Can Basté. Barcelona.
+  - 2010 – “Arrinconado” – Proyecto de arte colaborativo de Barcelona Photobloggers. Maremagnum, Barcelona.
+  - 2010 – Caja Azul 2da. edición: Ser fotoperiodista, una cuestión vital. Mattia Insolera y Bru Rovira. – Centre
+    Civic Pati Llimona. Barcelona.
+  - 2010 – Caja Azul 1ra. edición: Lectura fotográfica: Los procesos de valoración en fotografía. María Rosa Vila,
+    Rafa Badia, Paco Elvira, Manel Úbeda y Alfons Rodríguez. – IDEP. Barcelona.
 
 - “Branguilí va ser aquí, I tu?”
   and “[Barcelona 2000-2011](http://www.cccb.org/en/projecte_online-barcelona_2000_2011-39508)” software, social
@@ -331,7 +302,7 @@ Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
 
 > 01/12/2023 – 30/08/2024 – Palma, Spain
 
-ead the design and implementation of a scalable data architecture utilizing Kafka, Kafka Connect, Airflow, DBT,
+Lead the design and implementation of a scalable data architecture utilizing Kafka, Kafka Connect, Airflow, DBT,
 Snowflake, Tableau, and other technologies. This architecture supports real-time data processing and MLOps initiatives,
 ensuring robust data management and governance across the organization.
 

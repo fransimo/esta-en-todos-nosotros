@@ -77,8 +77,17 @@ Digital print. 1.60m x 90 cm
 4K Video. 5' 31"
 ````
 
+#### QR
+
+![20250111_1132_XT256181_fransimo.jpg](/images/20250111_1132_XT256181_fransimo.jpg)
+
+On January 11th, I placed a QR code where I was going to meditate, declaring the site as: _Sanctuary, a meeting place with nymphs and the spirits of calm waters.  
+Those who visit will find: "Clarity, strength, courage, love, and equanimity to see our path and fulfill our mission with wisdom."_
+
 
 ### It Is in All of Us 10.09.24 / 17.01.25
+
+![20250114_1634_XT500158_fransimo.jpg](/images/20250114_1634_XT500158_fransimo.jpg)
 
 ````
 Zine. A5. 32 pages.
@@ -90,6 +99,8 @@ The zine combines photography, drawings, maps, and important phrases from Kingsl
 You can download the [PDF version](/fanzine/Esta_en_todos_nosotros_en.pdf) or the [EPUB version](/fanzine/It_is_within_all_of_us.epub).
 
 ### A Small Guide to Talking with Trees and Other Beings
+
+![20250123_1626_XT501274_fransimo.jpg](/images/20250123_1626_XT501274_fransimo.jpg)
 
 ````
 Zine. A5. 12 pages

@@ -88,12 +88,18 @@ Il testo descritto _Il sussurro delle ninfe_ si può [leggere qui](/docs/sanctua
 
 > Video 4k. 5' 31"
 
+#### QR
+
+![20250111_1132_XT256181_fransimo.jpg](/images/20250111_1132_XT256181_fransimo.jpg)
+
+L'11 gennaio ho installato un QR nel luogo in cui meditavo, dichiarando quel posto come: _Santuario, luogo d'incontro con le ninfe e gli spiriti delle acque tranquille.
+Coloro che vi si recano potranno trovare: "Chiarezza, forza, coraggio, amore ed equanimità per vedere il nostro cammino e realizzare la nostra missione con saggezza."_
 
 ### È in ognuno di noi 10.09.24 / 17.01.25
 
+![20250114_1634_XT500158_fransimo.jpg](/images/20250114_1634_XT500158_fransimo.jpg)
 
 > Fanzine. A5. 32 pagine.
-
 
 La fanzine unisce fotografia, disegni, mappe, frasi importanti tratte dal libro di Kingsley.
 
@@ -101,9 +107,9 @@ Puoi scaricare la versione [PDF](/fanzine/Esta_en_todos_nosotros_it.pdf) o [EPUB
 
 ### Piccola guida per parlare con gli alberi e altri esseri
 
+![20250123_1626_XT501274_fransimo.jpg](/images/20250123_1626_XT501274_fransimo.jpg)
 
 > Fanzine, A5, 12 pagine.
-
 
 Parlando del fatto che parte della metodologia di ricerca prevedeva "parlare con gli alberi", alcune persone hanno
 mostrato interesse. [Puoi leggere una piccola guida alla meditazione a questo link](/docs/talking_with_the_trees).

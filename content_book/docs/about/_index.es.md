@@ -1,7 +1,7 @@
 ---
 weight: 200
 bookFlatSection: false
-title: "About"
+title: "Acerca del autor"
 bookHidden: false
 bookToc: false
 ---

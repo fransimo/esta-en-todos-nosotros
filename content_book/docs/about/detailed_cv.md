@@ -14,10 +14,12 @@ bookToc: false
 
 # Spirituality
 
-Training experiences since 2019 related to Tantra, healing, channeling and self-awareness.
+Training experiences since 2019 related to Tantra, massages, healing, channeling and self-awareness.
 
 ## Spanish Institute of Craniosacral Biodynamics (ongoing training) [+](https://biodinamicacraneosacral.org/)
 
+- 2025-02-01 and 02 - [Craniosacral Biodynamics Therapy](http://www.craniosacral-biodynamics.org/overview.html), Advanced
+  Level part 1.
 - 2024-10-19 and 20 - [Craniosacral Biodynamics Therapy](http://www.craniosacral-biodynamics.org/overview.html), Basic
   Level part 6.
 - 2024-09-28 and 29 - Craniosacral Biodynamics Therapy, Basic Level part 5.

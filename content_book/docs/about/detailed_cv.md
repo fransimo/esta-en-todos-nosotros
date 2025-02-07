@@ -8,15 +8,16 @@ bookToc: false
 
 # Fran Simó
 
-Massage, art and code to walk together the path. 
+Massage, art, and code to walk the path together.
 
 [Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info)
 
 ## Healing & Spirituality
 
 Since 2019, I have explored healing practices such as Tantra, channeling, craniosacral biodynamics, Reiki, and Tameana.
-Massage has played a fundamental role in both my training and practice, deepening my understanding of body energy and
-healing processes. Additionally, I have attended workshops on energy work and sexual healing, forming a solid foundation
+Massage has played a fundamental role in my training and practice, deepening my understanding of body energy and the
+healing process.
+Additionally, I have attended workshops on energy work and sexual healing, forming a solid foundation
 for my practice as a healer.
 
 ## Art
@@ -25,16 +26,16 @@ My projects span themes of life, identity, memory, and privacy. I use photograph
 transmedia to challenge perceptions of time and the invisible.
 
 Art is plastic thought. A swing between ideas and aesthetics. The beauty of a piece is a chasm in the walls of the
-cavern. If while creating it vibrates, the wave will find its chords and shake the world.
+cavern. If, while being created, it vibrates, the wave will find its chords and shake the world.
 
-My work has been exhibited internationally, and I have participated in collaborative projects exploring new narratives
+My work has been exhibited internationally, and I have taken part in collaborative projects exploring new narratives 
 through artistic expression.
 
 ## Technology
 
 I bring 26 years of experience as a software engineer in multinational companies, implementing global technological
 solutions and leading international teams. My technological work in art includes interactive exhibitions and digital
-platforms that foster connections between the human and the virtual.
+platforms that bridge the human and the virtual.
 
 ## Detailed training and experience
 
@@ -44,7 +45,7 @@ platforms that foster connections between the human and the virtual.
 
 # Healing & Spirituality
 
-My path in self-knowledge, massages and energy started in 2000, but it was in 2019 when I decided to focus on this path.
+My journey in self-knowledge, massage, and energy work began in 2000, but in 2019 I decided to fully commit to this path.
 Here are my training experiences since then related to Tantra, massages, healing, channeling and self-awareness.
 
 ## Spanish Institute of Craniosacral Biodynamics (ongoing training) [+](https://biodinamicacraneosacral.org/)
@@ -137,17 +138,14 @@ Here are my training experiences since then related to Tantra, massages, healing
   “BIO-ECO-ARTE DIGITAL, NUEVAS
   CORRIENTES” As part of [ppt OPEN ART FESTIVAL 2022](https://museosdealicante.com/ppt-open-art-festival-2022/),
   Alicante, Spain, 2022.
--
-
-Group: [#Selfie\_v2](https://fransimo.info/blog/2021/10/26/selfie_v2/) @[“The massacre of the body”](https://fundacion.ideograma.org/event/exposicion-la-masacre-del-cuerpo/), [ideoGrama Fundation](https://fundacion.ideograma.org/),
-Barcelona, Spain, 2021. As part
-of [City Screen 2021](https://loop-barcelona.com/es/loop-festival-2021/city-screen-2021/)
-in [Loop Barcelona Festival](https://loop-barcelona.com/).
-
+- Group: [#Selfie\_v2](https://fransimo.info/blog/2021/10/26/selfie_v2/) @[“The massacre of the body”](https://fundacion.ideograma.org/event/exposicion-la-masacre-del-cuerpo/), [ideoGrama Fundation](https://fundacion.ideograma.org/),
+  Barcelona, Spain, 2021. As part
+  of [City Screen 2021](https://loop-barcelona.com/es/loop-festival-2021/city-screen-2021/)
+  in [Loop Barcelona Festival](https://loop-barcelona.com/).
 - Group: [Shared Folder](https://fransimo.info/blog/2016/05/07/shared-folder-red-box/)
   and [Code](https://fransimo.info/blog/2019/05/29/code-by-r-mutt/) @ [function(“innocence”, 2019)](http://2019.functionfest.com/en/function_home_eng/)
   digital and electronic art festival in Mallorca, Centre Cultural Casa Planas, Palma, Spain, 2019.
--
+
 
 Group: [S’Arenal Summertime](https://fransimo.info/blog/2017/04/02/sarenal-summertime-2016/) @[Ciutat de Vacances](http://www.esbaluard.org/en/exposicion/ciutat-de-vacances-es-baluard-museu-dart-modern-i-contemporani-de-palma-2/),
 Museu Es Baluard, Palma, Spain, 2017.
@@ -186,12 +184,8 @@ Some of my works were included in these books.
 ## Prizes
 
 - 2017 Finalist with Heaven at DOCfield Dummy Award Fundació Banc Sabadell
--
-
-2017 [Lumen Prize](https://lumenprize.com/) [Long list](https://www.evernote.com/shard/s11/client/snv?noteGuid=be7408bc-a2c4-4415-ad48-711e5300f240&noteKey=fe7aed069548d5545769e4ef6ecdbd2f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2Fbe7408bc-a2c4-4415-ad48-711e5300f240%2Ffe7aed069548d5545769e4ef6ecdbd2f&title=Longlist%2B2017%2B%257C%2BThe%2BLumen%2BPrize)
-
-- 2015 Finalist with [Traces](http://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/)
-  at [DOCfield Dummy Award Fundació Banc Sabadell](https://docfieldbarcelona.org/en/entrega-del-docfield-dummy-award-fundacio-banc-sabadell/)
+- 2017 [Lumen Prize](https://lumenprize.com/) [Long list](https://www.evernote.com/shard/s11/client/snv?noteGuid=be7408bc-a2c4-4415-ad48-711e5300f240&noteKey=fe7aed069548d5545769e4ef6ecdbd2f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2Fbe7408bc-a2c4-4415-ad48-711e5300f240%2Ffe7aed069548d5545769e4ef6ecdbd2f&title=Longlist%2B2017%2B%257C%2BThe%2BLumen%2BPrize)
+- 2015 Finalist with [Traces](http://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/) at [DOCfield Dummy Award Fundació Banc Sabadell](https://docfieldbarcelona.org/en/entrega-del-docfield-dummy-award-fundacio-banc-sabadell/)
 - 2015 [Lumen Prize](https://lumenprize.com/) Long list
 
 ## Project direction for Barcelona Photobloggers
@@ -219,11 +213,8 @@ professional photographers of Barcelona Area.
   video([es](https://vimeo.com/22812002),[en](https://vimeo.com/31446721)): “Arrinconado” Maremagnum, Barcelona, 2010**
 - Exhibit: “Tan cerca, tan lejos” Centre Cultural Calisay, Arenys de Mar, and Centre Civic Pati Llimona, Barcelona, 21
   photographers, 40 pictures, 2010.
--
-
-Exhibit: “[Al Detall](http://barcelonaphotobloggers.org/2009/04/07/al-detall-tercera-exposicion-colectiva-de-barcelona-photobloggers/)”
-Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
-
+- Exhibit: “[Al Detall](http://barcelonaphotobloggers.org/2009/04/07/al-detall-tercera-exposicion-colectiva-de-barcelona-photobloggers/)”
+  Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
 - **Exhibit: “[elements](http://www.elements-barcelona.com/)” Maremagnum, Barcelona, 279 photographers, 1584 pictures,
   2008.**
 - Exhibit: “10è Fòrum Fotogràfic Can Basté”, Centre Civic Can Baste, Barcelona, 2008.

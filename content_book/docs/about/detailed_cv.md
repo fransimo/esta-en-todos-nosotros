@@ -6,19 +6,51 @@ bookHidden: false
 bookToc: false
 ---
 
-# Detailed CV
+# Fran Simó
+
+Massage, art and code to walk together the path. 
+
+[Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info)
+
+## Healing & Spirituality
+
+Since 2019, I have explored healing practices such as Tantra, channeling, craniosacral biodynamics, Reiki, and Tameana.
+Massage has played a fundamental role in both my training and practice, deepening my understanding of body energy and
+healing processes. Additionally, I have attended workshops on energy work and sexual healing, forming a solid foundation
+for my practice as a healer.
+
+## Art
+
+My projects span themes of life, identity, memory, and privacy. I use photography, video, books, fanzines, and
+transmedia to challenge perceptions of time and the invisible.
+
+Art is plastic thought. A swing between ideas and aesthetics. The beauty of a piece is a chasm in the walls of the
+cavern. If while creating it vibrates, the wave will find its chords and shake the world.
+
+My work has been exhibited internationally, and I have participated in collaborative projects exploring new narratives
+through artistic expression.
+
+## Technology
+
+I bring 26 years of experience as a software engineer in multinational companies, implementing global technological
+solutions and leading international teams. My technological work in art includes interactive exhibitions and digital
+platforms that foster connections between the human and the virtual.
+
+## Detailed training and experience
 
 {{% tabs %}}
 
 {{% tab "Spirituality" %}}
 
-# Spirituality
+# Healing & Spirituality
 
-Training experiences since 2019 related to Tantra, massages, healing, channeling and self-awareness.
+My path in self-knowledge, massages and energy started in 2000, but it was in 2019 when I decided to focus on this path.
+Here are my training experiences since then related to Tantra, massages, healing, channeling and self-awareness.
 
 ## Spanish Institute of Craniosacral Biodynamics (ongoing training) [+](https://biodinamicacraneosacral.org/)
 
-- 2025-02-01 and 02 - [Craniosacral Biodynamics Therapy](http://www.craniosacral-biodynamics.org/overview.html), Advanced
+- 2025-02-01 and 02 - [Craniosacral Biodynamics Therapy](http://www.craniosacral-biodynamics.org/overview.html),
+  Advanced
   Level part 1.
 - 2024-10-19 and 20 - [Craniosacral Biodynamics Therapy](http://www.craniosacral-biodynamics.org/overview.html), Basic
   Level part 6.

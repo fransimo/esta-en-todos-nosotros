@@ -18,7 +18,9 @@ Esta etapa de mi viaje se centra en conectar el arte, la sanación (la magia) y 
 disciplinas para crear expresiones artísticas significativas.
 
 Desde 2019, he explorado prácticas de sanación como el Tantra, la canalización, la biodinámica craneosacral, el Reiki y
-la Tameana, junto con talleres sobre sanación energética y sexual, formando la base de mi trabajo como sanador.
+la Tameana. El masaje ha desempeñado un papel fundamental tanto en mi formación como en mi práctica, profundizando mi
+comprensión de la energía corporal y los procesos de sanación. Además, he asistido a talleres sobre trabajo energético y
+sanación sexual, construyendo una base sólida para mi práctica como sanador.
 
 En el arte, mis proyectos abarcan temas de vida, identidad, memoria y privacidad, utilizando la fotografía, el video,
 los libros, los fanzines y el transmedia. _El arte es pensamiento plástico. Un vaivén entre ideas y estética. La belleza

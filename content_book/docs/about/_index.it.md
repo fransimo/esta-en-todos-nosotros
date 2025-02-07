@@ -8,7 +8,7 @@ bookToc: false
 
 # Fran Simó
 
-Fotografia i New Media Art
+Massaggio, arte e codice per percorrere insieme il cammino.
 
 {{% columns %}}
 

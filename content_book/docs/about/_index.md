@@ -8,7 +8,7 @@ bookToc: false
 
 # Fran Simó
 
-Photography and New Media Art
+Massage, art, and code to walk the path together.
 
 {{% columns %}}
 

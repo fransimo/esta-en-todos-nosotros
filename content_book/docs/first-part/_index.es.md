@@ -1,6 +1,5 @@
 ---
 weight: 100
-bookFlatSection: true
 title: "Primera parte"
 bookHidden: false
 ---
@@ -12,7 +11,7 @@ bookHidden: false
 
 El 29 de abril del 2024 recibí una invitación para formar parte del programa [Residency action de Culture Moves Europe](https://culture.ec.europa.eu/creative-europe/creative-europe-culture-strand/culture-moves-europe).
 
-Un [viaje](/docs/first-part/journey) que había empezado muchos años atrás en mi búsqueda espiritual comenzó a tomar forma física en su aspecto artístico.
+Un [viaje](/docs/journey) que había empezado muchos años atrás en mi búsqueda espiritual comenzó a tomar forma física en su aspecto artístico.
 
 En 2012 había unido la fotografía y la tecnología en mi expresión artística. Ahora intentaría también unir la magia. 
 

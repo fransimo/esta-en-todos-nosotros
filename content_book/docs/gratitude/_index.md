@@ -6,12 +6,13 @@ bookHidden: false
 bookToc: false
 ---
 
-# Agradecimientos
+# Acknowledgments
 
-## Institucionales
+## Institutional
 
-Este proyecto cuenta con la colaboración con [Casa Planas](https://casaplanas.org/).
-La _primera parte_ contó con fondos de Europa Creativa.
+This project is carried out in collaboration with [Casa Planas](https://casaplanas.org/).
+
+The _first part_ was funded by Creative Europe.
 
 ## Artistas y amigos
 
@@ -19,14 +20,15 @@ Núria Rodríguez, Andrea Leria, José Ulloa, Luz Muñoz, Yolanda DLL, Ana Mart�
 Chillida, Fran Navas, Carlos A. Garcia, María Coca, Beto Frontera, Belén Martín, Irina, Carlo de Santis, Pietro
 D’Agostino, Costanza Meli.
 
-Algunos me habéis dicho "lo que necesites", otros me habéis contado una historia inspiradora, casi todos me habéis
-sorprendido con vuestro apoyo... algunos os perdí en alguna curva, pero todos me habéis ayudado a dar algún paso en 
-este camino.
+Some of you have told me, "whatever you need," others have shared an inspiring story. Most of you have surprised me with
+your support... Some I lost along the way, but each of you has helped me take another step on this journey. Thank you!
 
-## Maestros
+## Teachers
 
 - Cristina Ratti y Sarjan
 - Shastro
 - Verma Kalavati y Esteve
 - Astiko
 - Muditosan y Tamara
+
+

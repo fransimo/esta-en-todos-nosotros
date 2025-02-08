@@ -25,10 +25,10 @@ your support. Each of you has helped me take another step on this journey. Thank
 
 ## Teachers
 
-- Cristina Ratti y Sarjan
+- Cristina Ratti and Sarjan
 - Shastro
-- Verma Kalavati y Esteve
+- Verma Kalavati and Esteve
 - Astiko
-- Muditosan y Tamara
+- Muditosan and Tamara
 
 

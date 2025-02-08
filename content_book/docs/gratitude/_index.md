@@ -1,7 +1,7 @@
 ---
 weight: 195
 bookFlatSection: false
-title: "Agradecimientos"
+title: "Acknowledgments"
 bookHidden: false
 bookToc: false
 ---

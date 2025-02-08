@@ -1,7 +1,7 @@
 ---
-title: "Maria Arnal i Marcel Bagés - Sibil·la - "
+title: "Maria Arnal i Marcel Bagés - Sibil·la"
 date: 2024-11-20T13:48:58+01:00
-tags: [ referencias, sibila, uma ]
+tags: [ referencias, sibila, uma, Música ]
 draft: false
 ---
 

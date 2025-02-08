@@ -1,133 +1,34 @@
 ---
-title: First part
+title: It is in all of us
 type: docs
 ---
 
-# First Part 10.09.24 / 17.01.25
-
-{{% columns %}}
-## Journey
-
-On April 29, 2024, I received an invitation to join the [Residency action of Culture Moves Europe](https://culture.ec.europa.eu/creative-europe/creative-europe-culture-strand/culture-moves-europe) program.
-
-A [journey](/docs/journey) that had started many years ago during my spiritual search began to take physical shape in its artistic aspect.
-
-In 2012, I had combined photography and technology in my artistic expression. Now, I would try to integrate magic as well.
-
-<--->
-
-## Sibyl
-
-In 2010, in a taxi, I heard fragments of 
-["El Cant de la Sibil·La: Mallorca / València, 1400-1560"](https://open.spotify.com/album/225ndLEKqu767DbpRzKsia?si=2gp0nXf-SCKSPgQCK-rHNw). 
-I felt fascinated, especially by the tradition of the chant in Mallorca, the land of my ancestors, where I would move to live four years later.
-
-On the second day of the residency, I visited Tivoli and discovered that there was a temple dedicated to the Tiburtine Sibyl.
-
-I interpreted this as a sign: the [Sibyl](/docs/sibyl) would guide me on the path. She connected the two territories and 
-my search.
-
-{{% /columns %}}
-
-## Art and Magic
-
-Priestesses of Apollo, women who speak on behalf of God using trance, meditation, and 
-altered states of consciousness to bridge the underworld and the world of light, 
-the invisible and the visible, the sibyls were connected to my spiritual journey and to a 
-deep truth I had always felt.
-
-The book _In the Dark Places of Wisdom_ by Peter Kingsley would be another clue that helped me start connecting 
-the dots and provided further guidance for my travels.
-
-From the beginning of my journey into spirituality and magic, I always felt a whisper: "It doesn't come from India... 
-it doesn't come from Japan... it's not Celtic... nor Tibetan... nor from an American tribe... it is within all of us."
-
-Magical tradition has always existed within us. And it will always resurface. No matter how many times they hunt us 
-as witches, it will resurface because it is inherent to being human.
-
-It comes from our hearts, from the stars, from the original sound that resonates in everything.
-
-“It is in all of us.”
-
-# Results of this stage
-
-On this website, I gather notes from the journey. The first part covers the phase from September 2024 to January 2025 in Italy.
-
-As a [research methodology](/docs/methodology), I used meditation, readings, "binary jumps," and integration into mind maps. 
-Meditation took shape in [conversations with the trees](/docs/talking_with_the_trees), [automatic drawing](/docs/drawing), and [photography](/docs/photography).
-
-## Artworks 
-To conclude this stage of the residency, an Open Studio was organized where I showcased several works.
-
-### The Whisper of the Nymphs - Photography
-
 ![The Whisper of the Nymphs](/images/X1V45282-Enhanced-SR.jpg)
 
-````
-Digital print. 1.60m x 90 cm
-````
+“DIFFERENT PEOPLE make journeys for different reasons. Sometimes they’re forced; sometimes they think they choose.”
+— In the Dark Places of Wisdom, Peter Kingsley [p.15]
 
+*"It Is in All of Us"* is an ongoing research project that explores the connection between art and magic, tracing a path
+through the Sibilas, the Maenads, the ancient feminine cults, and the healing practices of the Iatromantes to help us
+remember our magical origins. It takes the form of both an inner and outer journey.
 
-### The Whisper of the Nymphs - Video
+Since the beginning of my journey into spirituality and magic, I have always heard a whisper:
+“It doesn’t come from India… it doesn’t come from Japan… it’s not Celtic… nor Tibetan… nor from an American tribe… it is
+within all of us.”
 
-{{< youtube VyhtDy2UCUk >}}
+Magical tradition has always existed within us. And it will always resurface. No matter how many times they hunt us as
+witches, it will resurface because it is inherent to being human.
 
+It comes from our hearts, from the stars, from the original sound that resonates in everything: “It is in all of us”.
 
-````
-4K Video. 5' 31"
-````
+The research methodology combines reading, walking, automatic drawing, meditation, photography, and *binary jumps*.  
 
-#### QR
+Meditations are carried out by *opening the field* to the trees and the forest—what I call [_talking with the trees_](/docs/first-part/talking_with_the_trees). These meditations guide the inner journey.  
 
-![20250111_1132_XT256181_fransimo.jpg](/images/20250111_1132_XT256181_fransimo.jpg)
+The outer journey has taken me to Italy, the "first part," from September 2024 to January 2025. The "second part" brings me to Greece, Turkey, and Egypt between February and March 2025.  
 
-On January 11th, I placed a QR code where I was going to meditate, declaring the site as: _Sanctuary, a meeting place with nymphs and the spirits of calm waters.  
-Those who visit will find: "Clarity, strength, courage, love, and equanimity to see our path and fulfill our mission with wisdom."_
+Some works have emerged from the first part and can be seen in the [*artworks* section](/docs/first-part/#artworks).  
 
-
-### It Is in All of Us 10.09.24 / 17.01.25
-
-![20250114_1634_XT500158_fransimo.jpg](/images/20250114_1634_XT500158_fransimo.jpg)
-
-````
-Zine. A5. 32 pages.
-````
-
-
-The zine combines photography, drawings, maps, and important phrases from Kingsley's book.
-
-You can download the [PDF version](/fanzine/Esta_en_todos_nosotros_en.pdf) or the [EPUB version](/fanzine/It_is_within_all_of_us.epub).
-
-### A Small Guide to Talking with Trees and Other Beings
-
-![20250123_1626_XT501274_fransimo.jpg](/images/20250123_1626_XT501274_fransimo.jpg)
-
-````
-Zine. A5. 12 pages
-````
-
-When I mentioned that part of the research methodology was "talking to trees," some people showed 
-interest. [You can read a short meditation guide at this link](/docs/talking_with_the_trees).
-
-# Conclusions and Questions
-
-I discovered that my art has always been magical. Nothing needed to be united. There are still things to explore, doors to open, fears to 
-overcome, shadows to acknowledge in order to become a better channel, to be more, to live more from the heart and less from fear. 
-The art will simply be one of the consequences. 
-
-Now I use meditations aimed at listening to the original sound and to trees. I don't know what I’ll hear. Before, I would meditate while walking, letting myself be guided by intuition. Since childhood, I used automatic drawing to meditate, not fully understanding 
-what I was doing but knowing I would in the future.
-
-My awareness of the artistic act has changed. I have more tools, and verbalizing magic strengthens it. We'll see what happens (Alan Moore had already "warned" me).
-
-Part of the journey involves delving deeper into the origins of tradition. To do this, I will keep traveling. Some things only happen in a specific space/time that you reach with a clear intention.
-
-![Esta_en_todos_nosotros_mapa.png](/map/Esta_en_todos_nosotros_mapa.png)
-
-Is it truly important that the subject of my work is linked to magic, or is magic simply part of me?
-
-If I talk about magic, must I do it explicitly? 
-
-We’ll find out. :)
+The process of both parts can be followed on the [blog](/posts).
 
 > Translated into English by chatGPT

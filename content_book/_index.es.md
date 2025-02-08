@@ -31,3 +31,6 @@ los árboles_](/docs/first-part/talking_with_the_trees). Estas guían el viaje i
 El viaje externo me ha llevado a Italia, la "primera parte", de septiembre del 2024 a enero del 2025. La "segunda parte"
 me trae a Grecia, Turquía y Egipto entre febrero y marzo del 2025.
 
+De la primera parte ha resultado algunas obras que se pueden ver en la [sección Obras](/docs/first-part/#obras).
+
+El proceso de ambas partes se puede seguir en el [blog](/posts).

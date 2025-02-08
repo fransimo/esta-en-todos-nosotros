@@ -25,7 +25,7 @@ The research methodology combines reading, walking, automatic drawing, meditatio
 
 Meditations are carried out by *opening the field* to the trees and the forest—what I call [_talking with the trees_](/docs/first-part/talking_with_the_trees). These meditations guide the inner journey.  
 
-The outer journey has taken me to Italy, the "first part," from September 2024 to January 2025. The "second part" brings me to Greece, Turkey, and Egypt between February and March 2025.  
+The outer journey has taken me to Italy, the ["first part"](/docs/first-part/), from September 2024 to January 2025. The "second part" brings me to Greece, Turkey, and Egypt between February and March 2025.  
 
 Some works have emerged from the first part and can be seen in the [*artworks* section](/docs/first-part/#artworks).  
 

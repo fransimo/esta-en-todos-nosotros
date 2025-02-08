@@ -57,7 +57,7 @@ La Sibila tiene su sección propia [aquí](/docs/sibyl).
 
 ## Conversaciones con los árboles
 
-En [Pequeña guía para hablar con los árboles](/docs/talking_with_the_trees) y otros seres se explica el 
+En [Pequeña guía para hablar con los árboles](/docs/first-part/talking_with_the_trees) y otros seres se explica el 
 proceso para entrar en meditación y comunicación con la red de vida del bosque.
 
 [Aquí se detallan las sesiones](/es/tags/hablando-con-los-árboles/).
@@ -65,17 +65,17 @@ proceso para entrar en meditación y comunicación con la red de vida del bosque
 
 ## El Susurro de las Ninfas (lo pequeño contiene un universo)
 
-El Susurro de las Ninfas tiene [su propia sección aquí](/docs/sanctuary).
+El Susurro de las Ninfas tiene [su propia sección aquí](/docs/first-part/sanctuary).
 
 
 ## Saltos binarios
 
-los saltos binarios tienen [su sección aquí](/docs/binary_links).
+los saltos binarios tienen [su sección aquí](/docs/first-part/binary_links).
 
 
 ## Dibujos automáticos
 
-Los dibujos automáticos tienen [su propia sección aquí](/docs/drawing).
+Los dibujos automáticos tienen [su propia sección aquí](/docs/first-part/drawing).
 
 
 # Libros

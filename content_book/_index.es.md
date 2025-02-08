@@ -1,5 +1,5 @@
 ---
-title: Primera parte
+title: Está en todos nosotros
 type: docs
 ---
 
@@ -14,11 +14,18 @@ sanación de los Iatromantes para ayudarnos a recordar nuestros orígenes mágic
 interior como exterior.
 
 Desde el inicio de mi camino en la espiritualidad y la magia, siempre he escuchado un susurro:
-"No viene de la India... no viene de Japón… no es celta... ni tibetano... ni de una tribu americana... está en todos nosotros."
+"No viene de la India... no viene de Japón… no es celta... ni tibetano... ni de una tribu americana... está en todos
+nosotros."
 
 La tradición mágica siempre ha existido dentro de nosotros. Y siempre resurgirá. Por muchas veces que nos cacen como
 brujas, volverá porque es inherente al ser humano.
 
 Surge de nuestros corazones, de las estrellas, del sonido original que resuena en todo: _Está en todos nosotros._
 
+La metodología de investigación combina lectura, caminatas, dibujo automático, meditación, fotografía y _saltos
+binarios_. Las meditaciones se hacen _abriendo el campo_ a los árboles y el bosque, lo que llamo [_hablar con
+los árboles_](/docs/first-part/talking_with_the_trees). Estas guían el viaje interno.
+
+El viaje externo me ha llevado a Italia, la "primera parte", de septiembre del 2024 a enero del 2025. La "segunda parte"
+me trae a Grecia, Turquía y Egipto entre febrero y marzo del 2025.
 

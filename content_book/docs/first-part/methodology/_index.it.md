@@ -70,22 +70,22 @@ La Sibilla ha la sua sezione dedicata [qui](/docs/sibyl).
 
 ## Conversazioni con gli alberi
 
-Nella [Piccola guida per parlare con gli alberi](/docs/talking_with_the_trees) e altri esseri si spiega il processo per
+Nella [Piccola guida per parlare con gli alberi](/docs/first-part/talking_with_the_trees) e altri esseri si spiega il processo per
 entrare in meditazione e comunicazione con la rete di vita del bosco.
 
 [Qui vengono dettagliate le sessioni](/it/tags/Conversazioni-con-gli-alberi/).
 
 ## Il Sussurro delle Ninfe (il piccolo contiene un universo)
 
-Il Sussurro delle Ninfe ha [la sua sezione dedicata qui](/docs/sanctuary).
+Il Sussurro delle Ninfe ha [la sua sezione dedicata qui](/docs/first-part/sanctuary).
 
 ## Salti binari
 
-I salti binari hanno [la loro sezione qui](/docs/binary_links).
+I salti binari hanno [la loro sezione qui](/docs/first-part/binary_links).
 
 ## Disegni automatici
 
-I disegni automatici hanno [la loro sezione dedicata qui](/docs/drawing).
+I disegni automatici hanno [la loro sezione dedicata qui](/docs/first-part/drawing).
 
 # Libros
 

@@ -55,21 +55,21 @@ The Sibyl has its dedicated section [here](/docs/sibyl).
 
 ## Conversations with Trees
 
-The process for entering meditation and communication with the forest’s life network is explained in [A Small Guide to Talking with Trees](/docs/talking_with_the_trees) and other beings.
+The process for entering meditation and communication with the forest’s life network is explained in [A Small Guide to Talking with Trees](/docs/first-part/talking_with_the_trees) and other beings.
 
 [Session details are here](/en/tags/talking-with-trees/).
 
 ## The Whisper of the Nymphs (The Small Contains a Universe)
 
-The Whisper of the Nymphs has [its dedicated section here](/docs/sanctuary).
+The Whisper of the Nymphs has [its dedicated section here](/docs/first-part/sanctuary).
 
 ## Binary Jumps
 
-Binary jumps have [their section here](/docs/binary_links).
+Binary jumps have [their section here](/docs/first-part/binary_links).
 
 ## Automatic Drawings
 
-Automatic drawings have [their dedicated section here](/docs/drawing).
+Automatic drawings have [their dedicated section here](/docs/first-part/drawing).
 
 # Books
 

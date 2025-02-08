@@ -12,7 +12,7 @@ bookHidden: false
 
 El 29 de abril del 2024 recibí una invitación para formar parte del programa [Residency action de Culture Moves Europe](https://culture.ec.europa.eu/creative-europe/creative-europe-culture-strand/culture-moves-europe).
 
-Un [viaje](/docs/journey) que había empezado muchos años atrás en mi búsqueda espiritual comenzó a tomar forma física en su aspecto artístico.
+Un [viaje](/docs/first-part/journey) que había empezado muchos años atrás en mi búsqueda espiritual comenzó a tomar forma física en su aspecto artístico.
 
 En 2012 había unido la fotografía y la tecnología en mi expresión artística. Ahora intentaría también unir la magia. 
 
@@ -55,15 +55,15 @@ Viene de nuestro corazón, de las estrellas, del sonido original que resuena en 
 
 En esta web reúno los apuntes del viaje. La primera parte es la etapa de septiembre del 2024 a enero del 2025 en Italia.
 
-Como [metodología de investigación](/docs/methodology) utilicé la meditación, lecturas, "saltos binarios" e integración en mapas mentales.
-La meditación tomó forma en [conversaciones con los árboles](/docs/talking_with_the_trees), [dibujo automático](/docs/drawing) y [fotografía](/docs/photography).
+Como [metodología de investigación](/docs/first-part/methodology) utilicé la meditación, lecturas, "saltos binarios" e integración en mapas mentales.
+La meditación tomó forma en [conversaciones con los árboles](/docs/first-part/talking_with_the_trees), [dibujo automático](/docs/first-part/drawing) y [fotografía](/docs/first-part/photography).
 
 ## Obras 
 Como cierre de etapa en la residencia se decidió hacer un _Open Studio_ para el que he producido algunas obras.
 
 ### El susurro de las ninfas
 
-El texto que describe _El susurro de las ninfas_ se puede [leer aquí](/docs/sanctuary).
+El texto que describe _El susurro de las ninfas_ se puede [leer aquí](/docs/first-part/sanctuary).
 
 #### Fotografía
 
@@ -105,7 +105,7 @@ Aquí puedes descargar la versión [PDF](/fanzine/Esta_en_todos_nosotros_es.pdf)
 
 
 Al comentar que parte de la metodología de investigación era "hablar con los árboles" algunas personas mostraron 
-interés. [Puedes leer una pequeña guía de meditación en este enlace](/docs/talking_with_the_trees).
+interés. [Puedes leer una pequeña guía de meditación en este enlace](/docs/first-part/talking_with_the_trees).
 
 # Conclusiones y preguntas 
 

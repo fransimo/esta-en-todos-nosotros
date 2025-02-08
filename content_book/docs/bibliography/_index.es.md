@@ -23,6 +23,8 @@ bookToc: false
 - Física y metafísica de la pintura, Louis Cattiaux
 - Androginia, Elémire Zolla
 - [La cadena áurea de Orfeo](https://amzn.to/4gwzloI), Joscelyn Godwin
+- El chamanismo y las técnicas arcaicas del éxtasis, Mircea Eliade
+- El mito de la diosa, Anne Baring y Jules Cashford
 
 ## Artistas
 

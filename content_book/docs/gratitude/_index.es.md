@@ -21,8 +21,7 @@ Chillida, Fran Navas, Carlos A. García, María Coca, Beto Frontera, Belén Mart
 D’Agostino, Costanza Meli.
 
 Algunos me habéis dicho "lo que necesites", otros me habéis contado una historia inspiradora, casi todos me habéis
-sorprendido con vuestro apoyo... Algunos os perdí en alguna curva, pero todos me habéis ayudado a dar un paso más en
-este camino. ¡Gracias!
+sorprendido con vuestro apoyo. Todos me habéis ayudado a dar un paso más en este camino. ¡Gracias!
 
 ## Maestros
 

@@ -21,7 +21,7 @@ Chillida, Fran Navas, Carlos A. Garcia, María Coca, Beto Frontera, Belén Mart�
 D’Agostino, Costanza Meli.
 
 Some of you have told me, "whatever you need," others have shared an inspiring story. Most of you have surprised me with
-your support... Some I lost along the way, but each of you has helped me take another step on this journey. Thank you!
+your support. Each of you has helped me take another step on this journey. Thank you!
 
 ## Teachers
 

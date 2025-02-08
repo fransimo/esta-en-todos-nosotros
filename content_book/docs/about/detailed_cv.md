@@ -84,7 +84,7 @@ Here are my training experiences since then related to Tantra, massages, healing
 
 - 2024-03-25 to 31 - Sex in Meditation: Nurturing Sex, Elevating Sex.
 
-## Verma Rodriguez [+](https://vermarodriguez.com/)
+## Verma Rodriguez [+](https://vermakalavati.com/)
 
 - 2023-10 - Tantra Festival Mallorca!
 - **2022-12/2023-08 - Training in Tantric Massage and Sexual Healing.**

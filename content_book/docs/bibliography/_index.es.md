@@ -11,17 +11,18 @@ bookToc: false
 ## Libros
 
 - [En los oscuros lugares del saber.](https://amzn.to/3WREkcI)
-  de Peter Kingsley
-- [Psicomagia](https://amzn.to/4jSsCIS) de Alejandro Jodorowsky 
-- [Voices of Our Ancestors: Cherokee Teachings from the Wisdom Fire](https://amzn.to/4hJgdoo) de Dhyani Ywahoo
+  Peter Kingsley
+- [Psicomagia](https://amzn.to/4jSsCIS) Alejandro Jodorowsky 
+- [Voices of Our Ancestors: Cherokee Teachings from the Wisdom Fire](https://amzn.to/4hJgdoo) Dhyani Ywahoo
 - [Misterios psicodélicos de lo femenino. Creatividad. Éxtasis. Sanación](https://amzn.to/4aToS5t) 
-  de Maria Papaspyrou, Chiara Baldini, David Luke...
-- [Seguir con el problema: Generar parentesco en el Chthuluceno](https://amzn.to/4gzPLN0) de Donna J. Haraway
+  Maria Papaspyrou, Chiara Baldini, David Luke...
+- [Seguir con el problema: Generar parentesco en el Chthuluceno](https://amzn.to/4gzPLN0) Donna J. Haraway
 
 ### En la estantería
 
 - Física y metafísica de la pintura, Louis Cattiaux
 - Androginia, Elémire Zolla
+- [La cadena áurea de Orfeo](https://amzn.to/4gwzloI), Joscelyn Godwin
 
 ## Artistas
 
@@ -40,3 +41,4 @@ bookToc: false
 
 ## Youtube
 
+Podéis ver la playlist de las referencias [aquí](https://www.youtube.com/watch?v=AiBaXhoAkE8&list=PLDtuqx9znDF__iRQ8yzHVCzaZ49XypuWy).

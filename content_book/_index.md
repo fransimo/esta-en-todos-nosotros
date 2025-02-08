@@ -9,7 +9,7 @@ type: docs
 — In the Dark Places of Wisdom, Peter Kingsley [p.15]
 
 *"It Is in All of Us"* is an ongoing research project that explores the connection between art and magic, tracing a path
-through the Sibilas, the Maenads, the ancient feminine cults, and the healing practices of the Iatromantes to help us
+through the Sibyls, the Maenads, the ancient feminine cults, and the healing practices of the Iatromantis to help us
 remember our magical origins. It takes the form of both an inner and outer journey.
 
 Since the beginning of my journey into spirituality and magic, I have always heard a whisper:

@@ -11,12 +11,6 @@ bookToc: false
 ## Institucionales
 
 Este proyecto es posible gracias a la colaboración con [Casa Planas](https://casaplanas.org/).
-{{< figure
-src="/logos/logo_casaplanas.svg"
-width=50 height=50
-alt="Casa Planas"
-link="https://casaplanas.org/"
->}}
 
 ## Artistas y amigos
 

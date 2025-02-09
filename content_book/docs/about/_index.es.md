@@ -8,7 +8,7 @@ bookToc: false
 
 # Fran Simó
 
-Masaje, arte y código para recorrer juntos el camino.
+Arte, masaje y código para recorrer juntos el camino.
 
 {{% columns %}}
 

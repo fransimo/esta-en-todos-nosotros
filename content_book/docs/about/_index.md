@@ -8,7 +8,7 @@ bookToc: false
 
 # Fran Simó
 
-Massage, art, and code to walk the path together.
+Art, massage and code to walk the path together.
 
 {{% columns %}}
 

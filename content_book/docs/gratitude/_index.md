@@ -14,7 +14,7 @@ This project is carried out in collaboration with [Casa Planas](https://casaplan
 
 The _first part_ was funded by Creative Europe.
 
-## Artistas y amigos
+## Artists and friends
 
 Núria Rodríguez, Andrea Leria, José Ulloa, Luz Muñoz, Yolanda DLL, Ana Martí, Marcelo Aurelio, Benjamín Julve, Godo
 Chillida, Fran Navas, Carlos A. Garcia, María Coca, Beto Frontera, Belén Martín, Irina, Carlo de Santis, Pietro

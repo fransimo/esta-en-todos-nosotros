@@ -3,16 +3,14 @@ weight: 201
 bookFlatSection: false
 title: "Detailed CV"
 bookHidden: false
-bookToc: false
+bookToc: true
 ---
 
 # Fran Simó
 
 Born in 1973 in Villa Carlos Paz, Córdoba, Argentina.
 
-Legal residence: Palma, Baleares, Spain.
-
-Real residence: nomad.
+Residence: Palma, Baleares, Spain.
 
 [Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info)
 
@@ -30,7 +28,7 @@ Real residence: nomad.
 
 | Years     | Subject                                                                                                                                                                                                                    |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2024-2025 | [Craniosacral Biodynamics Therapy](http://www.craniosacral-biodynamics.org/overview.html), Spanish Institute of Craniosacral Biodynamics (ongoing training) [+](https://biodinamicacraneosacral.org/)                      |
+| 2024-...  | Craniosacral Biodynamics Therapy, Spanish Institute of Craniosacral Biodynamics (ongoing training) [+](https://biodinamicacraneosacral.org/)                                                                               |
 | 2022-2023 | Tantric Massage and Sexual Healing.Verma Rodriguez [+](https://vermakalavati.com/)                                                                                                                                         |
 | 2015-2016 | [Les Clíniques d’Es Baluard](http://www.esbaluard.org/es/activitats/622/les-cliniques-des-baluard-201516/) by Javier Duero, Ignacio Cabrero, Rosa Pera, Joan Morey (Es Baluard Museu d’Art Modern i Contemporani de Palma) |
 | 2013      | Workshop “Explorar la creatividad” by [Javier Vallhonrat](http://es.wikipedia.org/wiki/Javier_Vallhonrat) (La Magistral).                                                                                                  |
@@ -51,14 +49,17 @@ Real residence: nomad.
 |           | Men Discovering their Inner Space and Life Purpose.Krishnananda (Learning Love Institute [+](https://www.learningloveinstitute.com/about/?lang=es)) and Premamui [+](https://premamui.com/)     |
 |           | Sex in Meditation: Nurturing Sex, Elevating Sex. Astiko [+](https://tantrawithastiko.com/)                                                                                                      |
 |           | The Essence of Touch. Muditosan [+](https://www.laesenciadeltacto.com/muditosan/)                                                                                                               |
-| 2023-2024 | Juan Manuel Giordano [+](https://www.juanmanuelgiordano.com/)                                                                                                                                   |
-| 2023      | The Body in its Natural State. Muditosan [+](https://www.laesenciadeltacto.com/muditosan/)                                                                                                      |
-|           | First Level Reiki (Usui Tibetan) (D40026)Jesús Orellanoz [+](https://www.yogadva.com/)                                                                                                          |
-| 2022      | Intermediate Tantric Massage.Verma Rodriguez [+](https://vermakalavati.com/)                                                                                                                    |
+| 2023-2024 | Montserrat: Oct. 23, Abril and June 24. Juan Manuel Giordano [+](https://www.juanmanuelgiordano.com/)                                                                                           |
+| 2023      | Tantra Festival Mallorca.                                                                                                                                                                       |
+|           | The Body in its Natural State. Muditosan [+](https://www.laesenciadeltacto.com/muditosan/)                                                                                                      |
+|           | First Level Reiki (Usui Tibetan) (D40026) Jesús Orellanoz [+](https://www.yogadva.com/)                                                                                                         |
+| 2022      | Tantra Festival Mallorca.                                                                                                                                                                       |
+|           | Intermediate Tantric Massage. Verma Rodriguez [+](https://vermakalavati.com/)                                                                                                                   |
 | 2021-2023 | Channeling with Glòria and Miquel, Mallorca.                                                                                                                                                    |
+| 2021      | New Year. Verma Rodriguez [+](https://vermakalavati.com/)                                                                                                                                       |                                                                                                                                                                                      |
 | 2020      | Tantric Massage Level 1. Alicia Amezcua [+](https://aliciaamezcua.com/)                                                                                                                         |
 |           | Tantra for Couples. Adrià Tebé [+](https://www.instagram.com/adriatebe/)                                                                                                                        |
-| 2019      | No specific theme, but focused on “healing the inner child.”Sarani Vilionyte [+](https://saranivilionyte.com/)                                                                                  |
+| 2019      | Healing the inner child. Sarani Vilionyte [+](https://saranivilionyte.com/)                                                                                                                     |
 |           | Healing our Sexuality. Intimate Encounter. Tantric Massage. Sonia (Kala) Sellés [+](https://sexologiasensorial.com/) and Adrià Tebé (Superior Lover)                                            |
 |           | Embodying Shakti. Embodying Shiva. Authentic Love. Ecstasy Energy. Introduction to Tantric Massage. Tantra for Singles. Feminine Masculine. Adrià Tebé[+](https://www.instagram.com/adriatebe/) 
 
@@ -114,7 +115,18 @@ Some of my works were included in these books.
 |-----------|------------------------------------------------------------------------|
 | 2024-2025 | Residency action by Culture Moves Europe, Civitella di Licenza, Italy. |
 
-## Project direction for Barcelona Photobloggers
+# Workshops, lectures, debates
+
+- [TECNOLOGIA I SUPORTS](https://jornadesfotografiadocumental.wordpress.com/) for Jornadas de Fotografía Documental 2013
+- [Online marketing for photographers](http://fransimo.info/blog/2009/12/22/charla-marketing-on-line-para-fotografos/)
+  for Barcelona Photobloggers, Barcelona, 2009.
+- Lab: Introduction to black and white laboratory techniques for Barcelona Photobloggers, Barcelona, 2009.
+- Debate: “Roundtable Webs” for 10º Fórum Fotográfico Can Basté, 2008
+- Photography principles for CampusMac 2008, Barcelona, 2008.
+- Photography principles for CampusMac 2007, Barcelona, 2007.
+
+
+# Cultural management experience
 
 Main artistic activity since 2006 to 2014 was to create, organize, curate and promote participative and collaborative
 projects for [Barcelona Photobloggers](http://barcelonaphotobloggers.org/), an on-line social network of amateur and
@@ -139,9 +151,7 @@ professional photographers of Barcelona Area.
   video([es](https://vimeo.com/22812002),[en](https://vimeo.com/31446721)): “Arrinconado” Maremagnum, Barcelona, 2010**
 - Exhibit: “Tan cerca, tan lejos” Centre Cultural Calisay, Arenys de Mar, and Centre Civic Pati Llimona, Barcelona, 21
   photographers, 40 pictures, 2010.
--
-Exhibit: “[Al Detall](http://barcelonaphotobloggers.org/2009/04/07/al-detall-tercera-exposicion-colectiva-de-barcelona-photobloggers/)”
-Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
+- Exhibit: “[Al Detall](http://barcelonaphotobloggers.org/2009/04/07/al-detall-tercera-exposicion-colectiva-de-barcelona-photobloggers/)” Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
 - **Exhibit: “[elements](http://www.elements-barcelona.com/)” Maremagnum, Barcelona, 279 photographers, 1584 pictures,
   2008.**
 - Exhibit: “10è Fòrum Fotogràfic Can Basté”, Centre Civic Can Baste, Barcelona, 2008.
@@ -163,7 +173,7 @@ Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
 - Portfolio Reviewer: [VISIONAT DE PORTFOLIS, PICS 2013](http://patillimona.net/pics2013/)
 - Exhibit: [In Motion](http://www.marceloaurelio.com/en-movimiento/)
   by [Marcelo Aurelio](http://www.marceloaurelio.com/), Centre Civic Pati Llimona and Centre Civic Can Baste, Barcelona,
-  2012.
+    2012.
 
 ## Collaborations
 
@@ -211,21 +221,14 @@ Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
   promotion for open participation. Exhibition: Centre Cultural Caja Madrid, Barcelona, 198 photographers, 1049
   pictures, May and June 2010.
 
-## Workshops, lectures, debates
 
-- [TECNOLOGIA I SUPORTS](https://jornadesfotografiadocumental.wordpress.com/) for Jornadas de Fotografía Documental 2013
-- [Online marketing for photographers](http://fransimo.info/blog/2009/12/22/charla-marketing-on-line-para-fotografos/)
-  for Barcelona Photobloggers, Barcelona, 2009.
-- Lab: Introduction to black and white laboratory techniques for Barcelona Photobloggers, Barcelona, 2009.
-- Debate: “Roundtable Webs” for 10º Fórum Fotográfico Can Basté, 2008
-- Photography principles for CampusMac 2008, Barcelona, 2008.
-- Photography principles for CampusMac 2007, Barcelona, 2007.
 
-# Technology
+# Software engineering experience
 
-## Work Experience
 
-### Lead Solution Architect - Hotelbeds
+## Hotelbeds
+
+### Lead Solution Architect 
 
 > 01/12/2023 – 30/08/2024 – Palma, Spain
 
@@ -248,7 +251,7 @@ Key Responsibilities:
 - Continuous Improvement: Optimize the architecture for performance, scalability, and cost-effectiveness while staying
   current with industry trends.
 
-### Enterprise Architect - Hotelbeds
+### Enterprise Architect 
 
 > 16/03/2021 – 01/12/2023 – Palma, Spain
 
@@ -257,7 +260,7 @@ data-driven business. I leverage tools such as Airflow, Kafka Connect, Snowflake
 infrastructure. Our goal is to lay the foundation for advanced analytics, with plans to integrate MLOps in the near
 future.
 
-### Applied Science Solution Architect - Hotelbeds
+### Applied Science Solution Architect 
 
 > 31/12/2018 – 16/03/2021 – Palma, Spain
 
@@ -270,7 +273,7 @@ Enjoyed from writing a Python internal standards, creating training material for
 Airflow
 implementation.
 
-### QA Manager - Hotelbeds
+### QA Manager
 
 > 30/11/2016 – 31/12/2018 – Palma, Spain
 
@@ -283,7 +286,7 @@ Create an automated testing architecture for both back and front end systems and
 
 Manage a 40+ team. Working with London, Barcelona and Tel Aviv, remotely and in site.
 
-### Change and Release Manager - Hotelbeds
+### Change and Release Manager
 
 > 30/11/2016 – 30/11/2017 – Palma, Spain
 
@@ -292,9 +295,8 @@ Manage a team of Change, Release and Deploy analyst.
 Support the Continuous Deployment initiative by given the organization new process to facilitate the transformation to a
 product oriented methodology.
 
-(Also managing the QA Team)
 
-### Release and Deployment Manager - Hotelbeds
+### Release and Deployment Manager 
 
 > 22/06/2014 – 30/11/2016
 
@@ -308,62 +310,50 @@ source code branching model, continuous integration, full traceability from dema
 
 Stash, Bamboo, JIRA integration.
 
-### Configuration and Release Management - Indra Sistemas S.A.
+## Indra Sistemas S.A.
+
+### Configuration and Release Management
 
 > 31/01/2006 – 19/06/2014
 
-Ensure source automatic merging and deployments for daily testing and production environments
-(linux/weblogic)
-Design, develop and implement life cycles for software development from change requests to
-deployments using subversion, hudson/jenkins, ant, maven and scripting. (Implementing SCM patterns)
-Configure Continuous Integration tools and testing environments: Linux, hudson (servers and slaves), subversion, apache,
-sonar servers.
-Also design, manage and implement JIRA workflows.
-Information and communication / Roc Boronat 133, 08023, Barcelona, Spain
+* Ensure source automatic merging and deployments for daily testing and production environments
+* (linux/weblogic)
+* Design, develop and implement life cycles for software development from change requests to
+* deployments using subversion, hudson/jenkins, ant, maven and scripting. (Implementing SCM patterns)
+* Configure Continuous Integration tools and testing environments: Linux, hudson (servers and slaves), subversion, apache,
+* sonar servers.
+* Also design, manage and implement JIRA workflows.
 
-### President - Barcelona Photobloggers
-
-> 05/02/2006 – CURRENT
-
-Barcelona Photobloggers is a NGO for promoting photography (amateur and professional) in Barcelona area.
-
-My primary function was create, organize, curate and promote participative and collaborative projects which results in
-several exhibitions and books.
-
-I also develop IT tool we used specially mush-ups with Flickr, Instagram and Google (LAMP)
-
-Example: Ubiquography, had 640 participants who published 40.448 photos from 58 countries (1331 cities) and was exhibit
-simultaneously in 7 countries in 35 venues.
-
-### Programmer analyst - Indra Sistemas S.A.
+### Programmer analyst
 
 > 31/12/2000 – 30/12/2005
 
-Analyze and design new developments and assign task to developers (2-4 members)
-Debug and solve priority incidents.
-Manage source code and version distribution.
-Platform: Visual Basic
-First contacts with JEE technologies.
-Also: Manage teams of teachers during a nation wide implementation of Loto systems.
-Information and communication / Roc Boronat 133, 08023, Barcelona, Spain
+* Analyze and design new developments and assign task to developers (2-4 members)
+* Debug and solve priority incidents.
+* Manage source code and version distribution.
+* Platform: Visual Basic
+* First contacts with JEE technologies.
+* Also: Manage teams of teachers during a nation wide implementation of Loto systems.
 
-### Computer systems analyst - Cruïlla Informática SCCL
+## Cruïlla Informática SCCL
+
+### Computer systems analyst 
 
 > 31/01/1999 – 30/12/2000
 
-Visual Basic programming and testing.
-Novell network administration.
-Information and communication / Lepant 395, 08025, Barcelona, Spain
+* Visual Basic programming and testing.
+* Novell network administration.
 
-### Freelance IT consulting
+
+## Freelance IT consulting
 
 > 31/12/1990 – 30/08/1998
 
-Network configuration consulting and maintaining. Commercial systems programming COBOL, BASIC, Pascal y Clipper.
-Environments: Novell 3.12, DOS, Win 3.1/95/98, LANtastic, Linux
-Software: Paradox para Windows, MS FoxPro 2.5, Delphi, C++., RM-Cobol 74, 8x y 85.Borland Turbo
-Basic. Borland Pascal. CA-Clipper 87, 5.1.
-Information and communication / Roque Saenz Peña 157, 5151, Villa Carlos Paz, Argentina
+* Network configuration consulting and maintaining. Commercial systems programming COBOL, BASIC, Pascal y Clipper.
+* Environments: Novell 3.12, DOS, Win 3.1/95/98, LANtastic, Linux.
+* Software: Paradox para Windows, MS FoxPro 2.5, Delphi, C++., RM-Cobol 74, 8x y 85.Borland Turbo.
+* Basic. Borland Pascal. CA-Clipper 87, 5.1.
+
 
 
 

@@ -20,18 +20,18 @@ Real residence: nomad.
 
 ## Formal - Engineering
 
-|           |                                                                                      |
-|-----------|--------------------------------------------------------------------------------------|
-| 1998-2000 | Master in Software engineering - Fundació Politècnica de Catalunya                   |
-| 1992-1998 | Information systems engineer - Universidad Tecnológica Nacional, Cordoba, Argentina  |
-| 1986-1991 | Computer technician - Colegio Nacional Villa Carlos Paz, Villa Carlos Paz, Argentina |
+| Years     | Title                                                                                 |
+|-----------|---------------------------------------------------------------------------------------|
+| 1998-2000 | Master in Software engineering - Fundació Politècnica de Catalunya, Barcelona, Spain. |
+| 1992-1998 | Information systems engineer - Universidad Tecnológica Nacional, Cordoba, Argentina.  |
+| 1986-1991 | Computer technician - Colegio Nacional Villa Carlos Paz, Villa Carlos Paz, Argentina. |
 
 ## Non-Formal - Massages and Art
 
-|           |                                                                                                                                                                                                                            |
+| Years     | Subject                                                                                                                                                                                                                    |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2024-2025 | [Craniosacral Biodynamics Therapy](http://www.craniosacral-biodynamics.org/overview.html), Spanish Institute of Craniosacral Biodynamics (ongoing training) [+](https://biodinamicacraneosacral.org/)                      |
-| 2022-2023 | Training in Tantric Massage and Sexual Healing.Verma Rodriguez [+](https://vermakalavati.com/)                                                                                                                             |
+| 2022-2023 | Tantric Massage and Sexual Healing.Verma Rodriguez [+](https://vermakalavati.com/)                                                                                                                                         |
 | 2015-2016 | [Les Clíniques d’Es Baluard](http://www.esbaluard.org/es/activitats/622/les-cliniques-des-baluard-201516/) by Javier Duero, Ignacio Cabrero, Rosa Pera, Joan Morey (Es Baluard Museu d’Art Modern i Contemporani de Palma) |
 | 2013      | Workshop “Explorar la creatividad” by [Javier Vallhonrat](http://es.wikipedia.org/wiki/Javier_Vallhonrat) (La Magistral).                                                                                                  |
 | 2012      | Workshop “Las confesiones de la mirada” by [Alberto García-Alix](http://es.wikipedia.org/wiki/Alberto_Garc%C3%ADa-Alix) (La Magistral).                                                                                    |
@@ -45,7 +45,7 @@ Real residence: nomad.
 
 ## Retreats
 
-|           |                                                                                                                                                                                                 |
+| Year      | Subject                                                                                                                                                                                         |
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2024      | Tameana (Pleiadian Healing): Salugh paki, Ma'at, Puja, H'ama, and children. Angelica Alercia [+](https://www.instagram.com/angelica.alercia.ser/)                                               |
 |           | Men Discovering their Inner Space and Life Purpose.Krishnananda (Learning Love Institute [+](https://www.learningloveinstitute.com/about/?lang=es)) and Premamui [+](https://premamui.com/)     |
@@ -62,32 +62,31 @@ Real residence: nomad.
 |           | Healing our Sexuality. Intimate Encounter. Tantric Massage. Sonia (Kala) Sellés [+](https://sexologiasensorial.com/) and Adrià Tebé (Superior Lover)                                            |
 |           | Embodying Shakti. Embodying Shiva. Authentic Love. Ecstasy Energy. Introduction to Tantric Massage. Tantra for Singles. Feminine Masculine. Adrià Tebé[+](https://www.instagram.com/adriatebe/) 
 
-
 # Group Exhibitions
 
-| |                                                                                                                                                                                                                                                                                                                                                                                                              |
-|-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|2022| [I dreamed about a human being](https://fransimo.info/blog/2012/09/13/i-dreamed-about-a-human-being/) @ “BIO-ECO-ARTE DIGITAL, NUEVAS CORRIENTES” As part of [ppt OPEN ART FESTIVAL 2022](https://museosdealicante.com/ppt-open-art-festival-2022/), Alicante, Spain                                                                                                                                         |
-|2021| [#Selfie\_v2](https://fransimo.info/blog/2021/10/26/selfie_v2/) @[“The massacre of the body”](https://fundacion.ideograma.org/event/exposicion-la-masacre-del-cuerpo/), [ideoGrama Fundation](https://fundacion.ideograma.org/), Barcelona, Spain. Part of [City Screen 2021](https://loop-barcelona.com/es/loop-festival-2021/city-screen-2021/) in [Loop Barcelona Festival](https://loop-barcelona.com/). |
-|2019| [Shared Folder](https://fransimo.info/blog/2016/05/07/shared-folder-red-box/) and [Code](https://fransimo.info/blog/2019/05/29/code-by-r-mutt/) @ [function(“innocence”, 2019)](http://2019.functionfest.com/en/function_home_eng/) digital and electronic art festival in Mallorca, Centre Cultural Casa Planas, Palma, Spain.                                                                              |
-|2017| [S’Arenal Summertime](https://fransimo.info/blog/2017/04/02/sarenal-summertime-2016/) @[Ciutat de Vacances](http://www.esbaluard.org/en/exposicion/ciutat-de-vacances-es-baluard-museu-dart-modern-i-contemporani-de-palma-2/), Museu Es Baluard, Palma, Spain.                                                                                                                                              |
-|2014| I Encuentro Hispano-Japonés de la Universidad Carlos III de Madrid, Campus de Getafe, Spain.|
-|2013 |Calle 35 at “Miami Street Photography Festival”, Miami, USA.|
-|2013 |“Urban Landscape Photography Exhibition”, 1650 Gallery, Los Ángeles, USA.|
-|2013 |“Sólo Móvil”, Real Sociedad Fotográfica, Madrid, 2013 and Centro Cultural Casa del Reloj, Madrid.|
-|2013 |“Retratos. Segundo aniversario Dotze Gats”. Dotze Gats Asociación Fotogràfica. Barcelona.|
-|2012 |“Urban Landscape”, Center for Fine Art Photography, Fort Collins, USA.|
-|2012 |“Calle 35”, VII Biennal de Fotografía Xavier Miserachs, Palafrugell, Girona.|
-|2012| “Sincerely Yours” Valid Foto Gallery, Barcelona.|
-|2011 |“Street photography”, Le Chaudron de Bibracte, Musée de Bibracte – Saint-Léger-sous-Beuvray – Mont Beuvray.|
-|2011| “Calle 35: La calle es tuya “The Private Space, Barcelona; VISAOFF, Perpignan; Saló de Pedra en Argentona, Argentona.|
-|2011 |“15M-Indignados”, Espai Fotogràfic Can Basté, Barcelona.|
-|2010 |“Capture Brooklyn”, The powerHouse Arena, New York.|
-|2010| “Picturing an Ethical Economy”, Trinity Church Museum, New York.|
-|2010 |Slideluck Potshow IV, Sala MauMau, Barcelona.|
-|2010 |“22” at Centre Cívic Pati Llimona, Barcelona.|
-|2009 |Slideluck Potshow III, Sala MauMau, Barcelona.|
-|2007 |“inside Out” , Davinci Escola D’Art, Barcelona.|
+| Year | Details                                                                                                                                                                                                                                                                                                                                                                                                      |
+|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2022 | [I dreamed about a human being](https://fransimo.info/blog/2012/09/13/i-dreamed-about-a-human-being/) @ “BIO-ECO-ARTE DIGITAL, NUEVAS CORRIENTES” As part of [ppt OPEN ART FESTIVAL 2022](https://museosdealicante.com/ppt-open-art-festival-2022/), Alicante, Spain                                                                                                                                         |
+| 2021 | [#Selfie\_v2](https://fransimo.info/blog/2021/10/26/selfie_v2/) @[“The massacre of the body”](https://fundacion.ideograma.org/event/exposicion-la-masacre-del-cuerpo/), [ideoGrama Fundation](https://fundacion.ideograma.org/), Barcelona, Spain. Part of [City Screen 2021](https://loop-barcelona.com/es/loop-festival-2021/city-screen-2021/) in [Loop Barcelona Festival](https://loop-barcelona.com/). |
+| 2019 | [Shared Folder](https://fransimo.info/blog/2016/05/07/shared-folder-red-box/) and [Code](https://fransimo.info/blog/2019/05/29/code-by-r-mutt/) @ [function(“innocence”, 2019)](http://2019.functionfest.com/en/function_home_eng/) digital and electronic art festival in Mallorca, Centre Cultural Casa Planas, Palma, Spain.                                                                              |
+| 2017 | [S’Arenal Summertime](https://fransimo.info/blog/2017/04/02/sarenal-summertime-2016/) @[Ciutat de Vacances](http://www.esbaluard.org/en/exposicion/ciutat-de-vacances-es-baluard-museu-dart-modern-i-contemporani-de-palma-2/), Museu Es Baluard, Palma, Spain.                                                                                                                                              |
+| 2014 | I Encuentro Hispano-Japonés de la Universidad Carlos III de Madrid, Campus de Getafe, Spain.                                                                                                                                                                                                                                                                                                                 |
+| 2013 | Calle 35 at “Miami Street Photography Festival”, Miami, USA.                                                                                                                                                                                                                                                                                                                                                 |
+| 2013 | “Urban Landscape Photography Exhibition”, 1650 Gallery, Los Ángeles, USA.                                                                                                                                                                                                                                                                                                                                    |
+| 2013 | “Sólo Móvil”, Real Sociedad Fotográfica, Madrid, 2013 and Centro Cultural Casa del Reloj, Madrid.                                                                                                                                                                                                                                                                                                            |
+| 2013 | “Retratos. Segundo aniversario Dotze Gats”. Dotze Gats Asociación Fotogràfica. Barcelona.                                                                                                                                                                                                                                                                                                                    |
+| 2012 | “Urban Landscape”, Center for Fine Art Photography, Fort Collins, USA.                                                                                                                                                                                                                                                                                                                                       |
+| 2012 | “Calle 35”, VII Biennal de Fotografía Xavier Miserachs, Palafrugell, Girona.                                                                                                                                                                                                                                                                                                                                 |
+| 2012 | “Sincerely Yours” Valid Foto Gallery, Barcelona.                                                                                                                                                                                                                                                                                                                                                             |
+| 2011 | “Street photography”, Le Chaudron de Bibracte, Musée de Bibracte – Saint-Léger-sous-Beuvray – Mont Beuvray.                                                                                                                                                                                                                                                                                                  |
+| 2011 | “Calle 35: La calle es tuya “The Private Space, Barcelona; VISAOFF, Perpignan; Saló de Pedra en Argentona, Argentona.                                                                                                                                                                                                                                                                                        |
+| 2011 | “15M-Indignados”, Espai Fotogràfic Can Basté, Barcelona.                                                                                                                                                                                                                                                                                                                                                     |
+| 2010 | “Capture Brooklyn”, The powerHouse Arena, New York.                                                                                                                                                                                                                                                                                                                                                          |
+| 2010 | “Picturing an Ethical Economy”, Trinity Church Museum, New York.                                                                                                                                                                                                                                                                                                                                             |
+| 2010 | Slideluck Potshow IV, Sala MauMau, Barcelona.                                                                                                                                                                                                                                                                                                                                                                |
+| 2010 | “22” at Centre Cívic Pati Llimona, Barcelona.                                                                                                                                                                                                                                                                                                                                                                |
+| 2009 | Slideluck Potshow III, Sala MauMau, Barcelona.                                                                                                                                                                                                                                                                                                                                                               |
+| 2007 | “inside Out” , Davinci Escola D’Art, Barcelona.                                                                                                                                                                                                                                                                                                                                                              |
 
 # Books
 
@@ -102,15 +101,16 @@ Some of my works were included in these books.
 
 # Prizes
 
-| | |
-|-|-|
-|2017|Finalist with Heaven at DOCfield Dummy Award Fundació Banc Sabadell|
-|2017|[Lumen Prize](https://lumenprize.com/) [Long list](https://www.evernote.com/shard/s11/client/snv?noteGuid=be7408bc-a2c4-4415-ad48-711e5300f240&noteKey=fe7aed069548d5545769e4ef6ecdbd2f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2Fbe7408bc-a2c4-4415-ad48-711e5300f240%2Ffe7aed069548d5545769e4ef6ecdbd2f&title=Longlist%2B2017%2B%257C%2BThe%2BLumen%2BPrize)|
-|2015|Finalist with [Traces](http://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/) at [DOCfield Dummy Award Fundació Banc Sabadell](https://docfieldbarcelona.org/en/entrega-del-docfield-dummy-award-fundacio-banc-sabadell/)|
-|2015|[Lumen Prize](https://lumenprize.com/) Long list|
+| Year | Prize                                                                                                                                                                                                                                                                                                                                                                       |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2017 | Finalist with Heaven at DOCfield Dummy Award Fundació Banc Sabadell                                                                                                                                                                                                                                                                                                         |
+| 2017 | [Lumen Prize](https://lumenprize.com/) [Long list](https://www.evernote.com/shard/s11/client/snv?noteGuid=be7408bc-a2c4-4415-ad48-711e5300f240&noteKey=fe7aed069548d5545769e4ef6ecdbd2f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2Fbe7408bc-a2c4-4415-ad48-711e5300f240%2Ffe7aed069548d5545769e4ef6ecdbd2f&title=Longlist%2B2017%2B%257C%2BThe%2BLumen%2BPrize) |
+| 2015 | Finalist with [Traces](http://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/) at [DOCfield Dummy Award Fundació Banc Sabadell](https://docfieldbarcelona.org/en/entrega-del-docfield-dummy-award-fundacio-banc-sabadell/)                                                                                                                                       |
+| 2015 | [Lumen Prize](https://lumenprize.com/) Long list                                                                                                                                                                                                                                                                                                                            |
 
 # Residencies
-|           |                                                                        |
+
+| Year      | Residency                                                              |
 |-----------|------------------------------------------------------------------------|
 | 2024-2025 | Residency action by Culture Moves Europe, Civitella di Licenza, Italy. |
 
@@ -139,8 +139,9 @@ professional photographers of Barcelona Area.
   video([es](https://vimeo.com/22812002),[en](https://vimeo.com/31446721)): “Arrinconado” Maremagnum, Barcelona, 2010**
 - Exhibit: “Tan cerca, tan lejos” Centre Cultural Calisay, Arenys de Mar, and Centre Civic Pati Llimona, Barcelona, 21
   photographers, 40 pictures, 2010.
-- Exhibit: “[Al Detall](http://barcelonaphotobloggers.org/2009/04/07/al-detall-tercera-exposicion-colectiva-de-barcelona-photobloggers/)”
-  Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
+-
+Exhibit: “[Al Detall](http://barcelonaphotobloggers.org/2009/04/07/al-detall-tercera-exposicion-colectiva-de-barcelona-photobloggers/)”
+Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
 - **Exhibit: “[elements](http://www.elements-barcelona.com/)” Maremagnum, Barcelona, 279 photographers, 1584 pictures,
   2008.**
 - Exhibit: “10è Fòrum Fotogràfic Can Basté”, Centre Civic Can Baste, Barcelona, 2008.
@@ -160,7 +161,9 @@ professional photographers of Barcelona Area.
 
 - Jury: [Premio Revela 2014](http://premiorevela.com/category/jurado-2014/)
 - Portfolio Reviewer: [VISIONAT DE PORTFOLIS, PICS 2013](http://patillimona.net/pics2013/)
-- Exhibit: [In Motion](http://www.marceloaurelio.com/en-movimiento/) by [Marcelo Aurelio](http://www.marceloaurelio.com/), Centre Civic Pati Llimona and Centre Civic Can Baste, Barcelona, 2012.
+- Exhibit: [In Motion](http://www.marceloaurelio.com/en-movimiento/)
+  by [Marcelo Aurelio](http://www.marceloaurelio.com/), Centre Civic Pati Llimona and Centre Civic Can Baste, Barcelona,
+  2012.
 
 ## Collaborations
 

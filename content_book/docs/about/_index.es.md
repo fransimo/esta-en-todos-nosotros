@@ -36,7 +36,7 @@ sanación y la expansión de la conciencia a través del arte.
 
 <--->
 
-{{< figure src="fran_simo.jpg" alt="Unity Labs" class="text-rigth" >}}
+{{< figure src="fran_simo.jpg" alt="Unity Labs" class="text-right" >}}
 
 {{% /columns %}}
 

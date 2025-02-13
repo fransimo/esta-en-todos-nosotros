@@ -35,7 +35,7 @@ healing and the expansion of consciousness through art.
 
 <--->
 
-{{< figure src="fran_simo.jpg" alt="Unity Labs" class="text-rigth" >}}
+{{< figure src="fran_simo.jpg" alt="Unity Labs" class="text-right" >}}
 
 {{% /columns %}}
 

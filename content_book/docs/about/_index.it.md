@@ -34,7 +34,7 @@ evocare la guarigione e l’espansione della coscienza attraverso l’arte.
 
 <--->
 
-{{< figure src="fran_simo.jpg" alt="Unity Labs" class="text-rigth" >}}
+{{< figure src="fran_simo.jpg" alt="Unity Labs" class="text-right" >}}
 
 {{% /columns %}}
 

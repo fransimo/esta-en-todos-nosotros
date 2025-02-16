@@ -8,7 +8,7 @@ bookToc: false
 
 # Fran Simó
 
-Arte, tacto y código para recorrer juntos el camino.
+Arte, presencia y código para recorrer juntos el camino.
 
 {{% columns %}}
 

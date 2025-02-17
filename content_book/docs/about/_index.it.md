@@ -43,7 +43,7 @@ evocare la guarigione e l’espansione della coscienza attraverso l’arte.
 - [Instagram](https://www.instagram.com/fransimo)
 - [Artist web](https://fransimo.info/), [statement](https://fransimo.info/es/statement/)
 - [Linkedin](https://www.linkedin.com/in/fransimo/)
-- [CV dettagliato (solo in inglese)](detailed_cv.md)
+- [CV dettagliato (solo in inglese)](https://fransimo.info/docs/cv/detailed_cv/)
 
 
 

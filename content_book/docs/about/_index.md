@@ -44,7 +44,7 @@ healing and the expansion of consciousness through art.
 - [Instagram](https://www.instagram.com/fransimo)
 - [Artist web](https://fransimo.info/), [statement](https://fransimo.info/es/statement/)
 - [Linkedin](https://www.linkedin.com/in/fransimo/)
-- [Full CV](detailed_cv.md)
+- [Full CV](https://fransimo.info/docs/cv/detailed_cv/)
 
 
 

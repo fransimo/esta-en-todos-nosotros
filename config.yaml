@@ -1,0 +1,52 @@
+baseURL: https://esta-en-todos-nosotros.fransimo.info/
+title: It is within all of us
+theme: hugo-book
+disablePathToLower: true
+enableGitInfo: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+languages:
+  en:
+    languageName: English
+    contentDir: content_book
+    weight: 1
+  es:
+    languageName: Español
+    title: Está en todos nosotros
+    contentDir: content_book
+    weight: 2
+  it:
+    languageName: Italiano
+    contentDir: content_book
+    title: È dentro di tutti noi
+    weight: 3
+menu: {}
+params:
+  BookTheme: light
+  BookToC: true
+  BookSection: docs
+  BookRepo: https://github.com/fransimo/esta-en-todos-nosotros
+  BookEditPath: edit/main
+  BookDateFormat: January 2, 2006
+  BookSearch: true
+  BookComments: true
+  BookPortableLinks: true
+  BookServiceWorker: true
+  BookTranslatedOnly: false
+
+  # https://gohugo.io/templates/embedded/#configuration-open-graph
+  images:
+  - https://esta-en-todos-nosotros.fransimo.info/images/X1V45282-Enhanced-SR.jpg
+
+  schema_org:
+    name: Está en todos nosotros
+    type: ResearchProject
+    email: contact@fransimo.info
+    image: https://esta-en-todos-nosotros.fransimo.info/images/X1V45282-Enhanced-SR.jpg
+
+
+

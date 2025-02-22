@@ -1,0 +1,76 @@
+<script type="application/ld+json">
+{{ if eq .Section "posts" }}
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ .Title }},
+  {{ if isset .Params "image" }}
+  {{ $icon := .Params.image }}
+  {{ $icon_url := printf "%s%s" .Permalink $icon }}
+  "image": {{ $icon_url | absURL }},
+  {{end}}
+  "datePublished": {{ .PublishDate }},
+  "dateModified": {{ .Lastmod }},
+  "author": {
+    "@type": "Person",
+    "name": {{ .Site.Params.schema_org.name }},
+    "sameAs": {{ .Site.BaseURL }}
+  },
+  "description": {{ .Summary | plainify | safeHTML }},
+  "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
+}
+{{ end }}
+{{ if eq .Section "docs" }}
+{
+  "@context": "https://schema.org",
+  {{ if isset .Params "creativework" }}
+  "@type": {{ .Params.creativeWork }},
+  {{ else }}
+  "@type": "VisualArtwork",
+  {{ end }}
+  "name": {{ .Title }},
+  {{ if isset .Params "image" }}
+  {{ $icon := .Params.image }}
+  {{ $icon_url := printf "%s%s" .Permalink $icon }}
+  "image": {{ $icon_url | absURL }},
+  {{end}}
+  {{ if isset .Params "dateCreated" }}
+  "dateCreated": {{ .Params.dateCreated }},
+  {{end}}
+  {{ if isset .Params "artform" }}
+  "artform": {{ .Params.artForm }},
+  {{end}}
+  {{ if isset .Params "isbn" }}
+  "isbn": {{ .Params.isbn }},
+  {{end}}
+  "author": {
+    "@type": "Person",
+    "name": {{ .Site.Params.schema_org.name }},
+    "sameAs": {{ .Site.BaseURL }}
+  },
+  "description": {{ .Summary | plainify | safeHTML }}
+}
+{{ end }}
+{{ if eq .Section "" }}
+{
+  "@context": "https://schema.org",
+  "@type": "{{ .Site.Params.schema_org.type }}",
+  "name": {{ .Site.Params.schema_org.name }},
+  "url": {{ .Site.BaseURL }},
+  "email": {{ .Site.Params.schema_org.email }},
+  "image": {
+      "@type": "ImageObject",
+      "url": {{ .Site.Params.schema_org.image }}
+  },
+  "category": [
+    "Art",
+    "Photography"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Fran Simó",
+    "sameAs": ["https://fransimo.info/"]
+  }
+}
+{{ end }}
+</script>

@@ -34,6 +34,7 @@ bookToc: false
 - Louis Cattiaux
 - Emma Kunz
 - Mikalojus Konstantinas Čiurlionis
+- Adolf Wölfli
 - Mapi Rivera
 - Maria Arnal
 

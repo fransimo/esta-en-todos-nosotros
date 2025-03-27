@@ -27,7 +27,7 @@ How do you embark on a journey like this? _With the smallest suitcase_, letting 
 
 ## Where Are You Going?
 
-![Esta_en_todos_nosotros_mapa.png](/map/Esta_en_todos_nosotros_mapa.png)
+[![Esta_en_todos_nosotros_mapa.png](/map/Esta_en_todos_nosotros_mapa.png)](https://www.google.com/maps/d/edit?hl=en&mid=1N9lbW-JlA8tJtXUqbPD6LnPmdEML85I&ll=39.83907322891193%2C14.674225289062493&z=5)
 
 We’ve all heard: "Traveler, there is no path; the path is made by walking." However, I believe there is a destination, a place to go. One unique to each of us at any given moment, because when you arrive, another emerges. Our freedom lies in choosing how to get there, meaning there is no path, but there is a destination. One that changes over time.
 

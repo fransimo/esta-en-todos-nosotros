@@ -27,7 +27,7 @@ E come intraprendere un viaggio simile? _Con la valigia più piccola_, lasciando
 
 ## Dove stai andando?
 
-![Esta_en_todos_nosotros_mapa.png](/map/Esta_en_todos_nosotros_mapa.png)
+[![Esta_en_todos_nosotros_mapa.png](/map/Esta_en_todos_nosotros_mapa.png)](https://www.google.com/maps/d/edit?hl=en&mid=1N9lbW-JlA8tJtXUqbPD6LnPmdEML85I&ll=39.83907322891193%2C14.674225289062493&z=5)
 
 Tutti abbiamo sentito: "Caminante, no hay camino, se hace camino al andar" (Viandante, non c'è cammino, il cammino si fa andando). Tuttavia, credo che una destinazione esista, un luogo verso cui andare. Uno per ognuno di noi in ogni momento, perché quando arrivi, ne appare un altro. La nostra libertà è scegliere come arrivarci, ossia, non c'è un cammino, ma c'è una meta. Una meta che si trasforma con il tempo.  
 

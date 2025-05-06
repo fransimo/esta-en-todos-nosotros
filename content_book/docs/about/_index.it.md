@@ -22,7 +22,7 @@ e il Tameana, insieme a workshop sulla guarigione energetica e sessuale, formand
 
 Nell’arte, i miei progetti affrontano temi come la vita, l’identità, la memoria e la privacy, utilizzando fotografia,
 video, libri, fanzine e transmedia. _L'arte è pensiero plastico. Un’altalena tra idee ed estetica. La bellezza di
-un'opera è un abisso nelle pareti della caverna. Se, mentre si crea, vibra, l'onda troverà i suoi accordi e scuoterà il
+un'opera è un orifizio nelle pareti della caverna. Se, mentre si crea, vibra, l'onda troverà i suoi accordi e scuoterà il
 mondo._
 
 Porto anche 26 anni di esperienza come ingegnere informatico in aziende multinazionali, implementando soluzioni

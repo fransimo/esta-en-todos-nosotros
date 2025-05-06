@@ -23,9 +23,8 @@ comprensión de la energía corporal y los procesos de sanación. Además, he as
 sanación sexual, construyendo una base sólida para mi práctica como sanador.
 
 En el arte, mis proyectos abarcan temas de vida, identidad, memoria y privacidad, utilizando la fotografía, el video,
-los libros, los fanzines y el transmedia. _El arte es pensamiento plástico. Un vaivén entre ideas y estética. La belleza
-de una obra es un abismo en los muros de la caverna. Si al crearse vibra, la onda encontrará sus acordes y sacudirá el
-mundo._
+los libros, los fanzines y el transmedia. _El arte es pensamiento plástico. Un vaivén entre ideas y estética. La belleza 
+de una obra es un orificio en las paredes de la caverna. Si al crear vibras, la onda de ese movimiento encontrará sus armónicos y moverá el mundo._
 
 También aporto 26 años de experiencia como ingeniero de software en multinacionales, implementando soluciones
 tecnológicas globales y liderando equipos internacionales. Mi trabajo tecnológico en el arte incluye exposiciones

@@ -23,7 +23,7 @@ healing processes. Additionally, I have attended workshops on energy work and se
 for my practice as a healer.
 
 In art, my projects span themes of life, identity, memory, and privacy, using photography, video, books, fanzines, and
-transmedia. _Art is plastic thought. A swing between ideas and aesthetics. The beauty of a piece is a orifice in the
+transmedia. _Art is plastic thought. A swing between ideas and aesthetics. The beauty of a piece is a crack in the
 walls of the cavern. If while creating it vibrates, the wave would find its chords and it will shake the world._
 
 I also bring 26 years of experience as a software engineer in multinational companies, implementing global technological
@@ -35,7 +35,7 @@ healing and the expansion of consciousness through art.
 
 <--->
 
-{{< figure src="fran_simo.jpg" alt="Fran Simó" class="text-right" >}}
+{{< figure src="fran_simo_v2.jpg" alt="Fran Simó by Marcelo Aurelio 2025" class="text-right" >}}
 
 {{% /columns %}}
 

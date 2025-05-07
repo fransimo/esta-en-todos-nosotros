@@ -34,7 +34,7 @@ evocare la guarigione e l’espansione della coscienza attraverso l’arte.
 
 <--->
 
-{{< figure src="fran_simo.jpg" alt="Fran Simó" class="text-right" >}}
+{{< figure src="fran_simo_v2.jpg" alt="Fran Simó by Marcelo Aurelio 2025" class="text-right" >}}
 
 {{% /columns %}}
 

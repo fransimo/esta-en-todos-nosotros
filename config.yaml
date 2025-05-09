@@ -12,16 +12,16 @@ markup:
 languages:
   en:
     languageName: English
-    contentDir: content_book
+    contentDir: content
     weight: 1
   es:
     languageName: Español
     title: Está en todos nosotros
-    contentDir: content_book
+    contentDir: content
     weight: 2
   it:
     languageName: Italiano
-    contentDir: content_book
+    contentDir: content
     title: È dentro di tutti noi
     weight: 3
 menu: {}

@@ -5,8 +5,8 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
-  - name: 'blog'
-    label: 'Blog'
+  - name: 'instagram'
+    label: 'Instagram section'
     folder: 'content_book/posts/instagram/2025'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'

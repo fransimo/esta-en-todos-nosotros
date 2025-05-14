@@ -7,7 +7,7 @@ public_folder: /images
 collections:
   - name: 'instagram'
     label: 'Instagram section'
-    folder: 'content/posts/instagram/2025'
+    folder: 'content_book/posts/instagram/2025'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:

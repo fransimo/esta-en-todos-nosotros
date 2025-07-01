@@ -16,6 +16,8 @@ bookToc: false
 - [Voices of Our Ancestors: Cherokee Teachings from the Wisdom Fire](https://amzn.to/4hJgdoo) Dhyani Ywahoo
 - [Misterios psicodélicos de lo femenino. Creatividad. Éxtasis. Sanación](https://amzn.to/4aToS5t) 
   Maria Papaspyrou, Chiara Baldini, David Luke...
+- [El árbol](https://amzn.to/4eOay0p) 
+  John Fowles
 - [Seguir con el problema: Generar parentesco en el Chthuluceno](https://amzn.to/4gzPLN0) Donna J. Haraway
 
 ### En la estantería

@@ -2,6 +2,7 @@
 weight: 4
 bookFlatSection: false
 title: "Pequeña guía para hablar con los árboles y otros seres"
+description: "Guía para hablar con los árboles y otros seres"
 ---
 
 # Pequeña guía para hablar con los árboles y otros seres

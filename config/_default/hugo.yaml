@@ -3,6 +3,8 @@ title: It is within all of us
 theme: hugo-book-render-images
 disablePathToLower: true
 enableGitInfo: true
+pagination:
+  pagerSize: 100
 markup:
   goldmark:
     renderer:

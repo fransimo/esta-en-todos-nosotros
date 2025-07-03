@@ -10,15 +10,17 @@ bookToc: false
 
 ## Books
 
-- [In the Dark Places of Knowledge.](https://amzn.to/3WREkcI)
+- [In the Dark Places of Wisdom](https://a.co/d/gFJgGsC)
   Peter Kingsley
-- [Psychomagic](https://amzn.to/4jSsCIS) Alejandro Jodorowsky 
-- [Voices of Our Ancestors: Cherokee Teachings from the Wisdom Fire](https://amzn.to/4hJgdoo) Dhyani Ywahoo
-- [Psychedelic Mysteries of the Feminine. Creativity. Ecstasy. Healing](https://amzn.to/4aToS5t) 
+- [Psychomagic: The Transformative Power of Shamanic Psychotherapy](https://a.co/d/2fq4I9S) 
+  Alejandro Jodorowsky 
+- [Voices of Our Ancestors: Cherokee Teachings from the Wisdom Fire](https://a.co/d/gGsvm2P)
+  Dhyani Ywahoo
+- [Psychedelic Mysteries of the Feminine: Creativity, Ecstasy, and Healing](https://a.co/d/8nU73ru) 
   Maria Papaspyrou, Chiara Baldini, David Luke...
-- [The Tree](https://amzn.to/4eOay0p) 
+- [The Tree](https://a.co/d/63z1ozD) 
   John Fowles
-- [Staying with the Trouble: Making Kin in the Chthulucene](https://amzn.to/4gzPLN0) Donna J. Haraway
+- [Staying with the Trouble: Making Kin in the Chthulucene](https://a.co/d/iKeDvkM) Donna J. Haraway
 
 ### On the bookshelf
 

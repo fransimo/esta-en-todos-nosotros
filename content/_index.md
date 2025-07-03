@@ -1,6 +1,7 @@
 ---
 title: It is in all of us
 type: docs
+bookToc: false
 ---
 
 ![The Whisper of the Nymphs](/images/X1V45282-Enhanced-SR.jpg)

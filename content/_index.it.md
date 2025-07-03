@@ -1,6 +1,7 @@
 ---
 title: È in tutti noi
 type: docs
+bookToc: false
 ---
 
 ![Il sussurro delle ninfe](/images/X1V45282-Enhanced-SR.jpg)

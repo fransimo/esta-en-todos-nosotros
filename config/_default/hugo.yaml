@@ -1,6 +1,6 @@
 baseURL: https://esta-en-todos-nosotros.fransimo.info/
 title: It is within all of us
-theme: hugo-book
+theme: hugo-book-render-images
 disablePathToLower: true
 enableGitInfo: true
 markup:

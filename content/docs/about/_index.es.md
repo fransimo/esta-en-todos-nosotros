@@ -44,7 +44,7 @@ sanación y la expansión de la conciencia a través del arte.
 - [Instagram](https://www.instagram.com/fransimo)
 - [Artist web](https://fransimo.info/), [statement](https://fransimo.info/es/statement/)
 - [Linkedin](https://www.linkedin.com/in/fransimo/)
-- [CV detallado (solo en inglés)](https://fransimo.info/docs/cv/detailed_cv/)
+- [CV detallado](https://fransimo.info/es/docs/cv/detailed_cv/)
 
 
 

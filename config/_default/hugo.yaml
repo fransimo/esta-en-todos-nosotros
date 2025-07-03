@@ -26,8 +26,8 @@ params:
   BookTheme: light
   BookToC: true
   BookSection: docs
-  BookRepo: https://github.com/fransimo/esta-en-todos-nosotros
-  BookEditPath: edit/main
+  # BookRepo: https://github.com/fransimo/esta-en-todos-nosotros
+  # BookEditPath: edit/main
   BookDateFormat: January 2, 2006
   BookSearch: true
   BookComments: true

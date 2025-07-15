@@ -83,10 +83,9 @@ siempre.
 Sin juicio ni “castigo”, intentaremos, amablemente, volver la atención a las anclas. La práctica consiste en regresar la
 atención a las anclas una y otra vez. Si podemos mantener la atención en varias o en todas al mismo tiempo, mejor.
 
-Las anclas son: el cuerpo, la conciencia en la respiración, los sonidos y la conciencia del espacio interior (
-interocepción).
+Las anclas son: el cuerpo, la conciencia en la respiración, los sonidos y la conciencia del espacio interior (interocepción).
 
-Volver una y otra vez a las anclas es el trabajo. Si nuestra atención busca un objetivo "mistico" este se escapa.
+Volver una y otra vez a las anclas es el trabajo. 
 
 Una vez que hemos alcanzado una relativa tranquilidad _hacia adentro_, podemos abrir los ojos lentamente, dejar que el
 mundo entre en nosotros y sentir que somos el mundo, cambiando la dirección *hacia afuera*.

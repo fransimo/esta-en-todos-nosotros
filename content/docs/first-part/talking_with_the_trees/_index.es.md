@@ -18,9 +18,9 @@ los nidos de los pájaros. Creernos separados de la naturaleza es un síntoma de
 los ámbitos de nuestra vida. Es la expresión del ego. La misma que nos puede hacer creer que un palestino es diferente
 de un israelí.
 
-Necesitamos el ego para protegernos y para desarrollar la individualidad[^1] pero hemos perdido el equilibrio. Creer que
+Necesitamos el ego para protegernos y para desarrollar la individualidad[^1], pero hemos perdido el equilibrio. Creer que
 desde la mente racional y la individualidad podemos resolverlo todo es un error “moderno”, pero no tiene que ser un
-error fatal. Todavía podemos recuperar nuestra capacidades sensibles que van más allá de la mente racional y reconectar
+error fatal. Todavía podemos recuperar nuestras capacidades sensibles que van más allá de la mente racional y reconectar
 con nuestra esencia que está intrínsecamente vinculada con la vida.
 
 La vida es un pulso que vibra desde el Big Bang, o el Om, en cada uno de nosotros. Esa vida es, también, un puente para
@@ -29,7 +29,7 @@ nosotros.
 
 # Escuchar el bosque
 
-Mi invitación no es volver a una naturaleza idealizada y separada de lo humano, sino volver a la vida. A conectar con el
+La invitación no es volver a una naturaleza idealizada y separada de lo humano, sino volver a la vida. A conectar con el
 impulso interno de vivir y establecer un diálogo con los otros seres a través de ese movimiento que nos mece a todos y
 que podemos oír en el silencio. La vida nos guiará a un equilibrio.
 
@@ -38,8 +38,8 @@ Los árboles, el fluir del agua, las plantas de todos los tamaños y los animale
 flujo de vida[^2].
 
 Dejar que el mensaje codificado de la sabiduría de la vida se cuele en una obra es un camino para que el arte despierte
-conciencia. Este camino se basa en la meditación, la intuición como guías en una conversación con la vida, donde podemos
-aprender, pedir guía o dejarnos llevar. Si nos dejamos inundar de vida nuestras acciones se alinearán hacia el
+conciencia. Este camino se basa en la meditación y la intuición como guías en una conversación con la vida, donde
+podemos aprender, pedir guía o dejarnos llevar. Si nos dejamos inundar de vida nuestras acciones se alinearán hacia el
 equilibrio y la regeneración.
 
 # Meditación
@@ -60,7 +60,15 @@ cómo hacerlo, cambia la postura para estar más cómodo, tantas veces como sea 
 demasiado. Si no puedes evitar el dolor, deja la práctica. Tal vez mañana sea más fácil. No hay prisa.
 
 Respira como lo sientas, por nariz o boca, combinando. Es más importante prestar atención a cómo respiras que dirigir la
-respiración.
+respiración. Buscamos una actitud de escucha.
+
+Al finalizar la sesión puedes querer escribir o dibujar. Ten a mano tu libreta.
+
+Si vas a hacer la meditación en un lugar con poca conexión puedes descargar la guía o seguirla en YouTube. (Enlaces pendientes)
+
+Si tienes cristales de cuarzo los puedes utilizar. Si conoces Tameana, es una oportunidad para hacer un triángulo y activar el símbolo Hanena.
+
+Piensa la intención, la pregunta que quieres hacer al bosque, puede ser cualquier cosa, sobre qué quieres hablar con la vida. 
 
 ## Las direcciones de la atención
 
@@ -70,13 +78,17 @@ mindfulness van en esta dirección.
 Para explicar esta técnica, me gusta usar las enseñanzas de [Shatro](https://www.shastro.com/) sobre las 4 anclas. Estas
 anclas nos ayudan a encontrar un lugar donde poner la atención y diluir el pensamiento textual.
 
-La naturaleza de la mente es regresar constantemente a ese pensamiento textual. Esto no es un problema, pasará siempre.
+La naturaleza de la mente racional es regresar constantemente a ese pensamiento textual. Esto no es un problema, pasará
+siempre.
 Sin juicio ni “castigo”, intentaremos, amablemente, volver la atención a las anclas. La práctica consiste en regresar la
 atención a las anclas una y otra vez. Si podemos mantener la atención en varias o en todas al mismo tiempo, mejor.
 
-Las anclas son: el cuerpo, la conciencia en la respiración, los sonidos y la conciencia del espacio interior.
+Las anclas son: el cuerpo, la conciencia en la respiración, los sonidos y la conciencia del espacio interior (
+interocepción).
 
-Una vez que hemos alcanzado una relativa tranquilidad _hacia adentro_, podemos, lentamente, abrir los ojos, dejar que el
+Volver una y otra vez a las anclas es el trabajo. Si nuestra atención busca un objetivo "mistico" este se escapa.
+
+Una vez que hemos alcanzado una relativa tranquilidad _hacia adentro_, podemos abrir los ojos lentamente, dejar que el
 mundo entre en nosotros y sentir que somos el mundo, cambiando la dirección *hacia afuera*.
 
 Al abrir los ojos, usamos la _mirada ampliada_. Esto consiste en expandir la atención a la mayor parte del campo visual
@@ -86,6 +98,8 @@ que podamos abarcar. Un ejercicio que ayuda a desarrollar esta mirada es:
 2. Lentamente, abre los brazos hacia los lados mientras mantienes la vista en ambos pulgares.
 
 No se trata de competir para ver hasta dónde llegas; el propósito es explorar y ampliar la atención.
+
+La mirada ampliada es la quinta ancla.
 
 Podemos elegir qué parte del exterior queremos escuchar más, como si sintonizáramos nuestra atención. Lo que sucede
 fuera siempre ocurre también dentro, pero algunas cosas son más fáciles de percibir externamente.
@@ -122,9 +136,8 @@ respuesta con demasiada ansiedad. La respuesta llegará en su momento: tal vez e
 cocinando, duchándote o incluso soñando.
 
 Las respuestas suelen hablar en símbolos, seguramente no sean palabras. Pueden llegar como recuerdos inusuales, imágenes
-o sensaciones en el cuerpo. A veces, aparecen canciones que no recordabas y cuyo mensaje se revela al leer la letra.
-Muchas veces veo imágenes claras que interpreto en el momento. Si las respuestas son rápidas o abundantes, es útil
-anotarlas: lo que viste y cómo lo interpretaste.
+o sensaciones en el cuerpo. A veces, aparecen canciones que no recordabas y cuyo mensaje se revela al leer la letra. Si
+las respuestas son rápidas o abundantes, es útil anotarlas: lo que viste y cómo lo interpretaste.
 
 Si te abres a escuchar sin hacer preguntas, puede que recibas mensajes para otros. En esos casos, sabrás que tienes que
 contarle algo a alguien o llamarlo.
@@ -140,28 +153,34 @@ Para leer sobre cómo conectar con otros seres [puedes seguir leyendo aquí](and
 
 ## Antes de empezar
 
-Asegura tu comodidad en el lugar donde harás la meditación. Puedes practicar la mirada expandida entes de empezar.  
+Asegura tu comodidad en el lugar donde harás la meditación. Puedes practicar la mirada expandida entes de empezar. Puede
+ser útil que tengas una libreta, después de la sesión puedes querer escribir o dibujar.
+
+Puedes seguir las instrucciones descargando la guía en audio o, si tienes conexión, en YouTube.
 
 ## Hacia dentro
+
+Siéntate cómodo/a, si tienes una intención es el momento de recordarla. Si haces la práctica para hacer preguntas el 
+momento será conectar con el bosque.
+
+Comienza a llevar tu atención a las anclas.
 
 ### Ancla 1 - Sentir el cuerpo
 
 1. Peso del cuerpo siendo atraído por la gravedad: _Tierra_.
 2. Tendencia natural de la columna a estirarse y estar más cómoda recta, permitiendo una mejor inspiración: _Cielo_.
 
-Puedes usar cualquier secuencia de "exploración" corporal. A mí me gusta especialmente la siguiente:
-
-Dirige la conciencia hacia:
+Puedes usar cualquier secuencia de "exploración" corporal. Una posibilidad sería dirigir la conciencia hacia:
 
 1. Los pies.
 2. Las piernas.
 3. El pecho.
 4. La postura de la espalda.
 5. La cabeza.
-6. Repite la misma secuencia en el lado derecho.
+6. Repite la misma secuencia sólo en el lado derecho.
 7. Luego en el lado izquierdo.
 8. La columna y su conexión con el cielo.
-9. Todo el cuerpo.
+9. Vuelve a la percepción de todo el cuerpo.
 
 ### Ancla 2 - La conciencia de la respiración
 
@@ -186,17 +205,16 @@ los detalles, tanto próximos como distantes. Luego, si puedes, escucha el silen
 
 ## Hacia afuera
 
+Abre los ojos suavemente y deja entrar la luz despacio. Abre la mirada ampliada.
+
 Ahora, nuestra atención está simultáneamente dentro y fuera: en la respiración, las sensaciones, los sonidos, el cuerpo
 y la totalidad de lo que podemos ver.
-
 
 Imagina que entras en esa conexión. Percibe sus formas, sus colores. Respira profundamente y deja que esa vida entre en
 ti: los olores, los sonidos, una gota, una hoja que cae cerca o sobre ti. El tiempo del bosque es diferente.
 
 Abre tu corazón con cada inspiración y permite que la vida de afuera se encuentre con la vida de adentro. **Tú eres el
 bosque, tú eres la vida. Todo está en ti, solo necesitas recordarlo. Nunca ha estado en otra parte.**
-
-
 
 [^1]: Desarrollar la individualidad en algunas corrientes espirituales es considerado el deber de nuestra encarnación,
 para aportar una luz que complemente el espectro en la unidad. Que el alma encuentre una forma de brillar en resonancia

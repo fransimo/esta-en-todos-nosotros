@@ -3,6 +3,7 @@ weight: 4
 bookFlatSection: false
 title: "A Little Guide to Talking with Trees and Other Beings"
 description: "Guide to Talking with Trees and Other Beings"
+aliases: /trees/
 ---
 
 # A Little Guide to Talking with Trees and Other Beings

@@ -1,3 +1,10 @@
+---
+weight: 4
+bookFlatSection: false
+title: "Piccola guida per parlare con altri esseri"
+description: "Guida per parlare con altri esseri"
+---
+
 ### Ascoltare il compagno/a 
 
 Come con il bosco, possiamo connetterci con un altro essere umano. In effetti, è qualcosa che facciamo costantemente, anche se non sempre ne siamo consapevoli.

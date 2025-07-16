@@ -1,7 +1,7 @@
 ---
 weight: 4
 bookFlatSection: false
-title: "...y con otros seres"
+title: "Pequeña guía para hablar con otros seres"
 description: "Guía para hablar con otros seres"
 ---
 <div style="text-align: center">

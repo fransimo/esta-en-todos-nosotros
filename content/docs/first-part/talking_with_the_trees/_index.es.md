@@ -2,7 +2,7 @@
 weight: 4
 bookFlatSection: false
 title: "Pequeña guía para hablar con los árboles"
-description: "Guía para hablar con los árboles"
+description: "Aprender a hablar con los árboles"
 aliases: /arboles/
 ---
 

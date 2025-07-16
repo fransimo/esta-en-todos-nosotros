@@ -1,12 +1,12 @@
 ---
 weight: 4
 bookFlatSection: false
-title: "Small Guide to Talking with Trees"
-description: "Guide to Talking with Trees"
+title: "A Little Guide to Talking with Trees"
+description: "Learn to talk with Trees"
 aliases: /trees/
 ---
 
-# Small Guide to Talking with Trees
+# A Little Guide to Talking with Trees
 
 <div style="text-align: center">
 <span style="background-color: lime">Meditation</span> is the only possible <s>r</s><span style="background-color: lime">evolution</span>.

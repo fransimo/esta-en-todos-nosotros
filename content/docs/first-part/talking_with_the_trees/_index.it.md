@@ -275,6 +275,8 @@ Apri il tuo cuore ad ogni respiro e permetti alla vita esterna di
 incontrare quella interna. **Tu sei la foresta, tu sei la vita. È tutto
 dentro di te, devi solo ricordarlo. Non è mai stata altrove.**
 
+> Tradotto in italiano da DeepL
+
 [^1]: Sviluppare l\'individualità in alcuni flussi spirituali è
     considerato il dovere della nostra incarnazione, per portare una
     luce che completi lo spettro nell\'unità. Che l\'anima trovi un modo

@@ -14,6 +14,7 @@ pandoc tmp.md  -f gfm -t pdf -o tmp.pdf  \
       -V monofont="DejaVu Sans Mono" \
       -V fontsize=12pt ## --toc
 
+exit 0
 
 curl -X 'POST' \
   'http://localhost:5555/translate_file' \

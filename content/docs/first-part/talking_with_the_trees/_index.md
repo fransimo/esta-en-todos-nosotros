@@ -102,7 +102,7 @@ If you open yourself to listen without asking questions, you may receive message
 
 Just as with the forest, we can connect with another human being. In fact, it is something we are constantly doing, though we are not always aware of it.
 
-To read about how to connect with other beings [you can continue reading here](https://www.google.com/search?q=and_others_beings).
+To read about how to connect with other beings [you can continue reading here](and_others_beings).
 
 # Step-by-Step Guide
 

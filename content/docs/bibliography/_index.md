@@ -29,6 +29,9 @@ bookToc: false
 - [The Golden Chain of Orpheus](https://amzn.to/4gwzloI), Joscelyn Godwin
 - Shamanism and the Archaic Techniques of Ecstasy, Mircea Eliade
 - The Myth of the Goddess, Anne Baring and Jules Cashford
+- Alain Daniélou:
+  - While the Gods Play
+  - "Shiva and Dionysus". The Omnipresent Gods of Transcendence and Ectasy
 
 ## Artists
 

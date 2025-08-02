@@ -27,6 +27,9 @@ bookToc: false
 - [La cadena áurea de Orfeo](https://amzn.to/4gwzloI), Joscelyn Godwin
 - El chamanismo y las técnicas arcaicas del éxtasis, Mircea Eliade
 - El mito de la diosa, Anne Baring y Jules Cashford
+- Alain Daniélou:
+  - Mientras juegan los dioses
+  - Shiva y Dionisos
 
 ## Artistas
 

@@ -5,12 +5,25 @@ disablePathToLower: true
 enableGitInfo: true
 pagination:
   pagerSize: 100
+
+# Images
+imaging:
+  quality: 78
+  resampleFilter: Lanczos
+  hint: photo
+
+# Needed for mermaid/katex shortcodes
 markup:
   goldmark:
     renderer:
       unsafe: true
+    parser:
+      wrapStandAloneImageWithinParagraph: false
+      attribute:
+        block: true
   tableOfContents:
     startLevel: 1
+
 languages:
   en:
     languageName: English

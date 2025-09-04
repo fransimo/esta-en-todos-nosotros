@@ -8,7 +8,7 @@ aliases: /trees/
 
 # A Little Guide to Talking with Trees
 
-<div style="text-align: center">
+<div style="text-align: center; font-size:30px">
 <span style="background-color: lime">Meditation</span> is the only possible <s>r</s><span style="background-color: lime">evolution</span>.
 </div>
 

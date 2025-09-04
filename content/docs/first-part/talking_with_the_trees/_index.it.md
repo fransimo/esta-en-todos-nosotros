@@ -6,7 +6,7 @@ description: "Guida per parlare con gli alberi e altri esseri"
 ---
 # iccola guida per parlare con gli alberi
 
-<div style="text-align: center">
+<div style="text-align: center; font-size:30px">
 La <span style="background-color: lime">meditazione</span> è l'unica <s>r</s><span style="background-color: lime">ivoluzione</span> possibile.
 </div>
 

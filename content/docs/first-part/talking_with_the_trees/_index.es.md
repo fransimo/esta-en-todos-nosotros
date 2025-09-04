@@ -8,7 +8,7 @@ aliases: /arboles/
 
 # Pequeña guía para hablar con los árboles
 
-<div style="text-align: center">
+<div style="text-align: center; font-size:30px">
 La <span style="background-color: lime">meditación</span> es la única <s>r</s><span style="background-color: lime">evolución</span> posible.
 </div>
 

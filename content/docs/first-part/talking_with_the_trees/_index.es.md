@@ -20,12 +20,12 @@ de un israelí.
 
 Necesitamos el ego para protegernos y para desarrollar la individualidad[^1], pero hemos perdido el equilibrio. Creer que
 desde la mente racional y la individualidad podemos resolverlo todo es un error “moderno”, pero no tiene que ser un
-error fatal. Todavía podemos recuperar nuestras capacidades sensibles que van más allá de la mente racional y reconectar
+error irremediable. Todavía podemos recuperar nuestras capacidades sensibles que van más allá de la mente racional y reconectar
 con nuestra esencia que está intrínsecamente vinculada con la vida.
 
-La vida es un pulso que vibra desde el Big Bang, o el Om, en cada uno de nosotros. Esa vida es, también, un puente para
-*hablar* con los otros seres que nos acompañan. Sentir la vida en nosotros es un paso para sentirla moviéndose entre
-nosotros.
+La vida es un pulso que vibra desde el origen del universo en cada uno de nosotros. Esa vida es, también, 
+un puente para *hablar* con los otros seres que nos acompañan. Sentir la vida en nosotros es un paso para sentirla 
+moviéndose entre nosotros.
 
 # Escuchar el bosque
 
@@ -49,8 +49,8 @@ antes serán palabras vacías.
 
 La meditación o la vida no se pueden describir con palabras. Hay que experimentarlas.
 
-Si somos afortunados como artistas podemos evocar el anhelo para que quién nos oiga sienta el impulso de vivir, o
-meditar.
+Si somos afortunados alguna de nuestras obras podrán evocar el anhelo de ese impulso de la vida original, esa expansión,
+ese movimiento, ese beso que hará que otros vibren y conecten con la vida. 
 
 ## Preparación
 
@@ -66,17 +66,16 @@ Al finalizar la sesión puedes querer escribir o dibujar. Ten a mano tu libreta.
 
 Si vas a hacer la meditación en un lugar con poca conexión puedes descargar la guía o seguirla en YouTube. (Enlaces pendientes)
 
-Si tienes cristales de cuarzo los puedes utilizar. Si conoces Tameana, es una oportunidad para hacer un triángulo y activar el símbolo Hanena.
-
-Piensa la intención, la pregunta que quieres hacer al bosque, puede ser cualquier cosa, sobre qué quieres hablar con la vida. 
+Piensa la intención, la pregunta que quieres hacer al bosque, puede ser cualquier cosa, sobre qué quieres hablar con la 
+vida. También puedes simplemente abrirte a la experiencia de escuchar la vida. 
 
 ## Las direcciones de la atención
 
-Cuando nos hablan de meditación, casi siempre se refieren a una práctica de atención *hacia adentro*. Vipassana y el
-mindfulness van en esta dirección.
+Cuando nos hablan de meditación, casi siempre se refieren a una práctica de atención *hacia adentro*. El
+mindfulness va en esta dirección.
 
-Para explicar esta técnica, me gusta usar las enseñanzas de [Shatro](https://www.shastro.com/) sobre las 4 anclas. Estas
-anclas nos ayudan a encontrar un lugar donde poner la atención y diluir el pensamiento textual.
+Para explicar esta técnica, me gusta usar las enseñanzas del profesor [Shatro](https://www.shastro.com/) sobre las 4 anclas. 
+Estas anclas nos ayudan a encontrar un lugar donde poner la atención y diluir el pensamiento textual.
 
 La naturaleza de la mente racional es regresar constantemente a ese pensamiento textual. Esto no es un problema, pasará
 siempre.
@@ -110,8 +109,8 @@ o una ola. A veces se manifiesta como calor, especialmente a través del tacto. 
 Muchos creen que hubo una nota original de la que todas las demás son resonancias armónicas (el Om, el Verbo que se hace
 carne, el Big Bang, etc.).
 
-[Cristina Ratti](https://biodinamicacraneosacral.org/es/profesores/) usa la analogía del mar para explicar esta sinfonía
-de movimientos:
+[Cristina Ratti](https://biodinamicacraneosacral.org/es/profesores/), profesora de biodinámica craneosacral, usa 
+la analogía del mar para explicar esta sinfonía de movimientos:
 
 - **Las olas en la superficie**: rápidas, más o menos fuertes, siempre en constante cambio.
 - **Las corrientes, a unos metros de profundidad**: movimientos más lentos y con direcciones más estables.
@@ -134,9 +133,10 @@ En el ir y venir de tu respiración, si tienes algo que preguntar, hazlo. Luego,
 respuesta con demasiada ansiedad. La respuesta llegará en su momento: tal vez en el instante, o más tarde, cuando estés
 cocinando, duchándote o incluso soñando.
 
-Las respuestas suelen hablar en símbolos, seguramente no sean palabras. Pueden llegar como recuerdos inusuales, imágenes
-o sensaciones en el cuerpo. A veces, aparecen canciones que no recordabas y cuyo mensaje se revela al leer la letra. Si
-las respuestas son rápidas o abundantes, es útil anotarlas: lo que viste y cómo lo interpretaste.
+Las respuestas suelen hablar en símbolos, seguramente no sean palabras. Pueden ser internos y llegar como recuerdos 
+inusuales, imágenes o sensaciones en el cuerpo. A veces, aparecen canciones que no recordabas y cuyo mensaje se revela 
+al leer la letra. También pueden ser externos, como un animal que se acerca, el viento que lleva tu atención hacia un objeto, etc. 
+Si las respuestas son rápidas o abundantes, es útil anotarlas: lo que viste y cómo lo interpretaste.
 
 Si te abres a escuchar sin hacer preguntas, puede que recibas mensajes para otros. En esos casos, sabrás que tienes que
 contarle algo a alguien o llamarlo.
@@ -152,8 +152,7 @@ Para leer sobre cómo conectar con otros seres [puedes seguir leyendo aquí](and
 
 ## Antes de empezar
 
-Asegura tu comodidad en el lugar donde harás la meditación. Puedes practicar la mirada expandida entes de empezar. Puede
-ser útil que tengas una libreta, después de la sesión puedes querer escribir o dibujar.
+Asegura tu comodidad en el lugar donde harás la meditación. Puedes practicar la mirada expandida entes de empezar. 
 
 Puedes seguir las instrucciones descargando la guía en audio o, si tienes conexión, en YouTube.
 
@@ -187,7 +186,7 @@ Puedes usar cualquier secuencia de "exploración" corporal. Una posibilidad ser�
 2. Exhalación: dejar ir, relajarse, muerte.
 
 Cada vez que inhalamos, la vida entra en nosotros. Cada vez que exhalamos, la vida sale de nosotros y dejamos ir:
-tensiones, ideas, el cuerpo… Morimos… y volvemos a nacer en la siguiente inhalación.
+tensiones, ideas, el cuerpo... morimos… y volvemos a nacer en la siguiente inhalación.
 
 ### Ancla 3 - Sonido
 

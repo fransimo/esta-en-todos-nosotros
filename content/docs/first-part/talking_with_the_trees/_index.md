@@ -14,9 +14,9 @@ aliases: /trees/
 
 Nothing happens outside of nature. A subway station 100 meters underground is as natural as a forest or bird nests. Believing ourselves separated from nature is a symptom of our blindness that extends to all areas of our lives. It is the expression of the ego. The same ego that can make us believe a Palestinian is different from an Israeli.
 
-We need the ego to protect ourselves and to develop individuality[^1], but we have lost balance. Believing that we can solve everything from the rational mind and individuality is a "modern" mistake, but it doesn't have to be a fatal one. We can still recover our sensitive capacities that go beyond the rational mind and reconnect with our essence, which is intrinsically linked to life.
+We need the ego to protect ourselves and develop individuality, but we have lost our balance. Believing that we can solve everything with our rational minds and individuality is a ‘modern’ mistake, but it does not have to be an irreparable one. We can still recover our sensitive abilities that go beyond the rational mind and reconnect with our essence, which is intrinsically linked to life.
 
-Life is a pulse that vibrates from the Big Bang, or the Om, within each of us. This life is also a bridge to *speak* with the other beings that accompany us. Feeling life within us is a step towards feeling it moving among us.
+Life is a pulse that has been vibrating since the origin of the universe in each one of us. That life is also a bridge to *talk* to the other beings that accompany us. Feeling life within us is a step towards feeling it moving among us.
 
 # Listening to the Forest
 
@@ -32,7 +32,7 @@ You cannot feel a kiss in a verse: it will never be a kiss. The best poet can ev
 
 Meditation or life cannot be described with words. They must be experienced.
 
-If we are fortunate as artists, we can evoke the longing so that whoever hears us feels the impulse to live, or to meditate.
+If we are fortunate, some of our works may evoke the longing for that impulse of original life, that expansion, that movement, that kiss that will make others vibrate and connect with life. 
 
 ## Preparation
 
@@ -44,15 +44,13 @@ At the end of the session, you might want to write or draw. Have your notebook h
 
 If you are going to do the meditation in a place with poor connection, you can download the guide or follow it on YouTube. (Links pending)
 
-If you have quartz crystals, you can use them. If you know Tameana, this is an opportunity to make a triangle and activate the Hanena symbol.
-
-Think about your intention, the question you want to ask the forest; it can be anything, about what you want to talk about with life.
+Think about your intention, the question you want to ask the forest. It can be anything about what you want to talk about with life. You can also simply open yourself to the experience of listening to life. 
 
 ## The Directions of Attention
 
-When we are told about meditation, it almost always refers to a practice of attention *inward*. Vipassana and mindfulness go in this direction.
+When people talk about meditation, they are almost always referring to a practice of *inward* attention. Mindfulness goes in this direction.
 
-To explain this technique, I like to use [Shastro](https://www.shastro.com/)'s teachings on the 4 anchors. These anchors help us find a place to put our attention and dissolve textual thought.
+To explain this technique, I like to use the teachings of Professor [Shatro](https://www.shastro.com/) on the 4 anchors. These anchors help us find a place to focus our attention and dilute textual thinking.
 
 The nature of the rational mind is to constantly return to textual thought. This is not a problem; it will always happen. Without judgment or "punishment," we will kindly try to return our attention to the anchors. The practice consists of returning attention to the anchors again and again. If we can maintain attention on several or all at the same time, even better.
 
@@ -77,7 +75,7 @@ Energy, life, or whatever one wants to call it (chi, ki, prana, breath of life, 
 
 Many believe there was an original note from which all others are harmonic resonances (the Om, the Word made flesh, the Big Bang, etc.).
 
-[Cristina Ratti](https://biodinamicacraneosacral.org/es/profesores/) uses the analogy of the sea to explain this symphony of movements:
+[Cristina Ratti](https://biodinamicacraneosacral.org/es/profesores/), a teacher of craniosacral biodynamics, uses the analogy of the sea to explain this symphony of movements:
 
   - **The waves on the surface**: fast, more or less strong, always constantly changing.
   - **The currents, a few meters deep**: slower movements with more stable directions.
@@ -94,7 +92,7 @@ The forest is a network of life that connects many beings and extends beyond wha
 
 In the ebb and flow of your breath, if you have something to ask, do so. Then, forget the question and avoid anxiously waiting for an answer. The answer will come in its own time: perhaps instantly, or later, when you are cooking, showering, or even dreaming.
 
-Answers usually speak in symbols; they are probably not words. They might arrive as unusual memories, images, or sensations in the body. Sometimes, forgotten songs appear, and their message is revealed when you read the lyrics. If answers are quick or abundant, it's helpful to write them down: what you saw and how you interpreted it.
+The answers often speak in symbols, probably not words. They can be internal and come as unusual memories, images, or sensations in the body. Sometimes, songs you didn't remember appear, and their message is revealed when you read the lyrics. They can also be external, such as an animal approaching, the wind drawing your attention to an object, etc.  If the answers are quick or abundant, it is useful to write them down: what you saw and how you interpreted it. 
 
 If you open yourself to listen without asking questions, you may receive messages for others. In such cases, you will know that you need to tell someone something or call them.
 
@@ -108,7 +106,7 @@ To read about how to connect with other beings [you can continue reading here](a
 
 ## Before You Begin
 
-Ensure your comfort in the place where you will meditate. You can practice the expanded gaze before you start. It might be helpful to have a notebook; after the session, you might want to write or draw.
+Ensure your comfort in the place where you will meditate. You can practise the expanded gaze before you begin. 
 
 You can follow the instructions by downloading the audio guide or, if you have a connection, on YouTube.
 
@@ -140,7 +138,7 @@ You can use any sequence of body "exploration." One possibility would be to dire
 1.  Inhalation: life, energy, vitality.
 2.  Exhalation: letting go, relaxing, death.
 
-Each time we inhale, life enters us. Each time we exhale, life leaves us and we let go: tensions, ideas, the body... We die... and are reborn in the next inhalation.
+Each time we inhale, life enters us. Each time we exhale, life leaves us and we let go: tensions, ideas, the body... we die... and are reborn in the next inhalation.
 
 ### Anchor 3 - Sound
 

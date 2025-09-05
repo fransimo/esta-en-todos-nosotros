@@ -14,7 +14,7 @@ aliases: /trees/
 
 Nothing happens outside of nature. A subway station 100 meters underground is as natural as a forest or bird nests. Believing ourselves separated from nature is a symptom of our blindness that extends to all areas of our lives. It is the expression of the ego. The same ego that can make us believe a Palestinian is different from an Israeli.
 
-We need the ego to protect ourselves and develop individuality, but we have lost our balance. Believing that we can solve everything with our rational minds and individuality is a ‘modern’ mistake, but it does not have to be an irreparable one. We can still recover our sensitive abilities that go beyond the rational mind and reconnect with our essence, which is intrinsically linked to life.
+We need the ego to protect ourselves and develop individuality[^1], but we have lost our balance. Believing that we can solve everything with our rational minds and individuality is a ‘modern’ mistake, but it does not have to be an irreparable one. We can still recover our sensitive abilities that go beyond the rational mind and reconnect with our essence, which is intrinsically linked to life.
 
 Life is a pulse that has been vibrating since the origin of the universe in each one of us. That life is also a bridge to *talk* to the other beings that accompany us. Feeling life within us is a step towards feeling it moving among us.
 

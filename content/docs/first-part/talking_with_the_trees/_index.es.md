@@ -74,7 +74,7 @@ vida. También puedes simplemente abrirte a la experiencia de escuchar la vida.
 Cuando nos hablan de meditación, casi siempre se refieren a una práctica de atención *hacia adentro*. El
 mindfulness va en esta dirección.
 
-Para explicar esta técnica, me gusta usar las enseñanzas del profesor [Shatro](https://www.shastro.com/) sobre las 4 anclas. 
+Para explicar esta técnica, me gusta usar las enseñanzas del profesor [Shastro](https://www.shastro.com/) sobre las 4 anclas. 
 Estas anclas nos ayudan a encontrar un lugar donde poner la atención y diluir el pensamiento textual.
 
 La naturaleza de la mente racional es regresar constantemente a ese pensamiento textual. Esto no es un problema, pasará

@@ -96,7 +96,7 @@ pratica di attenzione *interiore*. La Vipassana e la mindfulness vanno
 in questa direzione.
 
 Per spiegare questa tecnica, mi piace utilizzare gli insegnamenti di
-[Shatro](https://www.shastro.com/) sulle 4 ancore. Queste ancore ci
+[Shastro](https://www.shastro.com/) sulle 4 ancore. Queste ancore ci
 aiutano a trovare un luogo dove porre la nostra attenzione e a diluire
 il pensiero testuale.
 

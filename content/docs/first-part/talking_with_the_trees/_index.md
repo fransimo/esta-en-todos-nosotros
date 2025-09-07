@@ -50,7 +50,7 @@ Think about your intention, the question you want to ask the forest. It can be a
 
 When people talk about meditation, they are almost always referring to a practice of *inward* attention. Mindfulness goes in this direction.
 
-To explain this technique, I like to use the teachings of Professor [Shatro](https://www.shastro.com/) on the 4 anchors. These anchors help us find a place to focus our attention and dilute textual thinking.
+To explain this technique, I like to use the teachings of Professor [Shastro](https://www.shastro.com/) on the 4 anchors. These anchors help us find a place to focus our attention and dilute textual thinking.
 
 The nature of the rational mind is to constantly return to textual thought. This is not a problem; it will always happen. Without judgment or "punishment," we will kindly try to return our attention to the anchors. The practice consists of returning attention to the anchors again and again. If we can maintain attention on several or all at the same time, even better.
 

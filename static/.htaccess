@@ -1,0 +1,16 @@
+# Enable rewriting
+RewriteEngine On
+
+# 1) Redirect /docs/ and all its subpaths to the new docs base, preserving the remainder + querystring
+#    /docs/foo/bar?x=1  ->  https://fransimo.info/docs/art/It_is_in_all_of_us/foo/bar?x=1
+RewriteRule ^docs/?(.*)$ https://fransimo.info/docs/art/It_is_in_all_of_us/$1 [R=301,L,QSA,NE]
+
+# 2) Redirect any other path to fransimo.info keeping the same URI + querystring
+#    /about?ref=abc  ->  https://fransimo.info/about?ref=abc
+RewriteRule ^(.*)$ https://fransimo.info/$1 [R=301,L,QSA,NE]
+
+
+ErrorDocument 404 /404.html
+
+# Header set x-ipfs-path "/ipns/k51qzi5uqu5dhiu7v9v01yb6i69yu4luny793hwl19knqbqdgv97x7s949h0h1%{REQUEST_URI}s"
+
